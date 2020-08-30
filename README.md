@@ -37,7 +37,7 @@ Summer
   * Along Stångån in Linkoping center
   * Hiking in [Omberg](https://www.sveaskog.se/jakt-fiske-och-friluftsliv/besoksomraden/ekopark-omberg/)
   * Hiking in [Tinnerö](http://www.linkoping.se/bygga-bo-och-miljo/naturvard-och-parkskotsel/naturreservat/tinnero-eklandskap/)
-  * Walks in [Vidinsjö motion center](http://www.linkoping.se/leanlink/stod-service/skotsel-av-natur-och-motionsomraden/vidingsjo-motionscentrum-och-cafe-vidingsjo/)
+  * Walks in [Vidinsjö motion center](https://www.linkoping.se/leanlink/stod-service/vidingsjo-motionscentrum-och-cafe-vidingsjo/)
   * Visit [Trollegater caves](https://www.lansstyrelsen.se/ostergotland/besoksmal/naturreservat/trollegater-naturreservat.html)
   * Hike along parts of [Östgötaleden](https://www.visitostergotland.se/ostgotaleden/)
   * Hiking in [Torpön](https://www.visitostergotland.se/144769/Torpon-i-Sommen/)
@@ -53,9 +53,8 @@ Summer
 * Other
   * Tree climbing parks: [Äventyrspark](https://www.aventyrsupplevelser.com) with fantastic zip line over a lake and a smaller alternative by [HaMa Adventures](https://www.hamaadventures.com/)
   * Boat trips to [Fyrudden archipelago](http://www.harstena.se/kommunikationer/skargardstrafiken.htm)
-  * [Farmers own market](http://www.ostgotamat.se/ovriga-artiklar/bonden-egen-marknad)
   * [Kolmården](https://www.kolmarden.com/), big animal park
-  * [Björkö 4H](https://bjorko4hgard.se/) petting zoo, where kids can touch animals
+  * [Björkö 4H](http://www.bjorko4hgard.se/) petting zoo, where kids can touch animals
 * Events
   * [Linkoping city week](https://visitlinkoping.se/linkopingsstadsfest), end of August
   * [Medieval weekend](http://www.gastabud.se/), in Soderkoping in the end of August
@@ -70,7 +69,7 @@ Autumn
   * [Östgötadagarna](https://www.ostgotadagarna.se/sv/), with open doors at local shops, farms, artists in September
   * [Mjärdevi by night](https://mjardevi.se/event/science-park-by-night/) in September
   * [Norrköping Kulturnatten](http://letscreate.norrkoping.se/kulturnatten.html), culture night full of activities in September
-  * Student spexet theatre performance by [StudentSpex](http://www.studentspex.se/) and [HolgerSpexet](https://www.holgerspexet.se/)
+  * Student spexet theatre performance by [StudentSpex](https://www.studentspex.se/) and [HolgerSpexet](https://www.holgerspexet.se/)
 
 Winter
 ---------------------
@@ -88,7 +87,7 @@ Winter
 
 Spring
 ---------------------
-* [Kosläpp](https://www.thelocal.se/20190409/swedish-word-of-the-day-koslapp), release of cows in different places in the end of April
+* [Kosläpp](https://www.arla.se/event-sponsring/koslapp/live/), release of cows in different places in the end of April
 
 Any time
 ---------------------
