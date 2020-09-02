@@ -27,6 +27,8 @@ jobs:
     # Runs verification of links in Markdown files
     - name: Run Markdown links verification
       run: |
+        set -e
         git clone https://github.com/tcort/markdown-link-check.git
         npm install markdown-link-check
         ./markdown-link-check/markdown-link-check "${GITHUB_WORKSPACE}/README.md"
+        ./markdown-link-check/markdown-link-check "${GITHUB_WORKSPACE}/team_building_activities.md"
