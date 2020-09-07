@@ -7,9 +7,9 @@ To update the list, please create a pull request or contact me. If you would lik
 
 Escape rooms / riddles
 ----------------------
-* [Escapehouse](https://escapehouse.se/) in Linköping and Norrköping
+* [Escape House](https://escapehouse.se/) in Linköping and Norrköping
 * [Fox In a Box](https://roomescapelive.se/mobile_room) organizes an escape room even at your location
-* [TwistedKeys](https://www.twistedkeys.com/en/) in Norrköping
+* [Twisted Keys](https://www.twistedkeys.com/en/) in Norrköping
 * [Questropolis](https://questropolis.se/) solve puzzles with your phone in your city
 
 Food / degustations
@@ -34,7 +34,7 @@ Sport / active
 * [Rimforsa strand](https://www.rimforsastrand.se/se-och-gora/teamaktiviteter/)'s collection of activities like shooting, knock on wood, team challenges
 * [Yoump](https://www.yoump.se/aktiviteter) a trampoline park
 * Introduction to [Archery](https://www.linkopingsskf.se/bagskyttesektionen/eventforsallskap/)
-* Kayaking/canoeing in [Vårdnös Stiftsgård](http://www.vardnas.se/)
+* Kayaking/canoeing in [Vårdnäs Stiftsgård](http://www.vardnas.se/)
 
 Theater performances
 --------------------

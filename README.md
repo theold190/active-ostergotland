@@ -14,9 +14,9 @@ Summer
   * A day long kayaking & canoeing in [Vårdnös Stiftsgård](http://www.vardnas.se/)
   * [Explore Göta Canal between Berg and Borensberg](http://glasbruket.com/aktiviteter/)
   * [Grebo kayaking](http://www.grebokajak.se/en/startpage/) with self service kayaks
-* Självplock (collecting fruits, berries and vegetables yourself)
+* Självplock (collecting fruits, berries and vegetables yourself on a farm)
   * Strawberries at [Tift farm](http://tift.se/), close to Linkoping
-  * Strawberries at [Skedevi farm](http://www.skedevijordgubbar.se/), a bit far from Linkoping
+  * Strawberries at [Skedevi farm](http://www.skedevijordgubbar.se/), a bit far from Linköping
   * Raspberries at [Kallstops Eko-Bär](https://www.kallstorpsekobar.se/)
   * Vegetables from[Tomatboden](http://www.tomatboden.se/aktuellt/)
   * [Various products from farmers](https://www.gardsnara.se/ostergotland)
@@ -37,7 +37,7 @@ Summer
   * Downhill mountain biking in [Yxbaken cykelpark](https://www.yxbacken.nu/cykelpark)
 * Walks in nature
   * [Tiveden Nationalpark](https://www.sverigesnationalparker.se/park/tivedens-nationalpark/)
-  * Along Stångån in Linkoping center
+  * Along Stångån in Linköping center
   * Hiking in [Omberg](https://www.sveaskog.se/jakt-fiske-och-friluftsliv/besoksomraden/ekopark-omberg/)
   * Hiking in [Tinnerö](http://www.linkoping.se/bygga-bo-och-miljo/naturvard-och-parkskotsel/naturreservat/tinnero-eklandskap/)
   * Walks in [Vidinsjö motion center](https://www.linkoping.se/leanlink/stod-service/vidingsjo-motionscentrum-och-cafe-vidingsjo/)
@@ -59,13 +59,13 @@ Summer
   * [Kolmården](https://www.kolmarden.com/), big animal park
   * [Björkö 4H](http://www.bjorko4hgard.se/) petting zoo, where kids can touch animals
 * Events
-  * [Linkoping city week](https://visitlinkoping.se/linkopingsstadsfest), end of August
+  * [Linköping city week](https://visitlinkoping.se/linkopingsstadsfest), end of August
   * [Medieval weekend](http://www.gastabud.se/), in Soderkoping in the end of August
 
 Autumn
 ---------------------
 * Apple collection on the streets and in the gardens
-  * Some good apples can be found in Gamla Linkoping
+  * Some good apples can be found in Gamla Linköping
 * Mushrooms collection in the forests
 * [Bondens egen Marknad](http://marknader.bondensegen.com/marknad.php?markID=5), farmers' own market
 * Events
@@ -81,8 +81,8 @@ Winter
   * [Yxbaken](https://www.yxbacken.nu/) in Norrköping
   * [Ombergsliden](http://ombergsliden.se/) in Omberg
 * [Winter lights walks](https://www.linkoping.se/vinterljus)
-  * [Vinterljus](https://www.linkoping.se/vinterljus) in Linkoping
-  * [Light festival](https://norrkopinglightfestival.se/) in Norrkoping
+  * [Vinterljus](https://www.linkoping.se/vinterljus) in Linköping
+  * [Light festival](https://norrkopinglightfestival.se/) in Norrköping
 * [Julbord](http://www.julbordsportalen.se/julbord-i-linkoping), traditional Christmas buffets
 * Julmarknad, traditional Christmas markets (ex. in Gamla Linköping, Ekenäs Slott)
 * Events
@@ -97,6 +97,6 @@ Any time
 * [Bowling](http://www.strandgatantva.se/)
 * [Yoump](https://www.yoump.se/parker/linkoping), trampoline park
 * Escape rooms
-  * [Excape house](https://escapehouse.se/) in Linkoping and Norrkoping
-  * [Twisted Keys](http://www.twistedkeys.com/en/home/) in Norrkoping
+  * [Excape house](https://escapehouse.se/) in Linköping and Norrköping
+  * [Twisted Keys](http://www.twistedkeys.com/en/home/) in Norrköping
 * [Swedish Air Force Museum](http://www.flygvapenmuseum.se/languages/engelska/)
