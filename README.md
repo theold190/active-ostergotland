@@ -34,6 +34,7 @@ Summer
   * Bike along Stångan
   * A day trip biking around Visingsö near Gränna
   * [Mera Lera course](https://www.meraleramtb.com/meraleramtb/sida/69548/skills-area-vidingsjo) in Vidingsjö for mountain bikes
+  * Downhill mountain biking in [Yxbaken cykelpark](https://www.yxbacken.nu/cykelpark)
 * Walks in nature
   * [Tiveden Nationalpark](https://www.sverigesnationalparker.se/park/tivedens-nationalpark/)
   * Along Stångån in Linkoping center
