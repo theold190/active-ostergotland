@@ -97,8 +97,9 @@ Spring
 Any time
 ---------------------
 * [Bowling](http://www.strandgatantva.se/)
-* [Yoump](https://www.yoump.se/parker/linkoping), trampoline park
+* Cultural events in [Skylten](https://www.linkoping.se/skylten/)
 * Escape rooms
   * [Excape house](https://escapehouse.se/) in Linköping and Norrköping
   * [Twisted Keys](http://www.twistedkeys.com/en/home/) in Norrköping
 * [Swedish Air Force Museum](http://www.flygvapenmuseum.se/languages/engelska/)
+* [Yoump](https://www.yoump.se/parker/linkoping), trampoline park
