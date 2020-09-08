@@ -58,6 +58,8 @@ Summer
   * Boat trips to [Fyrudden archipelago](http://www.harstena.se/kommunikationer/skargardstrafiken.htm)
   * [Kolmården](https://www.kolmarden.com/), big animal park
   * [Björkö 4H](http://www.bjorko4hgard.se/) petting zoo, where kids can touch animals
+  * [Vikbolands Struts](https://vikbolandsstruts.se/) an ostrich farm with a small petting zoo
+  * Try obstacle course races with [Linköping OCR](https://www.facebook.com/linkopingocr)
 * Events
   * [Linköping city week](https://visitlinkoping.se/linkopingsstadsfest), end of August
   * [Medieval weekend](http://www.gastabud.se/), in Soderkoping in the end of August
