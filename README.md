@@ -15,6 +15,7 @@ Summer
   * [Explore Göta Canal between Berg and Borensberg](http://glasbruket.com/aktiviteter/)
   * [Grebo kayaking](http://www.grebokajak.se/en/startpage/) with self service kayaks
 * Självplock (collecting fruits, berries and vegetables yourself on a farm)
+  * Get fruits and berries from locals ([Fruktförmedlingen](https://www.aktavara.org/fruktformedlingen)) and public places ([Fruktkarnat](https://fruktkartan.se/))
   * Strawberries at [Tift farm](http://tift.se/), close to Linkoping
   * Strawberries at [Skedevi farm](http://www.skedevijordgubbar.se/), a bit far from Linköping
   * Raspberries at [Kallstops Eko-Bär](https://www.kallstorpsekobar.se/)
