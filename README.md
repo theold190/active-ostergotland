@@ -1,4 +1,4 @@
-Östergötland's activities ![Check links](https://github.com/theold190/active-ostergotland/workflows/Check%20links/badge.svg?event=schedule)
+Östergötland's activities
 ========================================
 
 Here is a collection of ideas for various type of activities in [Östergötland](https://en.wikipedia.org/wiki/%C3%96sterg%C3%B6tland). List is based on personal experience, ideas and tips from friends. For convenience, activities are divided by seasons of the year. Feel free to share the information with others.
