@@ -23,18 +23,20 @@ Sport / active
 --------------
 * [AktivGruppen](https://www.aktivgruppen.se/kickoff-aktiviteter/) offers a set of kick off activities
 * [Äventyrspark](https://aventyrsupplevelser.com/) a climbing park with a zip line over a lake
+* [Bodaborg](https://www.bodaborg.se/#intro) a place with various challenge rooms
 * [Ballpoint Paintball](http://www.ballpoint.se/)
 * [Beach Arena](https://beacharena.se/event-och-foretag/event/) with events on sand all year around
 * [Curling](http://www.mjolbycurling.se/?page_id=1224) in Mjölby
 * [Färgboll](https://www.fargboll.se/kulskytte/) activities like archery combat, dirt bike track and a shooting range
 * [Go-karting](http://magpgokart.se/)
 * [HaMa Adventures](https://www.hamaadventures.com/) a climbing park in Linköping
+* Introduction to [Archery](https://www.linkopingsskf.se/bagskyttesektionen/eventforsallskap/)
+* Kayaking/canoeing in [Vårdnäs Stiftsgård](http://www.vardnas.se/)
 * [Laserdome](http://www.laserdome-linkoping.se/) an indoor laser tag game
 * [Motion race](http://www.motionsrace.com/Tjanster.html) offers both a physical training and team building
 * [Rimforsa strand](https://www.rimforsastrand.se/se-och-gora/teamaktiviteter/)'s collection of activities like shooting, knock on wood, team challenges
+* VR action games in [Knock'em down](https://eventcenter.se/norrkoping/vrex-norrkoping/) event center
 * [Yoump](https://www.yoump.se/aktiviteter) a trampoline park
-* Introduction to [Archery](https://www.linkopingsskf.se/bagskyttesektionen/eventforsallskap/)
-* Kayaking/canoeing in [Vårdnäs Stiftsgård](http://www.vardnas.se/)
 
 Theater performances
 --------------------

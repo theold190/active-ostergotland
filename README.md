@@ -97,6 +97,7 @@ Spring
 
 Any time
 ---------------------
+* [Bodaborg](https://www.bodaborg.se/#intro) a place with various challenge rooms
 * [Bowling](http://www.strandgatantva.se/)
 * Cultural events in [Skylten](https://www.linkoping.se/skylten/)
 * Escape rooms
@@ -104,3 +105,4 @@ Any time
   * [Twisted Keys](http://www.twistedkeys.com/en/home/) in Norrköping
 * [Swedish Air Force Museum](http://www.flygvapenmuseum.se/languages/engelska/)
 * [Yoump](https://www.yoump.se/parker/linkoping), trampoline park
+* VR action games in [Knock'em down](https://eventcenter.se/norrkoping/vrex-norrkoping/) event center
