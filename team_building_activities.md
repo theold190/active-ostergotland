@@ -45,6 +45,6 @@ Theater performances
 
 All time alternatives
 ---------------------
-* [Go-Karthallen](http://magp.se/) 
+* [Go-Karthallen](http://magp.se/)
 * [Strandgatan två](https://www.strandgatantva.se/) with bowling, shuffleboard, pool and more
 
