@@ -103,6 +103,7 @@ Any time
 * Escape rooms
   * [Excape house](https://escapehouse.se/) in Linköping and Norrköping
   * [Twisted Keys](http://www.twistedkeys.com/en/home/) in Norrköping
+* Play board games in Norrköpings [brädspelscafe](https://bradspelscafe.se/aktiviteter/) or in Linköpings [Fiction Prescription](https://www.facebook.com/fiction.prescription/events)
 * [Swedish Air Force Museum](http://www.flygvapenmuseum.se/languages/engelska/)
 * [Yoump](https://www.yoump.se/parker/linkoping), trampoline park
 * VR action games in [Knock'em down](https://eventcenter.se/norrkoping/vrex-norrkoping/) event center
