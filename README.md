@@ -100,9 +100,11 @@ Any time
 * [Bodaborg](https://www.bodaborg.se/#intro) a place with various challenge rooms
 * [Bowling](http://www.strandgatantva.se/)
 * Cultural events in [Skylten](https://www.linkoping.se/skylten/)
+* Do something with your hands at [Makerspace Linköping](https://makerslink.se/)
 * Escape rooms
   * [Excape house](https://escapehouse.se/) in Linköping and Norrköping
   * [Twisted Keys](http://www.twistedkeys.com/en/home/) in Norrköping
+* Meet indie game developers at [East Sweden Game](https://eastswedengame.se/activities/) events
 * Play board games in Norrköpings [brädspelscafe](https://bradspelscafe.se/aktiviteter/) or in Linköpings [Fiction Prescription](https://www.facebook.com/fiction.prescription/events)
 * [Swedish Air Force Museum](http://www.flygvapenmuseum.se/languages/engelska/)
 * [Yoump](https://www.yoump.se/parker/linkoping), trampoline park
