@@ -1,4 +1,4 @@
-Team building activities in Östergötland ![Check links](https://github.com/theold190/active-ostergotland/workflows/Check%20links/badge.svg?event=schedule)
+Team building activities in Östergötland
 ========================================
 
 Here is a collection of ideas for various team activities in [Östergötland](https://en.wikipedia.org/wiki/%C3%96sterg%C3%B6tland). List is based on personal experience, ideas and tips from friends. Feel free to share the information with others.
