@@ -104,6 +104,7 @@ Any time
 * Escape rooms
   * [Excape house](https://escapehouse.se/) in Linköping and Norrköping
   * [Twisted Keys](http://www.twistedkeys.com/en/home/) in Norrköping
+* Introduction to diving with [Linköpings Dykcenter](https://linkopingsdykcenter.se/kurser/prova-pa-dyk-i-simhallen/)
 * Meet indie game developers at [East Sweden Game](https://eastswedengame.se/activities/) events
 * Play board games in Norrköpings [brädspelscafe](https://bradspelscafe.se/aktiviteter/) or in Linköpings [Fiction Prescription](https://www.facebook.com/fiction.prescription/events)
 * [Swedish Air Force Museum](http://www.flygvapenmuseum.se/languages/engelska/)
