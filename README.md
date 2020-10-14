@@ -24,6 +24,7 @@ Summer
 * Water sports
   * Wakeboarding in the channel with [LKPG Wakepark](http://www.lkpgwakepark.se/)
   * Windsurfing in Varamobaden, Motala
+  * SUP, kitesurfing and other with [Kite Kalle](https://www.kitekalle.se/linkoping.php)
 * [Swimming](https://visitlinkoping.se/sommar/badplatser-i-link%C3%B6ping)
   * Bergs slussar, swim + observe boats going through gates
   * Blå lagun in Linköping, idyllic place next to Mjärdevi
@@ -69,8 +70,10 @@ Autumn
 ---------------------
 * Apple collection on the streets and in the gardens
   * Some good apples can be found in Gamla Linköping
-* Mushrooms collection in the forests
+* Courses and classes at [Folkuniversitetet](https://www.folkuniversitetet.se/kurser-utbildningar/), [Kurser](https://www.kurser.se/) and [Medborgarskolan](https://www.medborgarskolan.se/kurser-och-evenemang/)
+* Mushrooms collection in the forests on your own or with [Svamp Klubben](https://svampklubben.org/)
 * [Bondens egen Marknad](http://marknader.bondensegen.com/marknad.php?markID=5), farmers' own market
+* Dance courses with [Dansarna](https://dansarna.se/index.php/en/courses-events/event-calendar)
 * Events
   * [Östgötadagarna](https://www.ostgotadagarna.se/sv/), with open doors at local shops, farms, artists in September
   * [Mjärdevi by night](https://mjardevi.se/event/science-park-by-night/) in September
@@ -108,5 +111,6 @@ Any time
 * Meet indie game developers at [East Sweden Game](https://eastswedengame.se/activities/) events
 * Play board games in Norrköpings [brädspelscafe](https://bradspelscafe.se/aktiviteter/) or in Linköpings [Fiction Prescription](https://www.facebook.com/fiction.prescription/events)
 * [Swedish Air Force Museum](http://www.flygvapenmuseum.se/languages/engelska/)
+* Swimming in [Medley](https://www.medley.se/vara-anlaggningar/linkopings-simhall) swimming pool
 * [Yoump](https://www.yoump.se/parker/linkoping), trampoline park
 * VR action games in [Knock'em down](https://eventcenter.se/norrkoping/vrex-norrkoping/) event center
