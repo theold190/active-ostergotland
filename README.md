@@ -55,12 +55,14 @@ Summer
   * [Boats passing Berg slussar](https://www.gotakanal.se/en/225251/Lock-gate-exhibition-Berg-locks/)
   * [Ekenäs castle](http://www.ekenasslott.se/), especially during a medieval festivals
   * [Gamla Linköping](http://www.gamlalinkoping.info/en), old city
-* Other
-  * Tree climbing parks: [Äventyrspark](https://www.aventyrsupplevelser.com) with fantastic zip line over a lake and a smaller alternative by [HaMa Adventures](https://www.hamaadventures.com/)
-  * Boat trips to [Fyrudden archipelago](http://www.harstena.se/kommunikationer/skargardstrafiken.htm)
+* Animals
   * [Kolmården](https://www.kolmarden.com/), big animal park
   * [Björkö 4H](http://www.bjorko4hgard.se/) petting zoo, where kids can touch animals
   * [Vikbolands Struts](https://vikbolandsstruts.se/) an ostrich farm with a small petting zoo
+  * Wild animals safari wht [Pelles Viltsafari](https://www.viltsafari.se/)
+* Other
+  * Tree climbing parks: [Äventyrspark](https://www.aventyrsupplevelser.com) with fantastic zip line over a lake and a smaller alternative by [HaMa Adventures](https://www.hamaadventures.com/)
+  * Boat trips to [Fyrudden archipelago](http://www.harstena.se/kommunikationer/skargardstrafiken.htm)
   * Try obstacle course races with [Linköping OCR](https://www.facebook.com/linkopingocr)
 * Events
   * [Linköping city week](https://visitlinkoping.se/linkopingsstadsfest), end of August
@@ -115,3 +117,4 @@ Any time
 * Swimming in [Medley](https://www.medley.se/vara-anlaggningar/linkopings-simhall) swimming pool
 * [Yoump](https://www.yoump.se/parker/linkoping), trampoline park
 * VR action games in [Knock'em down](https://eventcenter.se/norrkoping/vrex-norrkoping/) event center
+* Wild animals safari, fine restaurant, hiking and relaxing weekends at nature with [Sommarhagen](https://www.sommarhagen.se/SV/Upplevelser)
