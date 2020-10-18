@@ -49,3 +49,6 @@ All time alternatives
 * [Go-Karthallen](http://magp.se/)
 * [Strandgatan två](https://www.strandgatantva.se/) with bowling, shuffleboard, pool and more
 
+Any time at any place
+---------------------
+* [Jackbox Games](https://www.jackboxgames.com/party-pack/) allows to play party games remotely
