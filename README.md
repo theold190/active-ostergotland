@@ -63,6 +63,7 @@ Summer
 * Other
   * Tree climbing parks: [Äventyrspark](https://www.aventyrsupplevelser.com) with fantastic zip line over a lake and a smaller alternative by [HaMa Adventures](https://www.hamaadventures.com/)
   * Boat trips to [Fyrudden archipelago](http://www.harstena.se/kommunikationer/skargardstrafiken.htm)
+  * Parachute jumps with [Linköpings Fallskärmsklubb](https://linkopingsfallskarmsklubb.se/)
   * Try obstacle course races with [Linköping OCR](https://www.facebook.com/linkopingocr)
 * Events
   * [Linköping city week](https://visitlinkoping.se/linkopingsstadsfest), end of August
@@ -110,10 +111,11 @@ Any time
   * [Excape house](https://escapehouse.se/) in Linköping and Norrköping
   * [Twisted Keys](http://www.twistedkeys.com/en/home/) in Norrköping
 * Introduction to diving with [Linköpings Dykcenter](https://linkopingsdykcenter.se/kurser/prova-pa-dyk-i-simhallen/)
+* Indoor climbing with [Linköpings klätterklubb](https://linkopingsklatterklubb.se/prova-pa/)
 * Meet indie game developers at [East Sweden Game](https://eastswedengame.se/activities/) events
 * Play board games in Norrköpings [brädspelscafe](https://bradspelscafe.se/aktiviteter/) or in Linköpings [Fiction Prescription](https://www.facebook.com/fiction.prescription/events)
 * [Questropolis](https://questropolis.se/) solve puzzles with your phone in your city
-* [Swedish Air Force Museum](http://www.flygvapenmuseum.se/languages/engelska/)
+* [Swedish Air Force Museum](http://www.flygvapenmuseum.se/languages/engelska/) and flight simulator
 * Swimming in [Medley](https://www.medley.se/vara-anlaggningar/linkopings-simhall) swimming pool
 * [Yoump](https://www.yoump.se/parker/linkoping), trampoline park
 * VR action games in [Knock'em down](https://eventcenter.se/norrkoping/vrex-norrkoping/) event center

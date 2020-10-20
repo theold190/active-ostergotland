@@ -47,6 +47,7 @@ Theater performances
 All time alternatives
 ---------------------
 * [Go-Karthallen](http://magp.se/)
+* Indoor climbing with [Linköpings klätterklubb](https://linkopingsklatterklubb.se/prova-pa/)
 * [Strandgatan två](https://www.strandgatantva.se/) with bowling, shuffleboard, pool and more
 
 Any time at any place
