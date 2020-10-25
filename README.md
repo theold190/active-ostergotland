@@ -47,8 +47,10 @@ Summer
   * Hike along parts of [Östgötaleden](https://www.visitostergotland.se/ostgotaleden/)
   * Hiking in [Torpön](https://www.visitostergotland.se/144769/Torpon-i-Sommen/)
 * Food experience
-  * [Smultronstället](http://www.smultronstallet.se/), Soderkoping’s ice cream restaurant
+  * [Ombergs Turisthotell](http://ombergsturisthotell.com/restaurang/) offers fine dining experience (part of a [White Guide](https://whiteguide.com/))
+  * [Restaurang Jord](https://restaurangjord.se/) offers an exclusive food experience (part of a [White Guide](https://whiteguide.com/))
   * [Seafood nights](http://slusscafet.com/en/seafood-nights/) at Tannefors locks
+  * [Smultronstället](http://www.smultronstallet.se/), Soderkoping’s ice cream restaurant
 * Sightseeing
   * [Vadstena castle](http://vadstenaslott.com/)
   * [Motala museum of cars](http://www.motormuseum.se/)
