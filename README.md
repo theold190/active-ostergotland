@@ -112,6 +112,9 @@ Any time
 * Escape rooms
   * [Excape house](https://escapehouse.se/) in Linköping and Norrköping
   * [Twisted Keys](http://www.twistedkeys.com/en/home/) in Norrköping
+* Gymnastic / trampoles
+  * [Nikegymnasterna](http://www.nikegymnasterna.com/) gymnastic hall with activities
+  * [Yoump](https://www.yoump.se/parker/linkoping), trampoline park
 * Introduction to diving with [Linköpings Dykcenter](https://linkopingsdykcenter.se/kurser/prova-pa-dyk-i-simhallen/)
 * Indoor climbing with [Linköpings klätterklubb](https://linkopingsklatterklubb.se/prova-pa/)
 * Meet indie game developers at [East Sweden Game](https://eastswedengame.se/activities/) events
@@ -119,6 +122,5 @@ Any time
 * [Questropolis](https://questropolis.se/) solve puzzles with your phone in your city
 * [Swedish Air Force Museum](http://www.flygvapenmuseum.se/languages/engelska/) and flight simulator
 * Swimming in [Medley](https://www.medley.se/vara-anlaggningar/linkopings-simhall) swimming pool
-* [Yoump](https://www.yoump.se/parker/linkoping), trampoline park
 * VR action games in [Knock'em down](https://eventcenter.se/norrkoping/vrex-norrkoping/) event center
 * Wild animals safari, fine restaurant, hiking and relaxing weekends at nature with [Sommarhagen](https://www.sommarhagen.se/SV/Upplevelser)
