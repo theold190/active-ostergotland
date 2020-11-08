@@ -63,9 +63,10 @@ Summer
   * [Vikbolands Struts](https://vikbolandsstruts.se/) an ostrich farm with a small petting zoo
   * Wild animals safari wht [Pelles Viltsafari](https://www.viltsafari.se/)
 * Other
-  * Tree climbing parks: [Äventyrspark](https://www.aventyrsupplevelser.com) with fantastic zip line over a lake and a smaller alternative by [HaMa Adventures](https://www.hamaadventures.com/)
   * Boat trips to [Fyrudden archipelago](http://www.harstena.se/kommunikationer/skargardstrafiken.htm)
+  * [Linköpings Motorsällskap](https://lms.se/) club with number of racing subclubs: motocross, karting, enduro, trial, speedway, radio controlled and others
   * Parachute jumps with [Linköpings Fallskärmsklubb](https://linkopingsfallskarmsklubb.se/)
+  * Tree climbing parks: [Äventyrspark](https://www.aventyrsupplevelser.com) with fantastic zip line over a lake and a smaller alternative by [HaMa Adventures](https://www.hamaadventures.com/)
   * Try obstacle course races with [Linköping OCR](https://www.facebook.com/linkopingocr)
 * Events
   * [Linköping city week](https://visitlinkoping.se/linkopingsstadsfest), end of August
@@ -115,6 +116,7 @@ Any time
 * Gymnastic / trampoles
   * [Nikegymnasterna](http://www.nikegymnasterna.com/) gymnastic hall with activities
   * [Yoump](https://www.yoump.se/parker/linkoping), trampoline park
+* [Hobbyhörnan](http://www.hobbyhornan.com/) for those interested in creating, assembling, painting and playing models
 * Introduction to diving with [Linköpings Dykcenter](https://linkopingsdykcenter.se/kurser/prova-pa-dyk-i-simhallen/)
 * Indoor climbing with [Linköpings klätterklubb](https://linkopingsklatterklubb.se/prova-pa/)
 * Meet indie game developers at [East Sweden Game](https://eastswedengame.se/activities/) events
