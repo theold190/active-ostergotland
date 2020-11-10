@@ -13,7 +13,7 @@ Summer
   * Kayak to archipelago and sleep in hanging tents with [Ostkustenkajak](http://ostkustenkajak.se/)
   * A day long kayaking & canoeing in [Vårdnös Stiftsgård](http://www.vardnas.se/)
   * [Explore Göta Canal between Berg and Borensberg](http://glasbruket.com/aktiviteter/)
-  * [Grebo kayaking](http://www.grebokajak.se/en/startpage/) with self service kayaks
+  * [Outdoortime](http://www.outdoortime.se/) with self service kayaks, glamping and climbing
 * Självplock (collecting fruits, berries and vegetables yourself on a farm)
   * Get fruits and berries from locals ([Fruktförmedlingen](https://www.aktavara.org/fruktformedlingen)) and public places ([Fruktkarnat](https://fruktkartan.se/))
   * Strawberries at [Tift farm](http://tift.se/), close to Linkoping
