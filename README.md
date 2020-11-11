@@ -109,10 +109,15 @@ Any time
 * [Bodaborg](https://www.bodaborg.se/#intro) a place with various challenge rooms
 * [Bowling](http://www.strandgatantva.se/)
 * Cultural events in [Skylten](https://www.linkoping.se/skylten/)
+* [Linköping Discgolf](https://www.lkpgdg.se/)
 * Do something with your hands at [Makerspace Linköping](https://makerslink.se/)
 * Escape rooms
   * [Excape house](https://escapehouse.se/) in Linköping and Norrköping
   * [Twisted Keys](http://www.twistedkeys.com/en/home/) in Norrköping
+* Orientation on nature
+  * Geocaching
+  * [Hittaut](https://www.orientering.se/provapaaktiviteter/hittaut/)
+  * [Orientering](https://www.orientering.se/)
 * Gymnastic / trampoles
   * [Nikegymnasterna](http://www.nikegymnasterna.com/) gymnastic hall with activities
   * [Yoump](https://www.yoump.se/parker/linkoping), trampoline park
