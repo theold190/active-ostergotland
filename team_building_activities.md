@@ -52,4 +52,6 @@ All time alternatives
 
 Any time at any place
 ---------------------
+* [City guesser](https://virtualvacation.us/guess) and [Geo guessr](https://www.geoguessr.com/) challenge you in finding places on a map
 * [Jackbox Games](https://www.jackboxgames.com/party-pack/) allows to play party games remotely
+* [Skribbl](https://skribbl.io/) offers an easy and fast "draw and guess" game that can be played during short pauses
