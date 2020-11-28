@@ -99,6 +99,7 @@ Winter
 * Julmarknad, traditional Christmas markets (ex. in Gamla Linköping, Ekenäs Slott)
 * Events
   * [Lussevaka](https://www.filmstaden.se/lussevaka/), watch movies whole night in a SF Bio cinema one night in December
+  * [Tidernas jul](https://gamlalinkoping.se/evenemang/tidernas-jul/), various Christmas inspired events
 
 Spring
 ---------------------
