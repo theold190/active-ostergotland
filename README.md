@@ -128,6 +128,7 @@ Any time
 * Meet indie game developers at [East Sweden Game](https://eastswedengame.se/activities/) events
 * Play board games in Norrköpings [brädspelscafe](https://bradspelscafe.se/aktiviteter/) or in Linköpings [Fiction Prescription](https://www.facebook.com/fiction.prescription/events)
 * [Questropolis](https://questropolis.se/) solve puzzles with your phone in your city
+* [Stadsmysterium](https://stadsmysterium.se/) solve puzzles in city centers
 * [Swedish Air Force Museum](http://www.flygvapenmuseum.se/languages/engelska/) and flight simulator
 * Swimming in [Medley](https://www.medley.se/vara-anlaggningar/linkopings-simhall) swimming pool
 * VR action games in [Knock'em down](https://eventcenter.se/norrkoping/vrex-norrkoping/) event center

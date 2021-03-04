@@ -9,8 +9,9 @@ Escape rooms / riddles
 ----------------------
 * [Escape House](https://escapehouse.se/) in Linköping and Norrköping
 * [Fox In a Box](https://roomescapelive.se/mobile_room) organizes an escape room even at your location
-* [Twisted Keys](https://www.twistedkeys.com/en/) in Norrköping
 * [Questropolis](https://questropolis.se/) solve puzzles with your phone in your city
+* [Stadsmysterium](https://stadsmysterium.se/) solve puzzles in city centers
+* [Twisted Keys](https://www.twistedkeys.com/en/) in Norrköping
 
 Food / degustations
 -------------------
