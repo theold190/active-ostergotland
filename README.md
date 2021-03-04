@@ -5,7 +5,7 @@ Here is a collection of ideas for various type of activities in [Östergötland]
 
 To update the list, please create a pull request or contact me. If you would like to support the work on the list, you can donate via [PayPal](https://www.paypal.me/olegkrasnukhin).
 
-Follow next link for suggestions on [team building activities](team_building_activities.md).
+Follow next link for suggestions on [team building activities](team_building_activities.md) or [various sport races](sport_races.md).
 
 Summer
 ---------------------
