@@ -31,12 +31,13 @@ Summer
   * Sturefors beach, perfect for families with kids
   * [Varamobaden](https://start.motala.se/en/experience-visit/varamobaden) in Motala is a great place with lots of activities
 * Biking
+  * A day trip biking around Visingsö near Gränna
   * Bike to Berg slussar
   * [Bike along Gotakanal in Berg](https://visitlinkoping.se/sommar/cykelsemester-i-link%C3%B6ping-och-l%C3%A4ngs-g%C3%B6ta-kanal)
   * Bike along Stångan
-  * A day trip biking around Visingsö near Gränna
-  * [Mera Lera course](https://www.meraleramtb.com/meraleramtb/sida/69548/skills-area-vidingsjo) in Vidingsjö for mountain bikes
   * Downhill mountain biking in [Yxbaken cykelpark](https://www.yxbacken.nu/cykelpark)
+  * [Kisa MTB Park](https://kisamtbpark.com/) in Kisa
+  * [Mera Lera course](https://www.meraleramtb.com/meraleramtb/sida/69548/skills-area-vidingsjo) in Vidingsjö for mountain bikes
 * Walks in nature
   * [Tiveden Nationalpark](https://www.sverigesnationalparker.se/park/tivedens-nationalpark/)
   * Along Stångån in Linköping center
@@ -83,13 +84,12 @@ Autumn
 * Events
   * [Östgötadagarna](https://www.ostgotadagarna.se/sv/), with open doors at local shops, farms, artists in September
   * [Mjärdevi by night](https://mjardevi.se/event/science-park-by-night/) in September
-  * [Norrköping Kulturnatten](http://letscreate.norrkoping.se/kulturnatten.html), culture night full of activities in September
+  * [Norrköping Kulturnatten](https://visit.norrkoping.se/se-och-gora/storre-evenemang/kulturnatten), culture night full of activities in September
   * Student spexet theatre performance by [StudentSpex](https://www.studentspex.se/) and [HolgerSpexet](https://www.holgerspexet.se/)
 
 Winter
 ---------------------
 * Skiing
-  * [Tolvmannabacken](http://www.tolvmannabacken.se/) in Kisa
   * [Yxbaken](https://www.yxbacken.nu/) in Norrköping
   * [Ombergsliden](http://ombergsliden.se/) in Omberg
 * [Winter lights walks](https://www.linkoping.se/vinterljus)
