@@ -3,8 +3,6 @@ Team building activities in Östergötland
 
 Here is a collection of ideas for various team activities in [Östergötland](https://en.wikipedia.org/wiki/%C3%96sterg%C3%B6tland). List is based on personal experience, ideas and tips from friends. Feel free to share the information with others.
 
-To update the list, please create a pull request or contact me. If you would like to support the work on the list, you can donate via [PayPal](https://www.paypal.me/olegkrasnukhin).
-
 Escape rooms / riddles
 ----------------------
 * [Escape House](https://escapehouse.se/) in Linköping and Norrköping
