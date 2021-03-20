@@ -30,7 +30,7 @@ Sport / active
 * [Go-karting](http://magpgokart.se/)
 * [HaMa Adventures](https://www.hamaadventures.com/) a climbing park in Linköping
 * Introduction to [Archery](https://www.linkopingsskf.se/bagskyttesektionen/eventforsallskap/)
-* Introduction to diving with [Linköpings Dykcenter](https://linkopingsdykcenter.se/kurser/prova-pa-dyk-i-simhallen/)
+* Introduction to diving with [Linköpings Dykcenter](https://linkopingsdykcenter.se/prova-pa-dyk/)
 * Kayaking/canoeing in [Vårdnäs Stiftsgård](http://www.vardnas.se/)
 * [Laserdome](http://www.laserdome-linkoping.se/) an indoor laser tag game
 * [Motion race](http://www.motionsrace.com/Tjanster.html) offers both a physical training and team building
