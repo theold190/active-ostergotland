@@ -17,6 +17,8 @@ Food / degustations
 * [Restorang Hantverkaren](https://www.norrkoping-cater.com/matlagsningskurs/) invites for various cooking courses
 * [Rimforsa strand’s Fredrikas kök](http://www.rimforsastrand.se/restaurang/fredrikas-kok/) offers a cooking event for groups
 * [Simons Rosteri & Bageri](http://simonsrosteribageri.se/#coursesection) offers coffee degustation
+* Tour and beer tasting at [Centralbryggeriet](https://www.centralbryggeriet.se/Visningar--Provningar) in Linköping
+
 
 Sport / active
 --------------
