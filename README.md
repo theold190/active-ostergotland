@@ -61,11 +61,15 @@ Summer
   * [Björkö 4H](http://www.bjorko4hgard.se/) petting zoo, where kids can touch animals
   * [Vikbolands Struts](https://vikbolandsstruts.se/) an ostrich farm with a small petting zoo
   * Wild animals safari wht [Pelles Viltsafari](https://www.viltsafari.se/)
+* Tree climbing parks
+  * [Sörsjöns Äventyrspark](https://aventyrsupplevelser.com/sorsjon/) with a fantastic zip line over a Sörsjön lake
+  * [HaMa Adventures](https://www.hamaadventures.com/) in Linköping's Vidingsjö Motionscentrum
+  * [Vattern event](http://www.vatternevent.se/) offers zipline and kayaking in Omberg area
+  * Parks built by [Äventyrspark](https://aventyrsupplevelser.com/aventyrsbygge/) in different parts of Sweden
 * Other
   * Boat trips to [Fyrudden archipelago](http://www.harstena.se/kommunikationer/skargardstrafiken.htm)
   * [Linköpings Motorsällskap](https://lms.se/) club with number of racing subclubs: motocross, karting, enduro, trial, speedway, radio controlled and others
   * Parachute jumps with [Linköpings Fallskärmsklubb](https://linkopingsfallskarmsklubb.se/)
-  * Tree climbing parks: [Äventyrspark](https://www.aventyrsupplevelser.com) with fantastic zip line over a lake and a smaller alternative by [HaMa Adventures](https://www.hamaadventures.com/)
   * Try obstacle course races with [Linköping OCR](https://www.facebook.com/linkopingocr)
 * Events
   * [Linköping city week](https://visitlinkoping.se/linkopingsstadsfest), end of August
