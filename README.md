@@ -106,6 +106,7 @@ Winter
 Spring
 ---------------------
 * [Kosläpp](https://www.arla.se/event-sponsring/koslapp/live/), release of cows in different places in the end of April
+* [Stadsodling](https://www.linkoping.se/uppleva-och-gora/friluftsliv-och-parker/stadsodla/) grow your vegetables, berries, flowers in the city
 
 Any time
 ---------------------
