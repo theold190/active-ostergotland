@@ -61,6 +61,7 @@ Summer
   * [Björkö 4H](http://www.bjorko4hgard.se/) petting zoo, where kids can touch animals
   * [Vikbolands Struts](https://vikbolandsstruts.se/) an ostrich farm with a small petting zoo
   * Wild animals safari wht [Pelles Viltsafari](https://www.viltsafari.se/)
+  * Horse riding at various places, like [Eggebybers Islandshästar](http://www.eggebyberg.se/), [Gibraltar Islandshästar](http://gibraltarislandshastar.se/) [Heda Ridklubb](https://www.hedaridklubb.se/), [Stenholmen](http://www.stenholmen.nu/), [Sjöberga Islandshästgård](http://www.sjoberga.se/), [Smedstad Ridsportcenter](https://hsoab.se/), [Trollmarker SPA & Ridning](https://trollmarker.se/ridning/), [Ödegårdens Ridanläggning](https://odegarden.se/)
 * Tree climbing parks
   * [Sörsjöns Äventyrspark](https://aventyrsupplevelser.com/sorsjon/) with a fantastic zip line over a Sörsjön lake
   * [HaMa Adventures](https://www.hamaadventures.com/) in Linköping's Vidingsjö Motionscentrum
@@ -68,6 +69,7 @@ Summer
   * Parks built by [Äventyrspark](https://aventyrsupplevelser.com/aventyrsbygge/) in different parts of Sweden
 * Other
   * Boat trips to [Fyrudden archipelago](http://www.harstena.se/kommunikationer/skargardstrafiken.htm)
+  * Guiding tours with [Linköpingsguideklubb](http://linkopingsguideklubb.se/kalender-guidningar/)
   * [Linköpings Motorsällskap](https://lms.se/) club with number of racing subclubs: motocross, karting, enduro, trial, speedway, radio controlled and others
   * Parachute jumps with [Linköpings Fallskärmsklubb](https://linkopingsfallskarmsklubb.se/)
   * Try obstacle course races with [Linköping OCR](https://www.facebook.com/linkopingocr)
@@ -127,7 +129,7 @@ Any time
   * [Yoump](https://www.yoump.se/parker/linkoping), trampoline park
 * [Hobbyhörnan](http://www.hobbyhornan.com/) for those interested in creating, assembling, painting and playing models
 * Introduction to diving with [Linköpings Dykcenter](https://linkopingsdykcenter.se/prova-pa-dyk/)
-* Indoor climbing with [Linköpings klätterklubb](https://linkopingsklatterklubb.se/prova-pa/)
+* Indoor climbing in [Hangaren](https://hangaren.org/) with help/guiding from [Linköpings klätterklubb](https://linkopingsklatterklubb.se/prova-pa/)
 * Meet indie game developers at [East Sweden Game](https://eastswedengame.se/activities/) events
 * Play board games in Norrköpings [brädspelscafe](https://bradspelscafe.se/aktiviteter/) or in Linköpings [Fiction Prescription](https://www.facebook.com/fiction.prescription/events)
 * [Questropolis](https://questropolis.se/) solve puzzles with your phone in your city

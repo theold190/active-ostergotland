@@ -11,7 +11,7 @@ Escape rooms / riddles
 * [Stadsmysterium](https://stadsmysterium.se/) solve puzzles in city centers
 * [Twisted Keys](https://www.twistedkeys.com/en/) in Norrköping
 
-Food / degustations
+Food / degustation
 -------------------
 * [Norins ost](https://www.norinsost.se/provningar) has cheese and/or wine degustation
 * [Ostprovning på Löt](https://www.lot-gardsmejeri.se/se/studiebesok-med-ostprovning-pa-lot) cheese degustation at the farm
@@ -19,7 +19,7 @@ Food / degustations
 * [Rimforsa strand’s Fredrikas kök](http://www.rimforsastrand.se/restaurang/fredrikas-kok/) offers a cooking event for groups
 * [Simons Rosteri & Bageri](http://simonsrosteribageri.se/#coursesection) offers coffee degustation, coffee roasting and sour dough baking courses
 * Tour and beer tasting at [Centralbryggeriet](https://www.centralbryggeriet.se/Visningar--Provningar) in Linköping
-
+* Various activities at [Trollmarker SPA & Ridning](https://trollmarker.se/aktiviteter/), ex. horse riding, mushroom tours, cooking and baking bread in groups, chocolad and lakrits tasting
 
 Sport / active
 --------------
