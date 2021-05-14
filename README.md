@@ -3,7 +3,7 @@
 
 Here is a collection of ideas for various type of activities in [Östergötland](https://en.wikipedia.org/wiki/%C3%96sterg%C3%B6tland). List is based on personal experience, ideas and tips from friends. For convenience, activities are divided by seasons of the year. Feel free to share the information with others.
 
-Follow next link for suggestions on [team building activities](team_building_activities.md) or [various sport races](sport_races.md).
+Follow next link for suggestions on [team building activities](team_building_activities.md), [various sport races](sport_races.md) or [special events](events.md).
 
 Summer
 ---------------------
@@ -73,9 +73,6 @@ Summer
   * [Linköpings Motorsällskap](https://lms.se/) club with number of racing subclubs: motocross, karting, enduro, trial, speedway, radio controlled and others
   * Parachute jumps with [Linköpings Fallskärmsklubb](https://linkopingsfallskarmsklubb.se/)
   * Try obstacle course races with [Linköping OCR](https://www.facebook.com/linkopingocr)
-* Events
-  * [Linköping city week](https://visitlinkoping.se/linkopingsstadsfest), end of August
-  * [Medieval weekend](http://www.gastabud.se/), in Soderkoping in the end of August
 
 Autumn
 ---------------------
@@ -85,11 +82,6 @@ Autumn
 * Mushrooms collection in the forests on your own or with [Svamp Klubben](https://svampklubben.org/)
 * [Bondens egen Marknad](http://marknader.bondensegen.com/marknad.php?markID=5), farmers' own market
 * Dance courses with [Dansarna](https://dansarna.se/index.php/en/courses-events/event-calendar)
-* Events
-  * [Östgötadagarna](https://www.ostgotadagarna.se/sv/), with open doors at local shops, farms, artists in September
-  * [Mjärdevi by night](https://mjardevi.se/event/science-park-by-night/) in September
-  * [Norrköping Kulturnatten](https://visit.norrkoping.se/se-och-gora/storre-evenemang/kulturnatten), culture night full of activities in September
-  * Student spexet theatre performance by [StudentSpex](https://www.studentspex.se/) and [HolgerSpexet](https://www.holgerspexet.se/)
 
 Winter
 ---------------------
@@ -101,13 +93,9 @@ Winter
   * [Light festival](https://norrkopinglightfestival.se/) in Norrköping
 * [Julbord](http://www.julbordsportalen.se/julbord-i-linkoping), traditional Christmas buffets
 * Julmarknad, traditional Christmas markets (ex. in Gamla Linköping, Ekenäs Slott)
-* Events
-  * [Lussevaka](https://www.filmstaden.se/lussevaka/), watch movies whole night in a SF Bio cinema one night in December
-  * [Tidernas jul](https://gamlalinkoping.se/evenemang/tidernas-jul/), various Christmas inspired events
 
 Spring
 ---------------------
-* [Kosläpp](https://www.arla.se/event-sponsring/koslapp/live/), release of cows in different places in the end of April
 * [Stadsodling](https://www.linkoping.se/uppleva-och-gora/friluftsliv-och-parker/stadsodla/) grow your vegetables, berries, flowers in the city
 
 Any time

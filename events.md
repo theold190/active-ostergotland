@@ -1,0 +1,21 @@
+Special events in Östergötland
+========================================
+
+Here is a collection of different special events in [Östergötland](https://en.wikipedia.org/wiki/%C3%96sterg%C3%B6tland). List is based on personal experience, ideas and tips from friends. Feel free to share the information with others.
+
+Summer
+* [Linköping city week](https://visitlinkoping.se/linkopingsstadsfest), end of August
+* [Medieval weekend](http://www.gastabud.se/), in Soderkoping in the end of August
+
+Autumn
+* [Östgötadagarna](https://www.ostgotadagarna.se/sv/), with open doors at local shops, farms, artists in September
+* [Mjärdevi by night](https://mjardevi.se/event/science-park-by-night/) in September
+* [Norrköping Kulturnatten](https://visit.norrkoping.se/se-och-gora/storre-evenemang/kulturnatten), culture night full of activities in September
+* Student spexet theatre performance by [StudentSpex](https://www.studentspex.se/) and [HolgerSpexet](https://www.holgerspexet.se/)
+
+Winter
+* [Lussevaka](https://www.filmstaden.se/lussevaka/), watch movies whole night in a SF Bio cinema one night in December
+* [Tidernas jul](https://gamlalinkoping.se/evenemang/tidernas-jul/), various Christmas inspired events
+
+Spring
+* [Kosläpp](https://www.arla.se/event-sponsring/koslapp/live/), release of cows in different places in the end of April
