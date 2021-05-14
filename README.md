@@ -100,29 +100,31 @@ Spring
 
 Any time
 ---------------------
-* [Bodaborg](https://www.bodaborg.se/#intro) a place with various challenge rooms
-* [Bowling](http://www.strandgatantva.se/)
-* Cultural events in [Skylten](https://www.linkoping.se/skylten/)
-* [Linköping Discgolf](https://www.lkpgdg.se/)
-* Do something with your hands at [Makerspace Linköping](https://makerslink.se/)
-* Escape rooms
-  * [Excape house](https://escapehouse.se/) in Linköping and Norrköping
-  * [Twisted Keys](http://www.twistedkeys.com/en/home/) in Norrköping
+* Gymnastic / trampoles
+  * [Nikegymnasterna](http://www.nikegymnasterna.com/) gymnastic hall with activities
+  * [Yoump](https://www.yoump.se/parker/linkoping), trampoline park
 * Orientation on nature
   * Geocaching
   * [Hittaut](https://www.orientering.se/provapaaktiviteter/hittaut/)
   * [Orientering](https://www.orientering.se/)
-* Gymnastic / trampoles
-  * [Nikegymnasterna](http://www.nikegymnasterna.com/) gymnastic hall with activities
-  * [Yoump](https://www.yoump.se/parker/linkoping), trampoline park
-* [Hobbyhörnan](http://www.hobbyhornan.com/) for those interested in creating, assembling, painting and playing models
-* Introduction to diving with [Linköpings Dykcenter](https://linkopingsdykcenter.se/prova-pa-dyk/)
-* Indoor climbing in [Hangaren](https://hangaren.org/) with help/guiding from [Linköpings klätterklubb](https://linkopingsklatterklubb.se/prova-pa/)
-* Meet indie game developers at [East Sweden Game](https://eastswedengame.se/activities/) events
-* Play board games in Norrköpings [brädspelscafe](https://bradspelscafe.se/aktiviteter/) or in Linköpings [Fiction Prescription](https://www.facebook.com/fiction.prescription/events)
-* [Questropolis](https://questropolis.se/) solve puzzles with your phone in your city
-* [Stadsmysterium](https://stadsmysterium.se/) solve puzzles in city centers
-* [Swedish Air Force Museum](http://www.flygvapenmuseum.se/languages/engelska/) and flight simulator
-* Swimming in [Medley](https://www.medley.se/vara-anlaggningar/linkopings-simhall) swimming pool
-* VR action games in [Knock'em down](https://eventcenter.se/norrkoping/vrex-norrkoping/) event center
-* Wild animals safari, fine restaurant, hiking and relaxing weekends at nature with [Sommarhagen](https://www.sommarhagen.se/SV/Upplevelser)
+* Quests, escape rooms and board games
+  * [Bodaborg](https://www.bodaborg.se/#intro) a place with various challenge rooms
+  * [Excape house](https://escapehouse.se/) in Linköping and Norrköping
+  * [Twisted Keys](http://www.twistedkeys.com/en/home/) in Norrköping
+  * [Questropolis](https://questropolis.se/) solve puzzles with your phone in your city
+  * Play board games in Norrköpings [brädspelscafe](https://bradspelscafe.se/aktiviteter/) or in Linköpings [Fiction Prescription](https://www.facebook.com/fiction.prescription/events)
+  * Meet indie game developers at [East Sweden Game](https://eastswedengame.se/activities/) events
+  * [Hobbyhörnan](http://www.hobbyhornan.com/) for those interested in creating, assembling, painting and playing models
+  * [Stadsmysterium](https://stadsmysterium.se/) solve puzzles in city centers
+* Swimming pool
+  * Swimming in [Medley](https://www.medley.se/vara-anlaggningar/linkopings-simhall) swimming pool
+  * Introduction to diving with [Linköpings Dykcenter](https://linkopingsdykcenter.se/prova-pa-dyk/)
+  * VR action games in [Knock'em down](https://eventcenter.se/norrkoping/vrex-norrkoping/) event center
+* Other
+  * Bowling at [Strandgatan Två](http://www.strandgatantva.se/)
+  * Cultural events in [Skylten](https://www.linkoping.se/skylten/)
+  * [Linköping Discgolf](https://www.lkpgdg.se/)
+  * Do something with your hands at [Makerspace Linköping](https://makerslink.se/)
+  * Indoor climbing in [Hangaren](https://hangaren.org/) with help/guiding from [Linköpings klätterklubb](https://linkopingsklatterklubb.se/prova-pa/)
+  * [Swedish Air Force Museum](http://www.flygvapenmuseum.se/languages/engelska/) and flight simulator
+  * Wild animals safari, fine restaurant, hiking and relaxing weekends at nature with [Sommarhagen](https://www.sommarhagen.se/SV/Upplevelser)
