@@ -1,12 +1,12 @@
-Östergötland's activities
-========================================
+Östergötland's activities [![Status of links](https://github.com/theold190/home-automation/actions/workflows/lint.yml/badge.svg)](https://github.com/theold190/home-automation/actions/workflows/lint.yml)
+=========================
 
 Here is a collection of ideas for various type of activities in [Östergötland](https://en.wikipedia.org/wiki/%C3%96sterg%C3%B6tland). List is based on personal experience, ideas and tips from friends. For convenience, activities are divided by seasons of the year. Feel free to share the information with others.
 
 Follow next link for suggestions on [team building activities](team_building_activities.md), [various sport races](sport_races.md) or [special events](events.md).
 
 Summer
----------------------
+------
 * [Kayaking & canoeing](https://visitlinkoping.se/kanot-kajak)
   * Kayak to archipelago and sleep in hanging tents with [Ostkustenkajak](http://ostkustenkajak.se/)
   * A day long kayaking & canoeing in [Vårdnös Stiftsgård](http://www.vardnas.se/)
@@ -75,7 +75,7 @@ Summer
   * Try obstacle course races with [Linköping OCR](https://www.facebook.com/linkopingocr)
 
 Autumn
----------------------
+------
 * Apple collection on the streets and in the gardens
   * Some good apples can be found in Gamla Linköping
 * Courses and classes at [Folkuniversitetet](https://www.folkuniversitetet.se/kurser-utbildningar/), [Kurser](https://www.kurser.se/) and [Medborgarskolan](https://www.medborgarskolan.se/kurser-och-evenemang/)
@@ -84,7 +84,7 @@ Autumn
 * Dance courses with [Dansarna](https://dansarna.se/index.php/en/courses-events/event-calendar)
 
 Winter
----------------------
+------
 * Skiing
   * [Yxbaken](https://www.yxbacken.nu/) in Norrköping
   * [Ombergsliden](http://ombergsliden.se/) in Omberg
@@ -95,11 +95,11 @@ Winter
 * Julmarknad, traditional Christmas markets (ex. in Gamla Linköping, Ekenäs Slott)
 
 Spring
----------------------
+------
 * [Stadsodling](https://www.linkoping.se/uppleva-och-gora/friluftsliv-och-parker/stadsodla/) grow your vegetables, berries, flowers in the city
 
 Any time
----------------------
+--------
 * Gymnastic / trampoles
   * [Nikegymnasterna](http://www.nikegymnasterna.com/) gymnastic hall with activities
   * [Yoump](https://www.yoump.se/parker/linkoping), trampoline park
