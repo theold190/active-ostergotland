@@ -1,7 +1,7 @@
 {
     "ignorePatterns": [
       {
-        "pattern": "^https:\/\/facebook.com/.*"
+        "pattern": "^https:\/\/www.facebook.com/.*"
       }
     ]
 }
