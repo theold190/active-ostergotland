@@ -14,21 +14,11 @@ on:
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
-  # This workflow contains a single job called "build"
-  build:
-    # The type of runner that the job will run on
+  markdown-link-check:
     runs-on: ubuntu-latest
-
-    # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-    # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-    - uses: actions/checkout@v2
+    - name: Checkout
+      uses: actions/checkout@master
 
-    # Runs verification of links in Markdown files
-    - name: Run Markdown links verification
-      run: |
-        set -e
-        git clone https://github.com/tcort/markdown-link-check.git
-        npm install markdown-link-check
-        ./markdown-link-check/markdown-link-check "${GITHUB_WORKSPACE}/README.md"
-        ./markdown-link-check/markdown-link-check "${GITHUB_WORKSPACE}/team_building_activities.md"
+    - name: Run link check
+      uses: gaurav-nelson/github-action-markdown-link-check@v1
