@@ -112,6 +112,7 @@ Any time
   * [Excape house](https://escapehouse.se/) in Linköping and Norrköping
   * [Twisted Keys](http://www.twistedkeys.com/en/home/) in Norrköping
   * [Questropolis](https://questropolis.se/) solve puzzles with your phone in your city
+  * [CluedUpp Games](https://www.cluedupp.com/) is a city detective puzzle
   * Play board games in Norrköpings [brädspelscafe](https://bradspelscafe.se/aktiviteter/) or in Linköpings [Fiction Prescription](https://www.facebook.com/fiction.prescription/events)
   * Meet indie game developers at [East Sweden Game](https://eastswedengame.se/activities/) events
   * [Hobbyhörnan](http://www.hobbyhornan.com/) for those interested in creating, assembling, painting and playing models
