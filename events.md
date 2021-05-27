@@ -4,8 +4,9 @@ Special events in Östergötland
 Here is a collection of different special events in [Östergötland](https://en.wikipedia.org/wiki/%C3%96sterg%C3%B6tland). List is based on personal experience, ideas and tips from friends. Feel free to share the information with others.
 
 Summer
-* [Linköping city week](https://visitlinkoping.se/linkopingsstadsfest), end of August
-* [Medieval weekend](http://www.gastabud.se/), in Soderkoping in the end of August
+* [Linköping city week](https://visitlinkoping.se/linkopingsstadsfest) in the end of August
+* [Medieval weekend](http://www.gastabud.se/) in Soderkoping in the end of August
+* [Skogsröjet](https://skogsrojet.se/) music festival in Rejmyre in the end of July
 
 Autumn
 * [Östgötadagarna](https://www.ostgotadagarna.se/sv/), with open doors at local shops, farms, artists in September
