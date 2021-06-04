@@ -96,6 +96,7 @@ Winter
 
 Spring
 ------
+* [Biodlareförening](http://www.linkopingsbiodlarna.se/) offers courses for beginner beekeepers in Linköping 
 * [Stadsodling](https://www.linkoping.se/uppleva-och-gora/friluftsliv-och-parker/stadsodla/) grow your vegetables, berries, flowers in the city
 
 Any time
