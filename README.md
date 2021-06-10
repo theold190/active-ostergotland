@@ -40,7 +40,7 @@ Summer
   * [Tiveden Nationalpark](https://www.sverigesnationalparker.se/park/tivedens-nationalpark/)
   * Along Stångån in Linköping center
   * Hiking in [Omberg](https://www.sveaskog.se/jakt-fiske-och-friluftsliv/besoksomraden/ekopark-omberg/)
-  * Hiking in [Tinnerö](http://www.linkoping.se/bygga-bo-och-miljo/naturvard-och-parkskotsel/naturreservat/tinnero-eklandskap/)
+  * Hiking in [Tinnerö](https://www.lansstyrelsen.se/ostergotland/besoksmal/naturreservat/tinnero-eklandskap-naturreservat.html)
   * Walks in [Vidinsjö motion center](https://www.linkoping.se/leanlink/stod-service/vidingsjo-motionscentrum-och-cafe-vidingsjo/)
   * Visit [Trollegater caves](https://www.lansstyrelsen.se/ostergotland/besoksmal/naturreservat/trollegater-naturreservat.html)
   * Hike along parts of [Östgötaleden](https://www.visitostergotland.se/ostgotaleden/)
@@ -96,7 +96,7 @@ Winter
 
 Spring
 ------
-* [Biodlareförening](http://www.linkopingsbiodlarna.se/) offers courses for beginner beekeepers in Linköping 
+* [Biodlareförening](http://www.linkopingsbiodlarna.se/) offers courses for beginner beekeepers in Linköping
 * [Stadsodling](https://www.linkoping.se/uppleva-och-gora/friluftsliv-och-parker/stadsodla/) grow your vegetables, berries, flowers in the city
 
 Any time
