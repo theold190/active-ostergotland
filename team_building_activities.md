@@ -15,7 +15,7 @@ Food / degustation
 -------------------
 * [Norins ost](https://www.norinsost.se/provningar) has cheese and/or wine degustation
 * [Ostprovning på Löt](https://www.lot-gardsmejeri.se/se/studiebesok-med-ostprovning-pa-lot) cheese degustation at the farm
-* [Restorang Hantverkaren](https://www.norrkoping-cater.com/matlagsningskurs/) invites for various cooking courses
+* [Restorang Hantverkaren](https://www.norrkoping-cater.com/matlagningskurs/) invites for various cooking courses
 * [Rimforsa strand’s Fredrikas kök](http://www.rimforsastrand.se/restaurang/fredrikas-kok/) offers a cooking event for groups
 * [Simons Rosteri & Bageri](http://simonsrosteribageri.se/#coursesection) offers coffee degustation, coffee roasting and sour dough baking courses
 * Tour and beer tasting at [Centralbryggeriet](https://www.centralbryggeriet.se/Visningar--Provningar) in Linköping
