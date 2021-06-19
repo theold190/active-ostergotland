@@ -17,7 +17,8 @@ Summer
   * Strawberries at [Tift farm](http://tift.se/), close to Linkoping
   * Strawberries at [Skedevi farm](http://www.skedevijordgubbar.se/), a bit far from Linköping
   * Raspberries at [Kallstops Eko-Bär](https://www.kallstorpsekobar.se/)
-  * Vegetables from[Tomatboden](http://www.tomatboden.se/aktuellt/)
+  * Vegetables from [Tomatboden](http://www.tomatboden.se/aktuellt/)
+  * Vegetables from [Hermelins](https://www.hermelins.se/gronsaker/)
   * [Various products from farmers](https://www.gardsnara.se/ostergotland)
 * Water sports
   * Wakeboarding in the channel with [LKPG Wakepark](http://www.lkpgwakepark.se/)
