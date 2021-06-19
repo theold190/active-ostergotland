@@ -13,12 +13,11 @@ Summer
   * [Explore Göta Canal between Berg and Borensberg](http://glasbruket.com/aktiviteter/)
   * [Outdoortime](http://www.outdoortime.se/) with self service kayaks, glamping and climbing
 * Självplock (collecting fruits, berries and vegetables yourself on a farm)
-  * Get fruits and berries from locals ([Fruktförmedlingen](https://www.aktavara.org/fruktformedlingen)) and public places ([Fruktkarnat](https://fruktkartan.se/))
+  * Get fruits and berries from locals ([Fruktförmedlingen](https://www.aktavara.org/fruktformedlingen)) and public places ([Fruktkartan](https://fruktkartan.se/))
   * Strawberries at [Tift farm](http://tift.se/), close to Linkoping
   * Strawberries at [Skedevi farm](http://www.skedevijordgubbar.se/), a bit far from Linköping
   * Raspberries at [Kallstops Eko-Bär](https://www.kallstorpsekobar.se/)
-  * Vegetables from [Tomatboden](http://www.tomatboden.se/aktuellt/)
-  * Vegetables from [Hermelins](https://www.hermelins.se/gronsaker/)
+  * Vegetables from [Tomatboden](http://www.tomatboden.se/aktuellt/) and [Hermelins](https://www.hermelins.se/gronsaker/)
   * [Various products from farmers](https://www.gardsnara.se/ostergotland)
 * Water sports
   * Wakeboarding in the channel with [LKPG Wakepark](http://www.lkpgwakepark.se/)
@@ -47,6 +46,7 @@ Summer
   * Hike along parts of [Östgötaleden](https://www.visitostergotland.se/ostgotaleden/)
   * Hiking in [Torpön](https://www.visitostergotland.se/144769/Torpon-i-Sommen/)
 * Food experience
+  * [Matsafari](https://www.rimforsastrand.se/restaurang/matsafari/) from Rimforsa Strand
   * [Ombergs Turisthotell](http://ombergsturisthotell.com/restaurang/) offers fine dining experience (part of a [White Guide](https://whiteguide.com/))
   * [Restaurang Jord](https://restaurangjord.se/) offers an exclusive food experience (part of a [White Guide](https://whiteguide.com/))
   * [Seafood nights](http://slusscafet.com/en/seafood-nights/) at Tannefors locks
