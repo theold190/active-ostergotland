@@ -9,10 +9,10 @@ Summer
 * [Skogsröjet](https://skogsrojet.se/) music festival in Rejmyre in the end of July
 
 Autumn
-* [Östgötadagarna](https://www.ostgotadagarna.se/sv/), with open doors at local shops, farms, artists in September
 * [Mjärdevi by night](https://mjardevi.se/event/science-park-by-night/) in September
 * [Norrköping Kulturnatten](https://visit.norrkoping.se/se-och-gora/storre-evenemang/kulturnatten), culture night full of activities in September
 * Student spexet theatre performance by [StudentSpex](https://www.studentspex.se/) and [HolgerSpexet](https://www.holgerspexet.se/)
+* [Östgötadagarna](https://www.ostgotadagarna.se/sv/), with open doors at local shops, farms, artists in September
 
 Winter
 * [Lussevaka](https://www.filmstaden.se/lussevaka/), watch movies whole night in a SF Bio cinema one night in December

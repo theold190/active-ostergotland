@@ -13,6 +13,7 @@ Escape rooms / riddles
 
 Food / degustation
 -------------------
+* Julbord on a Kinda kanal cruise with [Rederi AB Kind](https://www.rederiabkind.se/vara-kryssningar/vinter-och-julupplevelse-med-ms-kind-i-linkoping/)
 * [Norins ost](https://www.norinsost.se/provningar) has cheese and/or wine degustation
 * [Ostprovning på Löt](https://www.lot-gardsmejeri.se/se/studiebesok-med-ostprovning-pa-lot) cheese degustation at the farm
 * [Restorang Hantverkaren](https://www.norrkoping-cater.com/matlagningskurs/) invites for various cooking courses
@@ -20,12 +21,10 @@ Food / degustation
 * [Simons Rosteri & Bageri](http://simonsrosteribageri.se/#coursesection) offers coffee degustation, coffee roasting and sour dough baking courses
 * Tour and beer tasting at [Centralbryggeriet](https://www.centralbryggeriet.se/Visningar--Provningar) in Linköping
 * Various activities at [Trollmarker SPA & Ridning](https://trollmarker.se/aktiviteter/), ex. horse riding, mushroom tours, cooking and baking bread in groups, chocolad and lakrits tasting
-* Julbord on a Kinda kanal cruise with [Rederi AB Kind](https://www.rederiabkind.se/vara-kryssningar/vinter-och-julupplevelse-med-ms-kind-i-linkoping/)
 
 Sport / active
 --------------
 * [AktivGruppen](https://www.aktivgruppen.se/kickoff-aktiviteter/) offers a set of kick off activities
-* [Äventyrspark](https://aventyrsupplevelser.com/) a climbing park with a zip line over a lake
 * [Bodaborg](https://www.bodaborg.se/#intro) a place with various challenge rooms
 * [Ballpoint Paintball](http://www.ballpoint.se/)
 * [Beach Arena](https://beacharena.se/event-och-foretag/event/) with events on sand all year around
@@ -42,6 +41,7 @@ Sport / active
 * [Vattern event](http://www.vatternevent.se/) offers zipline and kayaking in Omberg area
 * VR action games in [Knock'em down](https://eventcenter.se/norrkoping/vrex-norrkoping/) event center
 * [Yoump](https://www.yoump.se/aktiviteter) a trampoline park
+* [Äventyrspark](https://aventyrsupplevelser.com/) a climbing park with a zip line over a lake
 
 Theater performances
 --------------------

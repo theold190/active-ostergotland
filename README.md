@@ -7,26 +7,13 @@ Follow next link for suggestions on [team building activities](team_building_act
 
 Summer
 ------
-* [Kayaking & canoeing](https://visitlinkoping.se/kanot-kajak)
-  * Kayak to archipelago and sleep in hanging tents with [Ostkustenkajak](http://ostkustenkajak.se/)
-  * A day long kayaking & canoeing in [Vårdnös Stiftsgård](http://www.vardnas.se/)
-  * [Explore Göta Canal between Berg and Borensberg](http://glasbruket.com/aktiviteter/)
-  * [Outdoortime](http://www.outdoortime.se/) with self service kayaks, glamping and climbing
-* Självplock (collecting fruits, berries and vegetables yourself on a farm)
-  * Get fruits and berries from locals ([Fruktförmedlingen](https://www.aktavara.org/fruktformedlingen)) and from public places ([Fruktkartan](https://fruktkartan.se/))
-  * Strawberries at [Tift farm](http://tift.se/) (very close to Linkoping) or at [Skedevi farm](http://www.skedevijordgubbar.se/), (a bit far from Linköping)
-  * Raspberries at [Ombergsboden](http://www.ombergsboden.se/) (Omberg) or at [Kallstops Eko-Bär](https://www.kallstorpsekobar.se/) (other side of Vättern)
-  * Vegetables from [Tomatboden](http://www.tomatboden.se/aktuellt/) and [Hermelins](https://www.hermelins.se/gronsaker/)
-  * [Various products from farmers](https://www.gardsnara.se/ostergotland)
-* Water sports
-  * Wakeboarding in the channel with [LKPG Wakepark](http://www.lkpgwakepark.se/)
-  * Windsurfing in Varamobaden, Motala
-  * SUP, kitesurfing and other with [Kite Kalle](https://www.kitekalle.se/linkoping.php)
-* [Swimming](https://visitlinkoping.se/sommar/badplatser-i-link%C3%B6ping)
-  * Bergs slussar, swim + observe boats going through gates
-  * Blå lagun in Linköping, idyllic place next to Mjärdevi
-  * Sturefors beach, perfect for families with kids
-  * [Varamobaden](https://start.motala.se/en/experience-visit/varamobaden) in Motala is a great place with lots of activities
+* Animals
+  * [Kolmården](https://www.kolmarden.com/), big animal park
+  * [Björkö 4H](http://www.bjorko4hgard.se/) petting zoo, where kids can touch animals
+  * [Vikbolands Struts](https://vikbolandsstruts.se/) an ostrich farm with a small petting zoo
+  * Wild animals safari wht [Pelles Viltsafari](https://www.viltsafari.se/)
+  * Horse riding at various places, like [Eggebybers Islandshästar](http://www.eggebyberg.se/), [Gibraltar Islandshästar](http://gibraltarislandshastar.se/) [Heda Ridklubb](https://www.hedaridklubb.se/), [Stenholmen](http://www.stenholmen.nu/), [Sjöberga Islandshästgård](http://www.sjoberga.se/), [Smedstad Ridsportcenter](https://hsoab.se/), [Trollmarker SPA & Ridning](https://trollmarker.se/ridning/), [Ödegårdens Ridanläggning](https://odegarden.se/)
+  * Walks with alpackas with [DjurLådan](https://djurladan.se/tjanster/aktiviterer), [Jägarbo Alpaca](https://jagarbo.se/alpackapromenad/) or with [Tulos åsne och alpacka farm](https://tulosfarm.se/upplevelser) (last one even have a donkey)
 * Biking
   * A day trip biking around Visingsö near Gränna
   * Bike to Berg slussar
@@ -35,6 +22,43 @@ Summer
   * Downhill mountain biking in [Yxbaken cykelpark](https://www.yxbacken.nu/cykelpark)
   * [Kisa MTB Park](https://kisamtbpark.com/) in Kisa
   * [Mera Lera course](https://www.meraleramtb.com/meraleramtb/sida/69548/skills-area-vidingsjo) in Vidingsjö for mountain bikes
+* Boat cruising
+  * Boat trips to [Fyrudden archipelago](http://www.harstena.se/kommunikationer/skargardstrafiken.htm)
+  * Boat cruising in Göta kanal, Vättern with [M/S Kung Sverker](https://www.kungsverker.se/kryssningar)
+  * Cruising in Kinda kanal with [Rederi AB Kind](https://www.rederiabkind.se/)
+* Food experience
+  * [Matsafari](https://www.rimforsastrand.se/restaurang/matsafari/) from Rimforsa Strand
+  * [Ombergs Turisthotell](http://ombergsturisthotell.com/restaurang/) offers fine dining experience (part of a [White Guide](https://whiteguide.com/))
+  * [Restaurang Jord](https://restaurangjord.se/) offers an exclusive food experience (part of a [White Guide](https://whiteguide.com/))
+  * [Seafood nights](http://slusscafet.com/en/seafood-nights/) at Tannefors locks
+  * [Smultronstället](http://www.smultronstallet.se/), Soderkoping’s ice cream restaurant
+* [Kayaking & canoeing](https://visitlinkoping.se/kanot-kajak)
+  * Kayak to archipelago and sleep in hanging tents with [Ostkustenkajak](http://ostkustenkajak.se/)
+  * A day long kayaking & canoeing in [Vårdnös Stiftsgård](http://www.vardnas.se/)
+  * [Explore Göta Canal between Berg and Borensberg](http://glasbruket.com/aktiviteter/)
+  * [Outdoortime](http://www.outdoortime.se/) with self service kayaks, glamping and climbing
+* Sightseeing
+  * [Vadstena castle](http://vadstenaslott.com/)
+  * [Motala museum of cars](http://www.motormuseum.se/)
+  * [Boats passing Berg slussar](https://www.gotakanal.se/en/225251/Lock-gate-exhibition-Berg-locks/)
+  * [Ekenäs castle](http://www.ekenasslott.se/), especially during a medieval festivals
+  * [Gamla Linköping](http://www.gamlalinkoping.info/en), old city
+* Självplock (collecting fruits, berries and vegetables yourself on a farm)
+  * Get fruits and berries from locals ([Fruktförmedlingen](https://www.aktavara.org/fruktformedlingen)) and from public places ([Fruktkartan](https://fruktkartan.se/))
+  * Strawberries at [Tift farm](http://tift.se/) (very close to Linkoping) or at [Skedevi farm](http://www.skedevijordgubbar.se/), (a bit far from Linköping)
+  * Raspberries at [Ombergsboden](http://www.ombergsboden.se/) (Omberg) or at [Kallstops Eko-Bär](https://www.kallstorpsekobar.se/) (other side of Vättern)
+  * Vegetables from [Tomatboden](http://www.tomatboden.se/aktuellt/) and [Hermelins](https://www.hermelins.se/gronsaker/)
+  * [Various products from farmers](https://www.gardsnara.se/ostergotland)
+* [Swimming](https://visitlinkoping.se/sommar/badplatser-i-link%C3%B6ping)
+  * Bergs slussar, swim + observe boats going through gates
+  * Blå lagun in Linköping, idyllic place next to Mjärdevi
+  * Sturefors beach, perfect for families with kids
+  * [Varamobaden](https://start.motala.se/en/experience-visit/varamobaden) in Motala is a great place with lots of activities
+* Tree climbing parks
+  * [Sörsjöns Äventyrspark](https://aventyrsupplevelser.com/sorsjon/) with a fantastic zip line over a Sörsjön lake
+  * [HaMa Adventures](https://www.hamaadventures.com/) in Linköping's Vidingsjö Motionscentrum
+  * [Vattern event](http://www.vatternevent.se/) offers zipline and kayaking in Omberg area
+  * Parks built by [Äventyrspark](https://aventyrsupplevelser.com/aventyrsbygge/) in different parts of Sweden
 * Walks in nature
   * [Tiveden Nationalpark](https://www.sverigesnationalparker.se/park/tivedens-nationalpark/)
   * Along Stångån in Linköping center
@@ -44,34 +68,10 @@ Summer
   * Visit [Trollegater caves](https://www.lansstyrelsen.se/ostergotland/besoksmal/naturreservat/trollegater-naturreservat.html)
   * Hike along parts of [Östgötaleden](https://www.visitostergotland.se/ostgotaleden/)
   * Hiking in [Torpön](https://www.visitostergotland.se/144769/Torpon-i-Sommen/)
-* Food experience
-  * [Matsafari](https://www.rimforsastrand.se/restaurang/matsafari/) from Rimforsa Strand
-  * [Ombergs Turisthotell](http://ombergsturisthotell.com/restaurang/) offers fine dining experience (part of a [White Guide](https://whiteguide.com/))
-  * [Restaurang Jord](https://restaurangjord.se/) offers an exclusive food experience (part of a [White Guide](https://whiteguide.com/))
-  * [Seafood nights](http://slusscafet.com/en/seafood-nights/) at Tannefors locks
-  * [Smultronstället](http://www.smultronstallet.se/), Soderkoping’s ice cream restaurant
-* Sightseeing
-  * [Vadstena castle](http://vadstenaslott.com/)
-  * [Motala museum of cars](http://www.motormuseum.se/)
-  * [Boats passing Berg slussar](https://www.gotakanal.se/en/225251/Lock-gate-exhibition-Berg-locks/)
-  * [Ekenäs castle](http://www.ekenasslott.se/), especially during a medieval festivals
-  * [Gamla Linköping](http://www.gamlalinkoping.info/en), old city
-* Animals
-  * [Kolmården](https://www.kolmarden.com/), big animal park
-  * [Björkö 4H](http://www.bjorko4hgard.se/) petting zoo, where kids can touch animals
-  * [Vikbolands Struts](https://vikbolandsstruts.se/) an ostrich farm with a small petting zoo
-  * Wild animals safari wht [Pelles Viltsafari](https://www.viltsafari.se/)
-  * Horse riding at various places, like [Eggebybers Islandshästar](http://www.eggebyberg.se/), [Gibraltar Islandshästar](http://gibraltarislandshastar.se/) [Heda Ridklubb](https://www.hedaridklubb.se/), [Stenholmen](http://www.stenholmen.nu/), [Sjöberga Islandshästgård](http://www.sjoberga.se/), [Smedstad Ridsportcenter](https://hsoab.se/), [Trollmarker SPA & Ridning](https://trollmarker.se/ridning/), [Ödegårdens Ridanläggning](https://odegarden.se/)
-  * Walks with alpackas with [DjurLådan](https://djurladan.se/tjanster/aktiviterer), [Jägarbo Alpaca](https://jagarbo.se/alpackapromenad/) or with [Tulos åsne och alpacka farm](https://tulosfarm.se/upplevelser) (last one even have a donkey)
-* Tree climbing parks
-  * [Sörsjöns Äventyrspark](https://aventyrsupplevelser.com/sorsjon/) with a fantastic zip line over a Sörsjön lake
-  * [HaMa Adventures](https://www.hamaadventures.com/) in Linköping's Vidingsjö Motionscentrum
-  * [Vattern event](http://www.vatternevent.se/) offers zipline and kayaking in Omberg area
-  * Parks built by [Äventyrspark](https://aventyrsupplevelser.com/aventyrsbygge/) in different parts of Sweden
-* Boat cruising
-  * Boat trips to [Fyrudden archipelago](http://www.harstena.se/kommunikationer/skargardstrafiken.htm)
-  * Boat cruising in Göta kanal, Vättern with [M/S Kung Sverker](https://www.kungsverker.se/kryssningar)
-  * Cruising in Kinda kanal with [Rederi AB Kind](https://www.rederiabkind.se/)
+* Water sports
+  * Wakeboarding in the channel with [LKPG Wakepark](http://www.lkpgwakepark.se/)
+  * Windsurfing in Varamobaden, Motala
+  * SUP, kitesurfing and other with [Kite Kalle](https://www.kitekalle.se/linkoping.php)
 * Other
   * Guiding tours with [Linköpingsguideklubb](http://linkopingsguideklubb.se/kalender-guidningar/)
   * [Linköpings Motorsällskap](https://lms.se/) club with number of racing subclubs: motocross, karting, enduro, trial, speedway, radio controlled and others
@@ -82,22 +82,22 @@ Autumn
 ------
 * Apple collection on the streets and in the gardens
   * Some good apples can be found in Gamla Linköping
-* Courses and classes at [Folkuniversitetet](https://www.folkuniversitetet.se/kurser-utbildningar/), [Kurser](https://www.kurser.se/) and [Medborgarskolan](https://www.medborgarskolan.se/kurser-och-evenemang/)
-* Mushrooms collection in the forests on your own or with [Svamp Klubben](https://svampklubben.org/)
 * [Bondens egen Marknad](http://marknader.bondensegen.com/marknad.php?markID=5), farmers' own market
+* Courses and classes at [Folkuniversitetet](https://www.folkuniversitetet.se/kurser-utbildningar/), [Kurser](https://www.kurser.se/) and [Medborgarskolan](https://www.medborgarskolan.se/kurser-och-evenemang/)
 * Dance courses with [Dansarna](https://dansarna.se/index.php/en/courses-events/event-calendar)
+* Mushrooms collection in the forests on your own or with [Svamp Klubben](https://svampklubben.org/)
 
 Winter
 ------
+* [Julbord](http://www.julbordsportalen.se/julbord-i-linkoping), traditional Christmas buffets
+* Julbord on a Kinda kanal cruise with [Rederi AB Kind](https://www.rederiabkind.se/vara-kryssningar/vinter-och-julupplevelse-med-ms-kind-i-linkoping/)
+* Julmarknad, traditional Christmas markets (ex. in Gamla Linköping, Ekenäs Slott)
 * Skiing
   * [Yxbaken](https://www.yxbacken.nu/) in Norrköping
   * [Ombergsliden](http://ombergsliden.se/) in Omberg
 * [Winter lights walks](https://www.linkoping.se/vinterljus)
   * [Vinterljus](https://www.linkoping.se/vinterljus) in Linköping
   * [Light festival](https://norrkopinglightfestival.se/) in Norrköping
-* [Julbord](http://www.julbordsportalen.se/julbord-i-linkoping), traditional Christmas buffets
-* Julbord on a Kinda kanal cruise with [Rederi AB Kind](https://www.rederiabkind.se/vara-kryssningar/vinter-och-julupplevelse-med-ms-kind-i-linkoping/)
-* Julmarknad, traditional Christmas markets (ex. in Gamla Linköping, Ekenäs Slott)
 
 Spring
 ------
