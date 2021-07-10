@@ -62,13 +62,17 @@ Summer
   * [Vikbolands Struts](https://vikbolandsstruts.se/) an ostrich farm with a small petting zoo
   * Wild animals safari wht [Pelles Viltsafari](https://www.viltsafari.se/)
   * Horse riding at various places, like [Eggebybers Islandshästar](http://www.eggebyberg.se/), [Gibraltar Islandshästar](http://gibraltarislandshastar.se/) [Heda Ridklubb](https://www.hedaridklubb.se/), [Stenholmen](http://www.stenholmen.nu/), [Sjöberga Islandshästgård](http://www.sjoberga.se/), [Smedstad Ridsportcenter](https://hsoab.se/), [Trollmarker SPA & Ridning](https://trollmarker.se/ridning/), [Ödegårdens Ridanläggning](https://odegarden.se/)
+  * Walks with alpackas with [DjurLådan](https://djurladan.se/tjanster/aktiviterer), [Jägarbo Alpaca](https://jagarbo.se/alpackapromenad/) or with [Tulos åsne och alpacka farm](https://tulosfarm.se/upplevelser) (last one even have a donkey)
 * Tree climbing parks
   * [Sörsjöns Äventyrspark](https://aventyrsupplevelser.com/sorsjon/) with a fantastic zip line over a Sörsjön lake
   * [HaMa Adventures](https://www.hamaadventures.com/) in Linköping's Vidingsjö Motionscentrum
   * [Vattern event](http://www.vatternevent.se/) offers zipline and kayaking in Omberg area
   * Parks built by [Äventyrspark](https://aventyrsupplevelser.com/aventyrsbygge/) in different parts of Sweden
-* Other
+* Boat cruising
   * Boat trips to [Fyrudden archipelago](http://www.harstena.se/kommunikationer/skargardstrafiken.htm)
+  * Boat cruising in Göta kanal, Vättern with [M/S Kung Sverker](https://www.kungsverker.se/kryssningar)
+  * Cruising in Kinda kanal with [Rederi AB Kind](https://www.rederiabkind.se/)
+* Other
   * Guiding tours with [Linköpingsguideklubb](http://linkopingsguideklubb.se/kalender-guidningar/)
   * [Linköpings Motorsällskap](https://lms.se/) club with number of racing subclubs: motocross, karting, enduro, trial, speedway, radio controlled and others
   * Parachute jumps with [Linköpings Fallskärmsklubb](https://linkopingsfallskarmsklubb.se/)
@@ -92,6 +96,7 @@ Winter
   * [Vinterljus](https://www.linkoping.se/vinterljus) in Linköping
   * [Light festival](https://norrkopinglightfestival.se/) in Norrköping
 * [Julbord](http://www.julbordsportalen.se/julbord-i-linkoping), traditional Christmas buffets
+* Julbord on a Kinda kanal cruise with [Rederi AB Kind](https://www.rederiabkind.se/vara-kryssningar/vinter-och-julupplevelse-med-ms-kind-i-linkoping/)
 * Julmarknad, traditional Christmas markets (ex. in Gamla Linköping, Ekenäs Slott)
 
 Spring

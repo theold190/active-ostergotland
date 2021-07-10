@@ -20,6 +20,7 @@ Food / degustation
 * [Simons Rosteri & Bageri](http://simonsrosteribageri.se/#coursesection) offers coffee degustation, coffee roasting and sour dough baking courses
 * Tour and beer tasting at [Centralbryggeriet](https://www.centralbryggeriet.se/Visningar--Provningar) in Linköping
 * Various activities at [Trollmarker SPA & Ridning](https://trollmarker.se/aktiviteter/), ex. horse riding, mushroom tours, cooking and baking bread in groups, chocolad and lakrits tasting
+* Julbord on a Kinda kanal cruise with [Rederi AB Kind](https://www.rederiabkind.se/vara-kryssningar/vinter-och-julupplevelse-med-ms-kind-i-linkoping/)
 
 Sport / active
 --------------
