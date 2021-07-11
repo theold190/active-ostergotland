@@ -69,10 +69,12 @@ Summer
   * Hike along parts of [Östgötaleden](https://www.visitostergotland.se/ostgotaleden/)
   * Hiking in [Torpön](https://www.visitostergotland.se/144769/Torpon-i-Sommen/)
 * Water sports
+  * eFoil surfing experience with [Surf Day](https://surfday.se/)
+  * SUP, kitesurfing and other with [Kite Kalle](https://www.kitekalle.se/linkoping.php)
   * Wakeboarding in the channel with [LKPG Wakepark](http://www.lkpgwakepark.se/)
   * Windsurfing in Varamobaden, Motala
-  * SUP, kitesurfing and other with [Kite Kalle](https://www.kitekalle.se/linkoping.php)
 * Other
+  * Floating sauna (bastuflotte) on the Göta kannal at [Claudia's Gastrobar & Glass](https://www.outdoortime.se/claudias/product/bastuflotte-kopia/)
   * Guiding tours with [Linköpingsguideklubb](http://linkopingsguideklubb.se/kalender-guidningar/)
   * [Linköpings Motorsällskap](https://lms.se/) club with number of racing subclubs: motocross, karting, enduro, trial, speedway, radio controlled and others
   * Parachute jumps with [Linköpings Fallskärmsklubb](https://linkopingsfallskarmsklubb.se/)
