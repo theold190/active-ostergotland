@@ -72,6 +72,7 @@ Summer
   * eFoil surfing experience with [Surf Day](https://surfday.se/)
   * SUP, kitesurfing and other with [Kite Kalle](https://www.kitekalle.se/linkoping.php)
   * Wakeboarding in the channel with [LKPG Wakepark](http://www.lkpgwakepark.se/)
+  * Wakeboarding, wakesurfing or even water skiing with [Froggy](https://froggy.se/se/vattensport/kurser-wakeboard-info-kurs-wakeboard~244/)
   * Windsurfing in Varamobaden, Motala
 * Other
   * Floating sauna (bastuflotte) on the Göta kannal at [Claudia's Gastrobar & Glass](https://www.outdoortime.se/claudias/product/bastuflotte-kopia/)
