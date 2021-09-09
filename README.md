@@ -80,7 +80,9 @@ Summer
   * Guiding tours with [Linköpingsguideklubb](http://linkopingsguideklubb.se/kalender-guidningar/)
   * [Linköpings Motorsällskap](https://lms.se/) club with number of racing subclubs: motocross, karting, enduro, trial, speedway, radio controlled and others
   * Parachute jumps with [Linköpings Fallskärmsklubb](https://linkopingsfallskarmsklubb.se/)
+  * Shoot a [sun cannon](http://solkanonklubben.se/solkanonen/) in Åtvidaberg
   * Try obstacle course races with [Linköping OCR](https://www.facebook.com/linkopingocr)
+  * Work as a [gate keeper](https://www.gotakanal.se/sv/ab-gota-kanalbolag/slussvard/) at the Göta Canal
 
 Autumn
 ------
