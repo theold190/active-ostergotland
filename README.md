@@ -1,7 +1,7 @@
 Östergötland's activities [![Check links](https://github.com/theold190/active-ostergotland/actions/workflows/ci.yml/badge.svg)](https://github.com/theold190/active-ostergotland/actions/workflows/ci.yml)
 =========================
 
-Here is a collection of ideas for various type of activities in [Östergötland](https://en.wikipedia.org/wiki/%C3%96sterg%C3%B6tland). List is based on personal experience, ideas and tips from friends. For convenience, activities are divided by seasons of the year. Feel free to share the information with others.
+Here is a collection of ideas for various type of activities in [Östergötland](https://en.wikipedia.org/wiki/%C3%96sterg%C3%B6tland) (Sweden). List is based on personal experience, ideas and tips from friends. For convenience, activities are divided by seasons of the year. Feel free to share the information with others.
 
 Follow next link for suggestions on [team building activities](team_building_activities.md), [various sport races](sport_races.md) or [special events](events.md). There are even some [extras](extras.md) near Östergötland.
 
