@@ -3,7 +3,7 @@ Sport races in Östergötland
 
 Here is a collection of ideas for various team activities in [Östergötland](https://en.wikipedia.org/wiki/%C3%96sterg%C3%B6tland). List is based on personal experience, ideas and tips from friends. Feel free to share the information with others.
 
-* [Around Häradskär Paddle Race](https://utonjutigryt.se/aktiviteter/around-h%C3%A4radsk%C3%A4r-paddle-2020.html) in a beautiful archipelago in Gryt 
+* [Around Häradskär Paddle Race](https://utonjutigryt.se/aktiviteter/around-h%C3%A4radsk%C3%A4r-paddle-2020.html) in a beautiful archipelago in Gryt
 * [Blodomloppet](https://blodomloppet.se/) one of the biggest running and walking race in Sweden
 * [City Run Linköping](https://nordicsportevent.se/lopning/cityrun-linkoping/) a city run in a center of Linköping
 * [Color Obstacle Rush](https://colorobstaclerush.se/) that is more of a fun event than an actual run
