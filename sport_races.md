@@ -1,5 +1,5 @@
 Sport races in Östergötland
-========================================
+===========================
 
 Here is a collection of ideas for various team activities in [Östergötland](https://en.wikipedia.org/wiki/%C3%96sterg%C3%B6tland). List is based on personal experience, ideas and tips from friends. Feel free to share the information with others.
 
