@@ -13,6 +13,7 @@ Autumn
 * [Matnatten](https://matnatten.se/) evening to try, discover and enjoy food
 * [Norrköping Kulturnatten](https://visit.norrkoping.se/se-och-gora/storre-evenemang/kulturnatten), culture night full of activities in September
 * Student spexet theatre performance by [StudentSpex](https://www.studentspex.se/) and [HolgerSpexet](https://www.holgerspexet.se/)
+* [Svensk blåsmusik festival](https://svenskblasmusik.se/)
 * [Vildsvinsfestivalen i eklandskapet](https://eklandskapsgris.se/vildsvinsfestivalen/) a festival dedicated to wild boars and food
 * [Östgötadagarna](https://www.ostgotadagarna.se/sv/), with open doors at local shops, farms, artists in September
 
