@@ -7,6 +7,7 @@ Summer
 * [Linköping city week](https://visitlinkoping.se/linkopingsstadsfest) in the end of August
 * [Medieval weekend](http://www.gastabud.se/) in Soderkoping in the end of August
 * [Skogsröjet](https://skogsrojet.se/) music festival in Rejmyre in the end of July
+* [Tidernas sommar](https://gamlalinkoping.se/tidernas-sommar/), various summer activities in Gamla Linköping
 
 Autumn
 * [Mjärdevi by night](https://mjardevi.se/event/science-park-by-night/) in September
@@ -19,7 +20,7 @@ Autumn
 
 Winter
 * [Lussevaka](https://www.filmstaden.se/lussevaka/), watch movies whole night in a SF Bio cinema one night in December
-* [Tidernas jul](https://gamlalinkoping.se/evenemang/tidernas-jul/), various Christmas inspired events
+* [Tidernas jul](https://gamlalinkoping.se/tidernas-jul/), various Christmas inspired events in Gamla Linköping
 
 Spring
 * [Kosläpp](https://www.arla.se/event-sponsring/koslapp/live/), release of cows in different places in the end of April
