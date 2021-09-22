@@ -136,9 +136,12 @@ Any time
 * Other
   * Bowling at [Strandgatan Två](http://www.strandgatantva.se/)
   * Cultural events in [Skylten](https://www.linkoping.se/skylten/)
-  * Handicraft courses with [Hemslöjden i Östergötland](https://www.hemslojdeniostergotland.se/kurser)
-  * [Linköping Discgolf](https://www.lkpgdg.se/)
   * Do something with your hands at [Makerspace Linköping](https://makerslink.se/)
+  * Handicraft courses with [Hemslöjden i Östergötland](https://www.hemslojdeniostergotland.se/kurser)
+  * Hiking together with [local section of STF](https://www.svenskaturistforeningen.se/engagemang/lokalavdelningar/stf-linkoping/) (Swedish Tourist Association)
   * Indoor climbing in [Hangaren](https://hangaren.org/) with help/guiding from [Linköpings klätterklubb](https://linkopingsklatterklubb.se/prova-pa/)
+  * [Linköping Discgolf](https://www.lkpgdg.se/)
+  * Open air activities with [Luften är fri](https://www.luftenarfri.nu/)
   * [Swedish Air Force Museum](http://www.flygvapenmuseum.se/languages/engelska/) and flight simulator
+  * Try churros from a [Churros Kungen](https://www.facebook.com/churroskungen/) truck that might be passing your area
   * Wild animals safari, fine restaurant, hiking and relaxing weekends at nature with [Sommarhagen](https://www.sommarhagen.se/SV/Upplevelser)
