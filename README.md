@@ -42,7 +42,7 @@ Summer
   * [Motala museum of cars](http://www.motormuseum.se/)
   * [Boats passing Berg slussar](https://www.gotakanal.se/en/225251/Lock-gate-exhibition-Berg-locks/)
   * [Ekenäs castle](http://www.ekenasslott.se/), especially during a medieval festivals
-  * [Gamla Linköping](http://www.gamlalinkoping.info/en), old city
+  * [Gamla Linköping](https://gamlalinkoping.se/in-english/), old city with different activities
 * Självplock (collecting fruits, berries and vegetables yourself on a farm)
   * Get fruits and berries from locals ([Fruktförmedlingen](https://www.aktavara.org/fruktformedlingen)) and from public places ([Fruktkartan](https://fruktkartan.se/))
   * Strawberries at [Tift farm](http://tift.se/) (very close to Linkoping) or at [Skedevi farm](http://www.skedevijordgubbar.se/), (a bit far from Linköping)
