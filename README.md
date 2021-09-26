@@ -9,7 +9,7 @@ Summer
 ------
 * Animals
   * [Kolmården](https://www.kolmarden.com/), big animal park
-  * [Björkö 4H](http://www.bjorko4hgard.se/) petting zoo, where kids can touch animals
+  * [Björkö 4H](http://www.bjorko4hgard.se/) petting zoo, where kids can touch animals, take care of them and go through courses
   * [Vikbolands Struts](https://vikbolandsstruts.se/) an ostrich farm with a small petting zoo
   * Wild animals safari wht [Pelles Viltsafari](https://www.viltsafari.se/)
   * Horse riding at various places, like [Eggebybers Islandshästar](http://www.eggebyberg.se/), [Gibraltar Islandshästar](http://gibraltarislandshastar.se/) [Heda Ridklubb](https://www.hedaridklubb.se/), [Stenholmen](http://www.stenholmen.nu/), [Sjöberga Islandshästgård](http://www.sjoberga.se/), [Smedstad Ridsportcenter](https://hsoab.se/), [Trollmarker SPA & Ridning](https://trollmarker.se/ridning/), [Ödegårdens Ridanläggning](https://odegarden.se/)
