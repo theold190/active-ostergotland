@@ -45,10 +45,11 @@ Summer
   * [Gamla Linköping](https://gamlalinkoping.se/in-english/), old city with different activities
 * Självplock (collecting fruits, berries and vegetables yourself on a farm)
   * Get fruits and berries from locals ([Fruktförmedlingen](https://www.aktavara.org/fruktformedlingen)) and from public places ([Fruktkartan](https://fruktkartan.se/))
-  * Strawberries at [Tift farm](http://tift.se/) (very close to Linkoping) or at [Skedevi farm](http://www.skedevijordgubbar.se/), (a bit far from Linköping)
+  * Grapes at [Westervin](https://www.facebook.com/Westervin-113025693379478/)
   * Raspberries at [Ombergsboden](http://www.ombergsboden.se/) (Omberg) or at [Kallstops Eko-Bär](https://www.kallstorpsekobar.se/) (other side of Vättern)
-  * Vegetables from [Tomatboden](http://www.tomatboden.se/aktuellt/) and [Hermelins](https://www.hermelins.se/gronsaker/)
+  * Strawberries at [Tift farm](http://tift.se/) (very close to Linkoping) or at [Skedevi farm](http://www.skedevijordgubbar.se/), (a bit far from Linköping)
   * [Various products from farmers](https://www.gardsnara.se/ostergotland)
+  * Vegetables from [Tomatboden](http://www.tomatboden.se/aktuellt/) and [Hermelins](https://www.hermelins.se/gronsaker/)
 * [Swimming](https://visitlinkoping.se/sommar/badplatser-i-link%C3%B6ping)
   * Bergs slussar, swim + observe boats going through gates
   * Blå lagun in Linköping, idyllic place next to Mjärdevi
