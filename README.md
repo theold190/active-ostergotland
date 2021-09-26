@@ -16,7 +16,7 @@ Summer
   * Walks with alpackas with [DjurLådan](https://djurladan.se/tjanster/aktiviterer), [Jägarbo Alpaca](https://jagarbo.se/alpackapromenad/) or with [Tulos åsne och alpacka farm](https://tulosfarm.se/upplevelser) (last one even have a donkey)
 * Biking
   * A day trip biking around Visingsö near Gränna
-  * Bike to Berg slussar
+  * Bike to Berg gates or around it with [rented bikes](https://www.gotakanal.se/sv/263719/Cykeluthyrning-vid-Bergs-slussar/)
   * [Bike along Gotakanal in Berg](https://visitlinkoping.se/sommar/cykelsemester-i-link%C3%B6ping-och-l%C3%A4ngs-g%C3%B6ta-kanal)
   * Bike along Stångan
   * Downhill mountain biking in [Yxbaken cykelpark](https://www.yxbacken.nu/cykelpark)
