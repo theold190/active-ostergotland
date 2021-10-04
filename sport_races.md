@@ -18,4 +18,5 @@ Here is a collection of ideas for various team activities in [Östergötland](ht
 * [Vätternrundan](https://vatternrundan.se/en/) a 315 km long biking race, a part of the [Swedish Classic](https://ensvenskklassiker.se/en/) (shorter alternatives possible)
 * [VikboVändan](http://vikbovandan.se/) a biking and running race in Vikbolandet
 * [Vretabiken](https://www.vretasomk.se/Mountainbike/Vretabiken) a MTB biking race
+* [XC-race](https://xcrace.lok.se/) a terrain run in Linköping
 * [Ångaloppet](https://angaloppet.se/) a swimrun event in a great nature
