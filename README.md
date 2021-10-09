@@ -139,6 +139,7 @@ Any time
   * Bowling at [Strandgatan Två](http://www.strandgatantva.se/)
   * Cultural events in [Skylten](https://www.linkoping.se/skylten/)
   * Do something with your hands at [Makerspace Linköping](https://makerslink.se/)
+  * Furniture renovation courses with [Relove me](https://reloveme.se/kurser/)
   * Handicraft courses with [Hemslöjden i Östergötland](https://www.hemslojdeniostergotland.se/kurser)
   * Hiking together with [local section of STF](https://www.svenskaturistforeningen.se/engagemang/lokalavdelningar/stf-linkoping/) (Swedish Tourist Association)
   * Indoor climbing in [Hangaren](https://hangaren.org/) with help/guiding from [Linköpings klätterklubb](https://linkopingsklatterklubb.se/prova-pa/)
