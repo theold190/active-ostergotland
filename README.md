@@ -93,6 +93,7 @@ Autumn
 * [Bondens egen Marknad](http://marknader.bondensegen.com/marknad.php?markID=5), farmers' own market
 * Courses and classes at [Folkuniversitetet](https://www.folkuniversitetet.se/kurser-utbildningar/), [Kurser](https://www.kurser.se/) and [Medborgarskolan](https://www.medborgarskolan.se/kurser-och-evenemang/)
 * Dance courses with [Dansarna](https://dansarna.se/index.php/en/courses-events/event-calendar)
+* Go hunting in the nearby forests with [Svenska Jägareförbundet](https://jagareforbundet.se/syd/ostergotlands-lan/jagareforbundet-ostergotland/)
 * Mushrooms collection in the forests on your own or with [Svamp Klubben](https://svampklubben.org/)
 
 Winter
