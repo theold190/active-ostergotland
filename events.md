@@ -24,3 +24,6 @@ Winter
 
 Spring
 * [Kosläpp](https://www.arla.se/event-sponsring/koslapp/live/), release of cows in different places in the end of April
+
+Any time
+* Cultural events in [Skylten](https://www.linkoping.se/skylten/)
