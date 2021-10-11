@@ -82,6 +82,7 @@ Summer
   * Guiding tours with [Linköpingsguideklubb](http://linkopingsguideklubb.se/kalender-guidningar/)
   * [Linköpings Motorsällskap](https://lms.se/) club with number of racing subclubs: motocross, karting, enduro, trial, speedway, radio controlled and others
   * Parachute jumps with [Linköpings Fallskärmsklubb](https://linkopingsfallskarmsklubb.se/)
+  * Sailing is a quite popular hobby, just find a friend who owns a boat
   * Shoot a [sun cannon](http://solkanonklubben.se/solkanonen/) in Åtvidaberg
   * Try obstacle course races with [Linköping OCR](https://www.facebook.com/linkopingocr)
   * Work as a [gate keeper](https://www.gotakanal.se/sv/ab-gota-kanalbolag/slussvard/) at the Göta Canal
@@ -116,9 +117,11 @@ Spring
 Any time
 --------
 * Crafting
+  * Create your own jewelry with [Hannas Silver](http://hannassilver.se/Kurser/)
   * Do something with your hands at [Makerspace Linköping](https://makerslink.se/)
   * Furniture renovation courses with [Relove me](https://reloveme.se/kurser/)
   * Handicraft courses with [Hemslöjden i Östergötland](https://www.hemslojdeniostergotland.se/kurser)
+  * Paint together with you family or friends at [Hälsokrukan](https://halsokrukan.se/aktivitet)
   * Pottery basics can be learned with [Hjortslunds Stengods](https://www.hjortslund.se/prova-pa-drejning/)
 * Gymnastic / trampoles
   * [Nikegymnasterna](http://www.nikegymnasterna.com/) gymnastic hall with activities
