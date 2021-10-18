@@ -29,6 +29,7 @@ Sport / active
 * [Ballpoint Paintball](http://www.ballpoint.se/)
 * [Beach Arena](https://beacharena.se/event-och-foretag/event/) with events on sand all year around
 * [Bråvikslinjen](https://bravikslinjen.se/actionfyllda-helgmysturer) offers an action packed weekend in spring and autumn at the coast (seal safari, tour in lighthouse, dinner, bath and sauna)
+* [Crazy Race](https://torpagard.com/motorsport/crazyrace/) and other activities at Torpa Gård
 * [Curling](http://www.mjolbycurling.se/?page_id=1224) in Mjölby
 * [Froggy](https://froggy.se/se/vattensport/m%C3%B6hippa-och-event~43/) offers a variaty of water activities like wakeboarding, wakesurf, etc
 * [Färgboll](https://www.fargboll.se/kulskytte/) activities like archery combat, dirt bike track and a shooting range

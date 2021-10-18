@@ -10,6 +10,7 @@ Summer
 * [Tidernas sommar](https://gamlalinkoping.se/tidernas-sommar/), various summer activities in Gamla Linköping
 
 Autumn
+* Halloween days in [Bodaborg](https://www.bodaborg.se/), [Kolmården](https://www.kolmarden.com/)
 * [Mjärdevi by night](https://mjardevi.se/event/science-park-by-night/) in September
 * [Matnatten](https://matnatten.se/) evening to try, discover and enjoy food
 * [Norrköping Kulturnatten](https://visit.norrkoping.se/se-och-gora/storre-evenemang/kulturnatten), culture night full of activities in September
