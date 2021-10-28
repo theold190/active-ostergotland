@@ -19,6 +19,7 @@ Summer
   * Bike to Berg gates or around it with [rented bikes](https://www.gotakanal.se/sv/263719/Cykeluthyrning-vid-Bergs-slussar/)
   * [Bike along Gotakanal in Berg](https://visitlinkoping.se/sommar/cykelsemester-i-link%C3%B6ping-och-l%C3%A4ngs-g%C3%B6ta-kanal)
   * Bike along Stångan
+  * Biking packages in Östergötland and whole Sweden with [Sweden by Bike](https://swedenbybike.com/cykelpaket/)
   * Downhill mountain biking in [Yxbaken cykelpark](https://www.yxbacken.nu/cykelpark)
   * [Kisa MTB Park](https://kisamtbpark.com/) in Kisa
   * [Mera Lera course](https://www.meraleramtb.com/meraleramtb/sida/69548/skills-area-vidingsjo) in Vidingsjö for mountain bikes
@@ -76,6 +77,7 @@ Summer
   * Wakeboarding in the channel with [LKPG Wakepark](http://www.lkpgwakepark.se/)
   * Wakeboarding, wakesurfing or even water skiing with [Froggy](https://froggy.se/se/vattensport/kurser-wakeboard-info-kurs-wakeboard~244/)
   * Windsurfing in Varamobaden, Motala
+  * Windsurfing in Linköping with [Linsurf](https://www.linsurf.com/)
 * Other
   * Floating sauna (bastuflotte) on the Göta kannal at [Claudia's Gastrobar & Glass](https://www.outdoortime.se/claudias/product/bastuflotte-kopia/)
   * Glamping (glamorous camping) is possible with [Go Glamping Sweden](https://goglampingsweden.se/) in Berg, [Tipi glamping](https://www.outdoortime.se/turer/produkt-kategori/glamping/) in Grebo, [Skogsrum](https://naturlogi.se/skogsrum/) in Verklighetens Gård, [Camping deluxe](https://www.vardnas.se/aktiviteter/camping-deluxe.html) in Vårdnäs, [Glashus](https://www.sommarhagen.se/SV/Upplevelser/Glamping) in hotell Sommarhagen, in [Sörby](https://sorbyglamping.se/) and in few other places
@@ -96,6 +98,7 @@ Autumn
 * Dance courses with [Dansarna](https://dansarna.se/index.php/en/courses-events/event-calendar)
 * Go hunting in the nearby forests with [Svenska Jägareförbundet](https://jagareforbundet.se/syd/ostergotlands-lan/jagareforbundet-ostergotland/)
 * Mushrooms collection in the forests on your own or with [Svamp Klubben](https://svampklubben.org/)
+* Theater course with [Teaterns Hus](http://teaternshus.se/teaterskola/)
 
 Winter
 ------
