@@ -9,6 +9,7 @@ Activities
 * Go fishing crabs, lobsters and mackerel together with professional fishermans [Kustnära B&B](https://www.vastsverige.com/tanum/aktiviteter/skargardsturer/kustnara-skargardsaktiviteter/?site=145), [Grebbestad Skaldjur & Marina Äventyr](https://www.vastsverige.com/tanum/produkter/grebbestad-skaldjur--marina-aventyr/?site=145), [Hummersafari med Everts Sjöbod](https://www.vastsverige.com/tanum/produkter/everts-hummerupplevelser/?site=145)
 * Explore abandoned iron mine as part of an adventure tour with [Äventyrsgruvan](https://aventyrsgruvan.se/aventyrsturen/)
 * Slip n Slide activity in various places, ex. in [Säfsen](https://safsen.se/grupper-och-konferens/gor-din-svensexa-mohippa-i-dalarna/)
+* [Search for truffle](https://www.tryffel.se/aktiviteter/tryffeljakt/) in Gotland
 
 Places
 ------
