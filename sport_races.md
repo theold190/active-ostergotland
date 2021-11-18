@@ -5,7 +5,7 @@ Here is a collection of ideas for various team activities in [Östergötland](ht
 
 * [Around Häradskär Paddle Race](https://utonjutigryt.se/aktiviteter/around-h%C3%A4radsk%C3%A4r-paddle-2020.html) in a beautiful archipelago in Gryt
 * [Blodomloppet](https://blodomloppet.se/) one of the biggest running and walking race in Sweden
-* [City Run Linköping](https://nordicsportevent.se/lopning/cityrun-linkoping/) a city run in a center of Linköping
+* [City Run Linköping](https://www.facebook.com/cityrunoffical/) a city run in a center of Linköping
 * [Color Obstacle Rush](https://colorobstaclerush.se/) that is more of a fun event than an actual run
 * [Göta kanal SUP-lopp](https://www.facebook.com/thedownwinder/) a Stand Up Padling race in Borensberg
 * [ICA Klassikern](https://icaklassikern.se/) an ICA's take of a Swedish Classic (can be done in many steps)
