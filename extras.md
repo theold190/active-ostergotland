@@ -10,6 +10,11 @@ Activities
 * Explore abandoned iron mine as part of an adventure tour with [Äventyrsgruvan](https://aventyrsgruvan.se/aventyrsturen/)
 * Slip n Slide activity in various places, ex. in [Säfsen](https://safsen.se/grupper-och-konferens/gor-din-svensexa-mohippa-i-dalarna/)
 * [Search for truffle](https://www.tryffel.se/aktiviteter/tryffeljakt/) in Gotland
+* Visit Gränna near Jönköping to see how famous [Peppermint rock candies](https://jkpg.com/en/granna/peppermint-rock/) are made
+
+Events
+------
+* [DreamHack](https://dreamhack.com/) LAN party for those who loves computer games
 
 Places
 ------
