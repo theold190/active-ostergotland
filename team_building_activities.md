@@ -34,7 +34,7 @@ Sport / active
 * [Froggy](https://froggy.se/se/vattensport/m%C3%B6hippa-och-event~43/) offers a variaty of water activities like wakeboarding, wakesurf, etc
 * [Färgboll](https://www.fargboll.se/kulskytte/) activities like archery combat, dirt bike track and a shooting range
 * [Go-karting](http://magpgokart.se/)
-* [HaMa Adventures](https://www.hamaadventures.com/) a climbing park in Linköping
+* [HaMa Adventures](https://www.facebook.com/HaMaAdventures/) a climbing park in Linköping
 * Introduction to [Archery](https://www.linkopingsskf.se/bagskyttesektionen/eventforsallskap/)
 * Introduction to diving with [Linköpings Dykcenter](https://linkopingsdykcenter.se/prova-pa-dyk/)
 * Kayaking/canoeing in [Vårdnäs Stiftsgård](http://www.vardnas.se/)

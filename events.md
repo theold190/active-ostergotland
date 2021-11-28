@@ -15,7 +15,8 @@ Autumn
 * [LiU Game Conference](https://liugc.eventreg.se/) for everyone who is interested in games
 * [Mjärdevi by night](https://mjardevi.se/event/science-park-by-night/) in September
 * [Matnatten](https://matnatten.se/) evening to try, discover and enjoy food
-* [Norrköping Kulturnatten](https://visit.norrkoping.se/se-och-gora/storre-evenemang/kulturnatten), culture night full of activities in September
+* [Motala Kulturnatt](https://www.motala.se/uppleva-och-gora/kultur/kulturnatt/), a night full of cultural activities in Motala
+* [Norrköping Kulturnatten](https://visit.norrkoping.se/se-och-gora/storre-evenemang/kulturnatten), culture night full of activities in Norrköping
 * [Norrköpings Filmfestival Flimmer](https://www.flimmer.nu/filmfestival) a weekend long film festival
 * Student spexet theatre performance by [StudentSpex](https://www.studentspex.se/) and [HolgerSpexet](https://www.holgerspexet.se/)
 * [Svensk blåsmusik festival](https://svenskblasmusik.se/)

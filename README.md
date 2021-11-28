@@ -58,7 +58,7 @@ Summer
   * [Varamobaden](https://start.motala.se/en/experience-visit/varamobaden) in Motala is a great place with lots of activities
 * Tree climbing parks
   * [Sörsjöns Äventyrspark](https://aventyrsupplevelser.com/sorsjon/) with a fantastic zip line over a Sörsjön lake
-  * [HaMa Adventures](https://www.hamaadventures.com/) in Linköping's Vidingsjö Motionscentrum
+  * [HaMa Adventures](https://www.facebook.com/HaMaAdventures/) in Linköping's Vidingsjö Motionscentrum
   * [Vattern event](http://www.vatternevent.se/) offers zipline and kayaking in Omberg area
   * Parks built by [Äventyrspark](https://aventyrsupplevelser.com/aventyrsbygge/) in different parts of Sweden
 * Walks in nature
