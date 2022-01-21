@@ -152,7 +152,7 @@ Any time
 * Other
   * Bowling at [Strandgatan Två](http://www.strandgatantva.se/)
   * Become a volunteer at the animal shelter in [Slaka djurhem](https://slakadjurhem.se/djurhemmet)
-  * Help new Swedes in their integration at [ÖppnaDörren](https://www.oppnadorren.se/about/), [Språkcaféet](https://www.svenskakyrkan.se/linkoping/sprakcafeer)
+  * Help new Swedes in their integration at [ÖppnaDörren](https://www.oppnadorren.se/about/), [Språkcaféet](https://www.svenskakyrkan.se/linkoping/sprakcafeer)<!-- markdown-link-check-disable-line -->
   * Hiking together with [local section of STF](https://www.svenskaturistforeningen.se/engagemang/lokalavdelningar/stf-linkoping/) (Swedish Tourist Association)
   * Indoor climbing in [Hangaren](https://hangaren.org/) with help/guiding from [Linköpings klätterklubb](https://linkopingsklatterklubb.se/prova-pa/)
   * [Linköping Discgolf](https://www.lkpgdg.se/)
