@@ -128,6 +128,7 @@ Any time
   * Paint together with you family or friends at [Hälsokrukan](https://halsokrukan.se/aktivitet)
   * Pottery basics can be learned with [Hjortslunds Stengods](https://www.hjortslund.se/prova-pa-drejning/)
 * Gymnastic / trampoles
+  * Poledance, aerial acrobatics with [FLOW](https://flowpole.se/linkoping/) in Linköping
   * [Nikegymnasterna](http://www.nikegymnasterna.com/) gymnastic hall with activities
   * [Yoump](https://www.yoump.se/parker/linkoping), trampoline park
 * Orientation on nature

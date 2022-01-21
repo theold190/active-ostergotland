@@ -13,13 +13,14 @@ Escape rooms / riddles
 
 Food / degustation
 -------------------
+* Beer brewing course with [Fors Bryggeri](https://www.forsbryggeri.se/bryggkurs/) in Motala
 * Julbord on a Kinda kanal cruise with [Rederi AB Kind](https://www.rederiabkind.se/vara-kryssningar/vinter-och-julupplevelse-med-ms-kind-i-linkoping/)
 * [Norins ost](https://www.norinsost.se/provningar) has cheese and/or wine degustation
 * [Ostprovning på Löt](https://www.lot-gardsmejeri.se/se/studiebesok-med-ostprovning-pa-lot) cheese degustation at the farm
 * [Restorang Hantverkaren](https://www.norrkoping-cater.com/matlagningskurs/) invites for various cooking courses
 * [Rimforsa strand’s Fredrikas kök](http://www.rimforsastrand.se/restaurang/fredrikas-kok/) offers a cooking event for groups
 * [Simons Rosteri & Bageri](http://simonsrosteribageri.se/#coursesection) offers coffee degustation, coffee roasting and sour dough baking courses
-* Tour and beer tasting at [Centralbryggeriet](https://www.centralbryggeriet.se/Visningar--Provningar) in Linköping
+* Tour and beer tasting at [Centralbryggeriet](https://www.centralbryggeriet.se/Visningar--Provningar) or [Vreta Kloster bryggeri](https://klosterbryggeri.com/bryggerivisning-med-olprovning/) in Linköping
 * Various activities at [Trollmarker SPA & Ridning](https://trollmarker.se/aktiviteter/), ex. horse riding, mushroom tours, cooking and baking bread in groups, chocolad and lakrits tasting
 
 Sport / active
