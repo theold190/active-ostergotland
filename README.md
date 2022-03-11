@@ -31,7 +31,6 @@ Summer
   * [Matsafari](https://www.rimforsastrand.se/restaurang/matsafari/) from Rimforsa Strand
   * [Ombergs Turisthotell](http://ombergsturisthotell.com/restaurang/) offers fine dining experience (part of a [White Guide](https://whiteguide.com/))
   * [Restaurang Jord](https://restaurangjord.se/) offers an exclusive food experience (part of a [White Guide](https://whiteguide.com/))
-  * [Seafood nights](http://slusscafet.com/en/seafood-nights/) at Tannefors locks
   * [Smultronstället](http://www.smultronstallet.se/), Soderkoping’s ice cream restaurant
 * [Kayaking & canoeing](https://visitlinkoping.se/kanot-kajak)
   * Kayak to archipelago and sleep in hanging tents with [Ostkustenkajak](http://ostkustenkajak.se/)
@@ -108,8 +107,8 @@ Winter
 * Skiing
   * [Yxbaken](https://www.yxbacken.nu/) in Norrköping
   * [Ombergsliden](http://ombergsliden.se/) in Omberg
-* [Winter lights walks](https://www.linkoping.se/vinterljus)
-  * [Vinterljus](https://www.linkoping.se/vinterljus) in Linköping
+* Winter lights walks
+  * [Vinterljus](https://www.linkoping.se/vinterljuskampanj/) in Linköping
   * [Light festival](https://norrkopinglightfestival.se/) in Norrköping
 
 Spring
@@ -152,7 +151,7 @@ Any time
 * Other
   * Bowling at [Strandgatan Två](http://www.strandgatantva.se/)
   * Become a volunteer at the animal shelter in [Slaka djurhem](https://slakadjurhem.se/djurhemmet)
-  * Help new Swedes in their integration at [ÖppnaDörren](https://www.oppnadorren.se/about/), [Språkcaféet](https://www.svenskakyrkan.se/linkoping/sprakcafeer)<!-- markdown-link-check-disable-line -->
+  * Help new Swedes in their integration at [ÖppnaDörren](https://www.oppnadorren.se/about/), [Språkcaféet](https://www.svenskakyrkan.se/linkoping/sprakcafeer) <!-- markdown-link-check-disable-line -->
   * Hiking together with [local section of STF](https://www.svenskaturistforeningen.se/engagemang/lokalavdelningar/stf-linkoping/) (Swedish Tourist Association)
   * Indoor climbing in [Hangaren](https://hangaren.org/) with help/guiding from [Linköpings klätterklubb](https://linkopingsklatterklubb.se/prova-pa/)
   * [Linköping Discgolf](https://www.lkpgdg.se/)
