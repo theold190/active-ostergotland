@@ -6,6 +6,7 @@ Here is a collection of different special events in [Östergötland](https://en.
 Summer
 * [Linköping city week](https://visitlinkoping.se/linkopingsstadsfest) in the end of August
 * [Medieval weekend](http://www.gastabud.se/) in Soderkoping in the end of August
+* [Music vid Göta kanal](https://www.musikvidgotakanal.com/) a serie of concerts at an old locomotive workshop
 * [NärCon](https://www.narcon.se/) festival dedicated to cosplay and games
 * [Skogsröjet](https://skogsrojet.se/) music festival in Rejmyre in the end of July
 * [Tidernas sommar](https://gamlalinkoping.se/tidernas-sommar/), various summer activities in Gamla Linköping

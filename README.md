@@ -1,4 +1,4 @@
-Östergötland's activities [![Check links](https://github.com/theold190/active-ostergotland/actions/workflows/ci.yml/badge.svg)](https://github.com/theold190/active-ostergotland/actions/workflows/ci.yml)
+Östergötland's activities
 =========================
 
 Here is a collection of ideas for various type of activities in [Östergötland](https://en.wikipedia.org/wiki/%C3%96sterg%C3%B6tland) (Sweden). List is based on personal experience, ideas and tips from friends. For convenience, activities are divided by seasons of the year. Feel free to share the information with others.
@@ -153,6 +153,7 @@ Any time
   * Become a volunteer at the animal shelter in [Slaka djurhem](https://slakadjurhem.se/djurhemmet)
   * Help new Swedes in their integration at [ÖppnaDörren](https://www.oppnadorren.se/about/), [Språkcaféet](https://www.svenskakyrkan.se/linkoping/sprakcafeer) <!-- markdown-link-check-disable-line -->
   * Hiking together with [local section of STF](https://www.svenskaturistforeningen.se/engagemang/lokalavdelningar/stf-linkoping/) (Swedish Tourist Association)
+  * Impressive skogsrum, natural camping, cooking in the forest, yoga and other nature activities with [Naturologi](https://naturlogi.se/)
   * Indoor climbing in [Hangaren](https://hangaren.org/) with help/guiding from [Linköpings klätterklubb](https://linkopingsklatterklubb.se/prova-pa/)
   * [Linköping Discgolf](https://www.lkpgdg.se/)
   * Open air activities with [Luften är fri](https://www.luftenarfri.nu/)
