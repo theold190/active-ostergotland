@@ -63,12 +63,12 @@ Summer
 * Walks in nature
   * [Tiveden Nationalpark](https://www.sverigesnationalparker.se/park/tivedens-nationalpark/)
   * Along Stångån in Linköping center
-  * Hiking in [Omberg](https://www.sveaskog.se/jakt-fiske-och-friluftsliv/besoksomraden/ekopark-omberg/)
+  * Hiking in [Omberg](https://www.sveaskog.se/upplev-naturen/besoksomraden/ekopark-omberg/)
   * Hiking in [Tinnerö](https://www.lansstyrelsen.se/ostergotland/besoksmal/naturreservat/tinnero-eklandskap-naturreservat.html)
   * Walks in [Vidinsjö motion center](https://www.linkoping.se/leanlink/stod-service/vidingsjo-motionscentrum-och-cafe-vidingsjo/)
   * Visit [Trollegater caves](https://www.lansstyrelsen.se/ostergotland/besoksmal/naturreservat/trollegater-naturreservat.html)
-  * Hike along parts of [Östgötaleden](https://www.visitostergotland.se/ostgotaleden/)
-  * Hiking in [Torpön](https://www.visitostergotland.se/144769/Torpon-i-Sommen/)
+  * Hike along parts of [Östgötaleden](https://www.ostgotaleden.se/sv/)
+  * Hiking in [Torpön](https://www.ostgotaleden.se/sv/144769/Torpon-i-Sommen/)
 * Water sports
   * eFoil surfing experience with [Surf Day](https://surfday.se/)
   * Jetboard with [Rimforsa Jetboards](https://rimforsajetboards.se/)
@@ -78,8 +78,8 @@ Summer
   * Windsurfing in Varamobaden, Motala
   * Windsurfing in Linköping with [Linsurf](https://www.linsurf.com/)
 * Other
-  * Floating sauna (bastuflotte) on the Göta kannal at [Claudia's Gastrobar & Glass](https://www.outdoortime.se/claudias/product/bastuflotte-kopia/)
-  * Glamping (glamorous camping) is possible with [Go Glamping Sweden](https://goglampingsweden.se/) in Berg, [Skogsrum](https://naturlogi.se/skogsrum/) in Verklighetens Gård, [Camping deluxe](https://www.vardnas.se/aktiviteter/camping-deluxe.html) in Vårdnäs, [Glashus](https://www.sommarhagen.se/SV/Upplevelser/Glamping) in hotell Sommarhagen, in [Sörby](https://sorbyglamping.se/) and in few other places
+  * Floating sauna (bastuflotte) on the Göta kannal at [Claudia's Gastrobar & Glass](https://www.claudiasgg.se/)
+  * Glamping (glamorous camping) is possible with [Go Glamping Sweden](https://goglampingsweden.se/) in Berg, [Skogsrum](https://naturlogi.se/skogsrum/) in Verklighetens Gård, [Camping deluxe](https://www.vardnas.se/erbjudanden/camping-deluxe.html) in Vårdnäs, [Glashus](https://www.sommarhagen.se/SV/Upplevelser/Glamping) in hotell Sommarhagen, in [Sörby](https://sorbyglamping.se/) and in few other places
   * Guiding tours with [Linköpingsguideklubb](http://linkopingsguideklubb.se/kalender-guidningar/)
   * [Linköpings Motorsällskap](https://lms.se/) club with number of racing subclubs: motocross, karting, enduro, trial, speedway, radio controlled and others
   * Parachute jumps with [Linköpings Fallskärmsklubb](https://linkopingsfallskarmsklubb.se/)
