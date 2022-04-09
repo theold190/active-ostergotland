@@ -20,6 +20,7 @@ Food / degustation
 * [Restorang Hantverkaren](https://www.norrkoping-cater.com/matlagningskurs/) invites for various cooking courses
 * [Rimforsa strand’s Fredrikas kök](http://www.rimforsastrand.se/restaurang/fredrikas-kok/) offers a cooking event for groups
 * [Simons Rosteri & Bageri](http://simonsrosteribageri.se/#coursesection) offers coffee degustation, coffee roasting and sour dough baking courses
+* [Särtshöga Vingård](https://www.sartshogavingard.se/) offers wine degustation
 * Tour and beer tasting at [Centralbryggeriet](https://www.centralbryggeriet.se/Visningar--Provningar) or [Vreta Kloster bryggeri](https://klosterbryggeri.com/bryggerivisning-med-olprovning/) in Linköping
 * Various activities at [Trollmarker SPA & Ridning](https://trollmarker.se/aktiviteter/), ex. horse riding, mushroom tours, cooking and baking bread in groups, chocolad and lakrits tasting
 

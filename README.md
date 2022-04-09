@@ -82,6 +82,7 @@ Summer
   * Glamping (glamorous camping) is possible with [Go Glamping Sweden](https://goglampingsweden.se/) in Berg, [Skogsrum](https://naturlogi.se/skogsrum/) in Verklighetens Gård, [Camping deluxe](https://www.vardnas.se/erbjudanden/camping-deluxe.html) in Vårdnäs, [Glashus](https://www.sommarhagen.se/SV/Upplevelser/Glamping) in hotell Sommarhagen, in [Sörby](https://sorbyglamping.se/) and in few other places
   * Guiding tours with [Linköpingsguideklubb](http://linkopingsguideklubb.se/kalender-guidningar/)
   * [Linköpings Motorsällskap](https://lms.se/) club with number of racing subclubs: motocross, karting, enduro, trial, speedway, radio controlled and others
+  * Nature experience and courses at [Borkhults Natur&Kultur](https://www.borkhult.se/kurser.html)
   * Parachute jumps with [Linköpings Fallskärmsklubb](https://linkopingsfallskarmsklubb.se/)
   * Sailing is a quite popular hobby, why not to go for a course with [Svenska Seglarförbundet](https://www.svensksegling.se/lardigsegla/SSFSeglarskola/Hittadinseglarskola/)
   * Shoot a [sun cannon](http://solkanonklubben.se/solkanonen/) in Åtvidaberg
