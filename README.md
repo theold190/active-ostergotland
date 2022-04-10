@@ -116,6 +116,7 @@ Spring
 ------
 * [Biodlareförening](http://www.linkopingsbiodlarna.se/) offers courses for beginner beekeepers in Linköping
 * [Gliding](https://motalaflygklubb.se/index.php/presentkort) in a plane without an engine over Motala
+* [Kyrkgirot](https://www.svenskakyrkan.se/linkoping/kyrkgirot) is a biking challenge where you visit churches of the area
 * [Stadsodling](https://www.linkoping.se/uppleva-och-gora/friluftsliv-och-parker/stadsodla/) grow your vegetables, berries, flowers in the city
 
 Any time
