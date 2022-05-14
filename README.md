@@ -47,7 +47,7 @@ Summer
   * Get fruits and berries from locals ([Fruktförmedlingen](https://www.aktavara.org/fruktformedlingen)) and from public places ([Fruktkartan](https://fruktkartan.se/))
   * Grapes at [Westervin](https://www.facebook.com/Westervin-113025693379478/)
   * Raspberries at [Ombergsboden](http://www.ombergsboden.se/) (Omberg) or at [Kallstops Eko-Bär](https://www.kallstorpsekobar.se/) (other side of Vättern)
-  * Strawberries at [Tift farm](http://tift.se/) (very close to Linkoping) or at [Skedevi farm](http://www.skedevijordgubbar.se/), (a bit far from Linköping)
+  * Strawberries at [Tift farm](http://tift.se/) (very close to Linkoping) or at [Skedevi Gård](https://skedevigard.com/), (a bit far from Linköping)
   * [Various products from farmers](https://www.gardsnara.se/ostergotland)
   * Vegetables from [Tomatboden](http://www.tomatboden.se/aktuellt/) and [Hermelins](https://www.hermelins.se/gronsaker/)
 * [Swimming](https://visitlinkoping.se/sommar/badplatser-i-link%C3%B6ping)
@@ -79,7 +79,7 @@ Summer
   * Windsurfing in Linköping with [Linsurf](https://www.linsurf.com/)
 * Other
   * Floating sauna (bastuflotte) on the Göta kannal at [Claudia's Gastrobar & Glass](https://www.claudiasgg.se/)
-  * Glamping (glamorous camping) is possible with [Go Glamping Sweden](https://goglampingsweden.se/) in Berg, [Skogsrum](https://naturlogi.se/skogsrum/) in Verklighetens Gård, [Camping deluxe](https://www.vardnas.se/erbjudanden/camping-deluxe.html) in Vårdnäs, [Glashus](https://www.sommarhagen.se/SV/Upplevelser/Glamping) in hotell Sommarhagen, in [Sörby](https://sorbyglamping.se/) and in few other places
+  * Glamping (glamorous camping) is possible with [Go Glamping Sweden](https://goglampingsweden.se/) in Berg, [Skogsrum](https://naturlogi.se/skogsrum/) in Verklighetens Gård, [Camping deluxe](https://www.vardnas.se/boende/glamping-camping-deluxe.html) in Vårdnäs, [Glashus](https://www.sommarhagen.se/SV/Upplevelser/Glamping) in hotell Sommarhagen, in [Sörby](https://sorbyglamping.se/) and in few other places
   * Guiding tours with [Linköpingsguideklubb](http://linkopingsguideklubb.se/kalender-guidningar/)
   * [Linköpings Motorsällskap](https://lms.se/) club with number of racing subclubs: motocross, karting, enduro, trial, speedway, radio controlled and others
   * Nature experience and courses at [Borkhults Natur&Kultur](https://www.borkhult.se/kurser.html)
@@ -93,7 +93,7 @@ Autumn
 ------
 * Apple collection on the streets and in the gardens
   * Some good apples can be found in Gamla Linköping
-* [Bondens egen Marknad](http://marknader.bondensegen.com/marknad.php?markID=5), farmers' own market
+* [Bondens egen Marknad](https://bondensegen.com/linkoping/), farmers' own market
 * Courses and classes at [Folkuniversitetet](https://www.folkuniversitetet.se/kurser-utbildningar/), [Kurser](https://www.kurser.se/) and [Medborgarskolan](https://www.medborgarskolan.se/kurser-och-evenemang/)
 * Dance courses with [Dansarna](https://dansarna.se/index.php/en/courses-events/event-calendar)
 * Go hunting in the nearby forests with [Svenska Jägareförbundet](https://jagareforbundet.se/syd/ostergotlands-lan/jagareforbundet-ostergotland/)
