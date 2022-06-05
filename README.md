@@ -131,6 +131,7 @@ Any time
   * Poledance, aerial acrobatics with [FLOW](https://flowpole.se/linkoping/) in Linköping
   * [Nikegymnasterna](http://www.nikegymnasterna.com/) gymnastic hall with activities
   * [Yoump](https://www.yoump.se/parker/linkoping), trampoline park
+  * [Cirkus-Emma](http://www.cirkusemma.se/) has various courses - acroyoga, learning a handstand, cirkus for kids
 * Orientation on nature
   * Geocaching
   * [Hittaut](https://www.orientering.se/provapaaktiviteter/hittaut/)

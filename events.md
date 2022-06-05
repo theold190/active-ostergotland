@@ -4,6 +4,7 @@ Special events in Östergötland
 Here is a collection of different special events in [Östergötland](https://en.wikipedia.org/wiki/%C3%96sterg%C3%B6tland). List is based on personal experience, ideas and tips from friends. Feel free to share the information with others.
 
 Summer
+* [Cirkus Olympia](https://www.cirkusolympia.se/) and [Cirkus Maximum](http://cirkusmaximum.se/) are visiting in the summer
 * [Linköping city week](https://visitlinkoping.se/linkopingsstadsfest) in the end of August
 * [Medieval weekend](http://www.gastabud.se/) in Soderkoping in the end of August
 * [Music vid Göta kanal](https://www.musikvidgotakanal.com/) a serie of concerts at an old locomotive workshop
@@ -32,6 +33,7 @@ Winter
 Spring
 * [Kosläpp](https://www.arla.se/event-sponsring/koslapp/live/), release of cows in different places in the end of April
 * [Kyrkgirot](https://www.svenskakyrkan.se/linkoping/kyrkgirot) is a biking challenge where you visit churches of the area
+* [Östergötland Spirar](https://www.ostgotadagarna.se/sv/om-ostergotland-spirar/)
 
 Any time
 * Cultural events in [Skylten](https://www.linkoping.se/skylten/)
