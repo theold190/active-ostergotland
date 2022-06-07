@@ -47,7 +47,7 @@ Summer
   * Get fruits and berries from locals ([Fruktförmedlingen](https://www.aktavara.org/fruktformedlingen)) and from public places ([Fruktkartan](https://fruktkartan.se/))
   * Grapes at [Westervin](https://www.facebook.com/Westervin-113025693379478/)
   * Raspberries at [Ombergsboden](http://www.ombergsboden.se/) (Omberg) or at [Kallstops Eko-Bär](https://www.kallstorpsekobar.se/) (other side of Vättern)
-  * Strawberries at [Tift farm](http://tift.se/) (very close to Linkoping) or at [Skedevi Gård](https://skedevigard.com/), (a bit far from Linköping)
+  * Strawberries at [Tift farm](http://tift.se/) (very close to Linköping), [Hydéns jordgubbar](https://www.facebook.com/Hyd%C3%A9ns-jordgubbar-106734317974/)(a bit outside of Linköping) or at [Skedevi Gård](https://skedevigard.com/) (a bit far from Linköping)
   * [Various products from farmers](https://www.gardsnara.se/ostergotland)
   * Vegetables from [Tomatboden](http://www.tomatboden.se/aktuellt/) and [Hermelins](https://www.hermelins.se/gronsaker/)
 * [Swimming](https://visitlinkoping.se/sommar/badplatser-i-link%C3%B6ping)
