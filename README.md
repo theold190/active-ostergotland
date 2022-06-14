@@ -65,7 +65,7 @@ Summer
   * Along Stångån in Linköping center
   * Hiking in [Omberg](https://www.sveaskog.se/upplev-naturen/besoksomraden/ekopark-omberg/)
   * Hiking in [Tinnerö](https://www.lansstyrelsen.se/ostergotland/besoksmal/naturreservat/tinnero-eklandskap-naturreservat.html)
-  * Walks in [Vidinsjö motion center](https://www.linkoping.se/leanlink/stod-service/vidingsjo-motionscentrum-och-cafe-vidingsjo/)
+  * Walks in [Vidinsjö motion center](https://www.naturkartan.se/sv/ostergotlands-lan/vidingsjo-motionscentrum)
   * Visit [Trollegater caves](https://www.lansstyrelsen.se/ostergotland/besoksmal/naturreservat/trollegater-naturreservat.html)
   * Hike along parts of [Östgötaleden](https://www.ostgotaleden.se/sv/)
   * Hiking in [Torpön](https://www.ostgotaleden.se/sv/144769/Torpon-i-Sommen/)
