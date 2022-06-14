@@ -157,7 +157,7 @@ Any time
   * Hiking together with [local section of STF](https://www.svenskaturistforeningen.se/engagemang/lokalavdelningar/stf-linkoping/) (Swedish Tourist Association)
   * Impressive skogsrum, natural camping, cooking in the forest, yoga and other nature activities with [Naturologi](https://naturlogi.se/)
   * Indoor climbing in [Hangaren](https://hangaren.org/) with help/guiding from [Linköpings klätterklubb](https://linkopingsklatterklubb.se/prova-pa/)
-  * [Linköping Discgolf](https://www.lkpgdg.se/)
+  * [Linköping Discgolf](https://www.lkpgdg.se/)<!-- markdown-link-check-disable-line -->
   * Open air activities with [Luften är fri](https://www.luftenarfri.nu/)
   * [Swedish Air Force Museum](https://flygvapenmuseum.se/) and flight simulator
   * Try churros from a [Churros Kungen](https://www.facebook.com/churroskungen/) truck that might be passing your area
