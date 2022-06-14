@@ -137,6 +137,7 @@ Any time
   * [Hittaut](https://www.orientering.se/provapaaktiviteter/hittaut/)
   * [Orientering](https://www.orientering.se/)
 * Quests, escape rooms and board games
+  * [Baronia](https://www.baronia.se/) escape rooms
   * [Bodaborg](https://www.bodaborg.se/#intro) a place with various challenge rooms
   * [Excape house](https://escapehouse.se/) in Linköping and Norrköping
   * [Twisted Keys](http://www.twistedkeys.com/en/home/) in Norrköping
