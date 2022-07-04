@@ -53,6 +53,7 @@ Summer
 * [Swimming](https://visitlinkoping.se/sommar/badplatser-i-link%C3%B6ping)
   * Bergs slussar, swim + observe boats going through gates
   * Blå lagun in Linköping, idyllic place next to Mjärdevi
+  * Blå lagun in Skänninge, amazingly looking artificial lake
   * Sturefors beach, perfect for families with kids
   * [Varamobaden](https://start.motala.se/en/experience-visit/varamobaden) in Motala is a great place with lots of activities
 * Tree climbing parks
@@ -111,6 +112,7 @@ Winter
 * Winter lights walks
   * [Vinterljus](https://www.linkoping.se/vinterljuskampanj/) in Linköping
   * [Light festival](https://norrkopinglightfestival.se/) in Norrköping
+* [Winter swimming in Hjultsön](https://www.kallbad.nu/platser-for-kalla-bad-i-linkoping/) (make sure first to read tips from [Medley](https://www.medley.se/blogg/vinterbad-kan-det-verkligen-vara-nagot))
 
 Spring
 ------
