@@ -112,7 +112,7 @@ Winter
 * Winter lights walks
   * [Vinterljus](https://www.linkoping.se/vinterljuskampanj/) in Linköping
   * [Light festival](https://norrkopinglightfestival.se/) in Norrköping
-* [Winter swimming in Hjultsön](https://www.kallbad.nu/platser-for-kalla-bad-i-linkoping/) (make sure first to read tips from [Medley](https://www.medley.se/blogg/vinterbad-kan-det-verkligen-vara-nagot))
+* [Winter swimming (kallbad) in Hjultsön](https://www.kallbad.nu/platser-for-kalla-bad-i-linkoping/) (make sure first to read tips from [Medley](https://www.medley.se/blogg/vinterbad-kan-det-verkligen-vara-nagot))
 
 Spring
 ------
