@@ -28,7 +28,7 @@ Autumn
 * [Östgötadagarna](https://www.ostgotadagarna.se/sv/), with open doors at local shops, farms, artists in September
 
 Winter
-* [LARM](https://larm.lintek.liu.se/), LinTek’s Career Fair at Linköping University
+* [LARM](https://lintek.liu.se/framtid/larm/), LinTek’s Career Fair at Linköping University
 * [Lussevaka](https://www.filmstaden.se/lussevaka/), watch movies whole night in a SF Bio cinema one night in December
 * [Tidernas jul](https://gamlalinkoping.se/tidernas-jul/), various Christmas inspired events in Gamla Linköping
 
