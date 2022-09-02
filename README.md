@@ -45,6 +45,9 @@ Summer
   * [Gamla Linköping](https://gamlalinkoping.se/in-english/), old city with different activities
 * Självplock (collecting fruits, berries and vegetables yourself on a farm)
   * Get fruits and berries from locals ([Fruktförmedlingen](https://www.aktavara.org/fruktformedlingen)) and from public places ([Fruktkartan](https://fruktkartan.se/))
+    * mid June - July: strawberries
+    * August: plumms and raspberries
+    * mid August - September: apples
   * Grapes at [Westervin](https://www.facebook.com/Westervin-113025693379478/)
   * Raspberries at [Ombergsboden](http://www.ombergsboden.se/) (Omberg) or at [Kallstops Eko-Bär](https://www.kallstorpsekobar.se/) (other side of Vättern)
   * Strawberries at [Tift farm](http://tift.se/) (very close to Linköping), [Hydéns jordgubbar](https://www.facebook.com/Hyd%C3%A9ns-jordgubbar-106734317974/)(a bit outside of Linköping) or at [Skedevi Gård](https://skedevigard.com/) (a bit far from Linköping)
