@@ -20,3 +20,8 @@ Places
 ------
 * [Dalhalla](https://www.dalhalla.se/guidade-visningar/) an open air theatre in a quarry
 * [Garpes vänner](https://www.gamleby.se/skulpturparken.html) is a troll sculpture park in a nature
+
+Degustations
+------------
+* Cheeze factory [Jürss Mejeri](https://webshop.jurssmejeri.se/) with courses and degustation in Södermanland
+* Various degustations collected at [provsmakning.se](https://provsmakning.se/plats/linkoping/)

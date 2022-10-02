@@ -83,14 +83,18 @@ Summer
   * Windsurfing in Varamobaden, Motala
   * Windsurfing in Linköping with [Linsurf](https://www.linsurf.com/)
 * Other
-  * Floating sauna (bastuflotte) on the Göta kannal at [Claudia's Gastrobar & Glass](https://www.claudiasgg.se/)
   * Fishing with [Sportfiskarna](https://www.sportfiskarna.se/) in various places
+  * Floating sauna (bastuflotte) on the Göta kannal at [Claudia's Gastrobar & Glass](https://www.claudiasgg.se/)
+  * Football golf with [Sjöstorps Fotbollsgolf](http://www.sjostorpsfotbollsgolf.se/)
   * Glamping (glamorous camping) is possible with [Go Glamping Sweden](https://goglampingsweden.se/) in Berg, [Skogsrum](https://naturlogi.se/skogsrum/) in Verklighetens Gård, [Camping deluxe](https://www.vardnas.se/boende/glamping-camping-deluxe.html) in Vårdnäs, [Glashus](https://www.sommarhagen.se/SV/Upplevelser/Glamping) in hotell Sommarhagen, in [Sörby](https://sorbyglamping.se/) and in few other places
+  * Glass blowing in [Mantorp Glasbruk](https://www.mantorpglasbruk.se/)
   * Guiding tours with [Linköpingsguideklubb](http://linkopingsguideklubb.se/kalender-guidningar/)
   * [Linköpings Motorsällskap](https://lms.se/) club with number of racing subclubs: motocross, karting, enduro, trial, speedway, radio controlled and others
   * Nature experience and courses at [Borkhults Natur&Kultur](https://www.borkhult.se/kurser.html)
+  * Outdoor camping and [climbing near Ågelsjön](https://www.naturkartan.se/sv/ostergotlands-lan/klattring-vid-agelsjon)
   * Parachute jumps with [Linköpings Fallskärmsklubb](https://linkopingsfallskarmsklubb.se/)
   * Sailing is a quite popular hobby, why not to go for a course with [Svenska Seglarförbundet](https://www.svensksegling.se/lardigsegla/SSFSeglarskola/Hittadinseglarskola/)
+  * [Sexparty](https://sexparty.se/) to learn something new about sex toys
   * Shoot a [sun cannon](http://solkanonklubben.se/solkanonen/) in Åtvidaberg
   * Try obstacle course races with [Linköping OCR](https://www.facebook.com/linkopingocr)
   * Work as a [gate keeper](https://www.gotakanal.se/sv/ab-gota-kanalbolag/slussvard/) at the Göta Canal
@@ -159,14 +163,17 @@ Any time
   * Introduction to diving with [Linköpings Dykcenter](https://linkopingsdykcenter.se/prova-pa-dyk/)
   * VR action games in [Knock'em down](https://eventcenter.se/norrkoping/vrex-norrkoping/) event center
 * Other
+  * Archery in [Finspångs BSK - Bågskytte](https://idrottonline.se/FinspangsBSK-Bagskytte) both indoors and outdoors
   * Bowling at [Strandgatan Två](http://www.strandgatantva.se/)
   * Become a volunteer at the animal shelter in [Slaka djurhem](https://slakadjurhem.se/djurhemmet)
+  * Fencing with [Linköpings Fäktklubb](https://www.linkopingsfaktklubb.se/)
   * Help new Swedes in their integration at [ÖppnaDörren](https://www.oppnadorren.se/about/), [Språkcaféet](https://www.svenskakyrkan.se/linkoping/sprakcafeer) <!-- markdown-link-check-disable-line -->
   * Hiking together with [local section of STF](https://www.svenskaturistforeningen.se/engagemang/lokalavdelningar/stf-linkoping/) (Swedish Tourist Association)
   * Impressive skogsrum, natural camping, cooking in the forest, yoga and other nature activities with [Naturologi](https://naturlogi.se/)
   * Indoor climbing in [Hangaren](https://hangaren.org/) with help/guiding from [Linköpings klätterklubb](https://linkopingsklatterklubb.se/prova-pa/)
   * [Linköping Discgolf](https://www.lkpgdg.se/)<!-- markdown-link-check-disable-line -->
   * Open air activities with [Luften är fri](https://www.luftenarfri.nu/)
+  * Pistol shooting with [Mjölby Pistolklubb](https://www.mjolbypk.se/)
   * [Swedish Air Force Museum](https://flygvapenmuseum.se/) and flight simulator
   * Try churros from a [Churros Kungen](https://www.facebook.com/churroskungen/) truck that might be passing your area
   * Wild animals safari, fine restaurant, hiking and relaxing weekends at nature with [Sommarhagen](https://www.sommarhagen.se/SV/Upplevelser)

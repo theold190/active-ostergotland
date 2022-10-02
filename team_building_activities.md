@@ -23,6 +23,7 @@ Food / degustation
 * [Särtshöga Vingård](https://www.sartshogavingard.se/) offers wine degustation
 * Tour and beer tasting at [Centralbryggeriet](https://www.centralbryggeriet.se/Visningar--Provningar) or [Vreta Kloster bryggeri](https://klosterbryggeri.com/bryggerivisning-med-olprovning/) in Linköping
 * Various activities at [Trollmarker SPA & Ridning](https://trollmarker.se/aktiviteter/), ex. horse riding, mushroom tours, cooking and baking bread in groups, chocolad and lakrits tasting
+* Various degustations collected at [provsmakning.se](https://provsmakning.se/plats/linkoping/)
 
 Sport / active
 --------------
@@ -48,6 +49,7 @@ Sport / active
 * VR action games in [Knock'em down](https://eventcenter.se/norrkoping/vrex-norrkoping/) event center
 * [Yoump](https://www.yoump.se/aktiviteter) a trampoline park
 * [Äventyrspark](https://aventyrsupplevelser.com/) a climbing park with a zip line over a lake
+* [Äventyrsupplevelser i Glotternskogen](https://firstcamp.se/destination/kolmarden-norrkoping/att-gora-i-naromradet/aventyrsupplevelser-i-glotternskogen/) with number of activities
 
 Theater performances
 --------------------
