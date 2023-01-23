@@ -39,3 +39,6 @@ Spring
 Any time
 * Cultural events in [Skylten](https://www.linkoping.se/skylten/)
 * [Travelling, wine and whisky, games and cosplay, job fairs](https://www.allamassor.se/location/ostergotland/) and even a [book fair](https://www.tellus.link/) that happen all year around
+
+Other collections
+* [https://www.pagang.info/](På Gång i Östergötland) offers a list of various activities and events

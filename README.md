@@ -174,6 +174,7 @@ Any time
   * [Linköping Discgolf](https://www.lkpgdg.se/)<!-- markdown-link-check-disable-line -->
   * Open air activities with [Luften är fri](https://www.luftenarfri.nu/)
   * Pistol shooting with [Mjölby Pistolklubb](https://www.mjolbypk.se/)
+  * Play arcade machines in [Motala Arkadhall](https://www.facebook.com/MotalaArkadhall/)
   * [Swedish Air Force Museum](https://flygvapenmuseum.se/) and flight simulator
   * Try churros from a [Churros Kungen](https://www.facebook.com/churroskungen/) truck that might be passing your area
   * Wild animals safari, fine restaurant, hiking and relaxing weekends at nature with [Sommarhagen](https://www.sommarhagen.se/SV/Upplevelser)
