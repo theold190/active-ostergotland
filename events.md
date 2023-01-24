@@ -41,4 +41,5 @@ Any time
 * [Travelling, wine and whisky, games and cosplay, job fairs](https://www.allamassor.se/location/ostergotland/) and even a [book fair](https://www.tellus.link/) that happen all year around
 
 Other collections
-* [https://www.pagang.info/](På Gång i Östergötland) offers a list of various activities and events
+* [På Gång i Östergötland](https://www.pagang.info/) offers a list of various activities and events
+* [Goto10](https://www.goto10.se/event/?event_type=linkoping) in Linköping has events in Linköping Science Park
