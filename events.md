@@ -16,7 +16,7 @@ Summer
 Autumn
 * Halloween days in [Bodaborg](https://www.bodaborg.se/), [Kolmården](https://www.kolmarden.com/)
 * [LiU Game Conference](https://liugc.eventreg.se/) for everyone who is interested in games
-* [Mjärdevi by night](https://mjardevi.se/event/science-park-by-night/) in September
+* [Mjärdevi by night](https://linkopingsciencepark.se/event/science-park-by-night/) in September
 * [Matnatten](https://matnatten.se/) evening to try, discover and enjoy food
 * [MonsterTruck StuntShow](https://www.team-klaas.com/index.html) by team Klaas
 * [Motala Kulturnatt](https://www.motala.se/uppleva-och-gora/kultur/kulturnatt/), a night full of cultural activities in Motala
@@ -41,5 +41,6 @@ Any time
 * [Travelling, wine and whisky, games and cosplay, job fairs](https://www.allamassor.se/location/ostergotland/) and even a [book fair](https://www.tellus.link/) that happen all year around
 
 Other collections
-* [På Gång i Östergötland](https://www.pagang.info/) offers a list of various activities and events
 * [Goto10](https://www.goto10.se/event/?event_type=linkoping) in Linköping has events in Linköping Science Park
+* [Linköping Science Park](https://linkopingsciencepark.se/events/) and related events
+* [På Gång i Östergötland](https://www.pagang.info/) offers a list of various activities and events
