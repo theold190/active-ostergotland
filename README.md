@@ -9,7 +9,7 @@ Summer
 ------
 * Animals
   * [Kolmården](https://www.kolmarden.com/), big animal park
-  * [Björkö 4H](http://www.bjorko4hgard.se/) petting zoo, where kids can touch animals, take care of them and go through courses
+  * [Björkö 4H](https://www.4h.se/bjorko) petting zoo, where kids can touch animals, take care of them and go through courses
   * [Vikbolands Struts](https://vikbolandsstruts.se/) an ostrich farm with a small petting zoo
   * Wild animals safari wht [Pelles Viltsafari](https://www.viltsafari.se/)
   * Horse riding at various places, like [Eggebybers Islandshästar](http://www.eggebyberg.se/), [Gibraltar Islandshästar](http://gibraltarislandshastar.se/) [Heda Ridklubb](https://www.hedaridklubb.se/), [Stenholmen](http://www.stenholmen.nu/), [Sjöberga Islandshästgård](http://www.sjoberga.se/), [Smedstad Ridsportcenter](https://hsoab.se/), [Trollmarker SPA & Ridning](https://trollmarker.se/ridning/), [Ödegårdens Ridanläggning](https://odegarden.se/)
@@ -59,7 +59,7 @@ Summer
   * Blå lagun in Linköping, idyllic place next to Mjärdevi
   * Blå lagun in Skänninge, amazingly looking artificial lake
   * Sturefors beach, perfect for families with kids
-  * [Varamobaden](https://start.motala.se/en/experience-visit/varamobaden) in Motala is a great place with lots of activities
+  * [Varamobaden](http://varamobaden.se/) in Motala is a great place with lots of activities
 * Tree climbing parks
   * [Sörsjöns Äventyrspark](https://aventyrsupplevelser.com/sorsjon/) with a fantastic zip line over a Sörsjön lake
   * [HaMa Adventures](https://www.facebook.com/HaMaAdventures/) in Linköping's Vidingsjö Motionscentrum
@@ -93,7 +93,7 @@ Summer
   * Nature experience and courses at [Borkhults Natur&Kultur](https://www.borkhult.se/kurser.html)
   * Outdoor camping and [climbing near Ågelsjön](https://www.naturkartan.se/sv/ostergotlands-lan/klattring-vid-agelsjon)
   * Parachute jumps with [Linköpings Fallskärmsklubb](https://linkopingsfallskarmsklubb.se/)
-  * Sailing is a quite popular hobby, why not to go for a course with [Svenska Seglarförbundet](https://www.svensksegling.se/lardigsegla/SSFSeglarskola/Hittadinseglarskola/)
+  * Sailing is a quite popular hobby, why not to go for a course with [Svenska Seglarförbundet](https://www.svensksegling.se/upptack-segling/seglarskola/)
   * [Sexparty](https://sexparty.se/) to learn something new about sex toys
   * Shoot a [sun cannon](http://solkanonklubben.se/solkanonen/) in Åtvidaberg
   * Try obstacle course races with [Linköping OCR](https://www.facebook.com/linkopingocr)

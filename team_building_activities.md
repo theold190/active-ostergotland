@@ -38,7 +38,7 @@ Sport / active
 * [Färgboll](https://www.fargboll.se/kulskytte/) activities like archery combat, dirt bike track and a shooting range
 * [Go-karting](http://magpgokart.se/)
 * [HaMa Adventures](https://www.facebook.com/HaMaAdventures/) a climbing park in Linköping
-* Introduction to [Archery](https://www.linkopingsskf.se/bagskyttesektionen/eventforsallskap/)
+* Introduction to [Archery](https://www.linkopingsskf.se/bagskyttesektionen/bagskytteevent/)
 * Introduction to diving with [Linköpings Dykcenter](https://linkopingsdykcenter.se/prova-pa-dyk/)
 * Kayaking/canoeing in [Vårdnäs Stiftsgård](http://www.vardnas.se/)
 * [Laserdome](http://www.laserdome-linkoping.se/) an indoor laser tag game
