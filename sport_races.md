@@ -14,7 +14,6 @@ Here is a collection of ideas for various team activities in [Östergötland](ht
 * [Mjärdevistafetten](https://linkopingsciencepark.se/event/mjardevistafetten-2022/) a running relay organized by Linköping Science Park
 * [Sommen Runt](https://www.svenskalag.se/sommenrunt) a biking race around a lake (75 km and 125 km long)
 * [Sturefors triathlon](https://www.facebook.com/stureforstriathlon/)
-* [SyaStafetten](https://idrottonline.se/SyaSK-Skidor/tavlingar/gamlatavlingar/SyaStafetten) a cross country skiing relay
 * [Vätternrundan](https://vatternrundan.se/en/) a 315 km long biking race, a part of the [Swedish Classic](https://ensvenskklassiker.se/en/) (shorter alternatives possible)
 * [VikboVändan](https://vikbovandan.se/) a biking and running race in Vikbolandet
 * [Vretabiken](https://www.vretasomk.se/vretasomk-mtb-sektionen) a MTB biking race

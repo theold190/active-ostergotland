@@ -5,9 +5,11 @@ Here is a collection of special places near [Östergötland](https://en.wikipedi
 
 Activities
 ----------
-* Collect oysters at oyster safari with [Havstenssunds Ostron](https://havstenssundsostron.com/items/ostron-safari/), [Kalvö Ostron](https://www.kalvoostron.se/), [Bröderna Klemmings Dyk](https://klemmingsdyk.se/ostronsafari/)
+* Collect oysters at oyster safari with [Havstenssunds Ostron](https://havstenssundsostron.com/items/ostron-safari/), [Kalvö Ostron](https://www.kalvoostron.se/), [Bröderna Klemmings Dyk](https://klemmingsdyk.se/ostronsafari/) or [Vadehavscentret](https://www.vadehavscentret.dk/guidede-ture-og-aktiviteter/gruppeture/%C3%B8stersture)
 * Go fishing crabs, lobsters and mackerel together with professional fishermans in Västsveriges' [Skaldjursupplevelser](https://www.vastsverige.com/skaldjursupplevelser/), [Hummersafari med Everts Sjöbod](https://www.vastsverige.com/tanum/produkter/everts-hummerupplevelser/?site=145)
 * Explore abandoned iron mine as part of an adventure tour with [Äventyrsgruvan](https://www.adventuremine.se/aventyrsturen/)
+* [Rhubarb Safari](https://www.alterhedens.se/besok-gardsbutik-delikatesser/rabarbersafari-pitea-safari/) in Piteå
+* Seals safari with [Vadehavscentret](https://www.vadehavscentret.dk/guidede-ture-og-aktiviteter/gruppeture/saelsafari)
 * Slip n Slide activity in various places, ex. in [Säfsen](https://safsen.se/grupper-och-konferens/gor-din-svensexa-mohippa-i-dalarna/)
 * [Search for truffle](https://www.tryffel.se/aktiviteter/tryffeljakt/) in Gotland
 * Visit Gränna near Jönköping to see how famous [Peppermint rock candies](https://jkpg.com/en/granna/peppermint-rock/) are made
@@ -15,6 +17,7 @@ Activities
 Events
 ------
 * [DreamHack](https://dreamhack.com/) LAN party for those who loves computer games
+* [Hallifornia](https://www.hallifornia.se/) a sport, activity and art festival in Varberg
 
 Places
 ------

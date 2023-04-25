@@ -45,7 +45,6 @@ Sport / active
 * [Motion race](http://www.motionsrace.com/Tjanster.html) offers both a physical training and team building
 * [Rimforsa strand](https://www.rimforsastrand.se/se-och-gora/teamaktiviteter/)'s collection of activities like shooting, knock on wood, team challenges
 * Various water activities with [Ostkustenkajak](https://ostkustenkajak.se/foretagsevent/) (ex. SUP, kajaking)
-* [Vattern event](http://www.vatternevent.se/) offers zipline and kayaking in Omberg area
 * VR action games in [Knock'em down](https://eventcenter.se/norrkoping/vrex-norrkoping/) event center
 * [Yoump](https://www.yoump.se/aktiviteter) a trampoline park
 * [Äventyrspark](https://aventyrsupplevelser.com/) a climbing park with a zip line over a lake

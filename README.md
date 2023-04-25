@@ -3,7 +3,7 @@
 
 Here is a collection of ideas for various type of activities in [Östergötland](https://en.wikipedia.org/wiki/%C3%96sterg%C3%B6tland) (Sweden). List is based on personal experience, ideas and tips from friends. For convenience, activities are divided by seasons of the year. Feel free to share the information with others.
 
-Follow next link for suggestions on [team building activities](team_building_activities.md), [various sport races](sport_races.md) or [special events](events.md). There are even some [extras](extras.md) near Östergötland worth mentioning.
+Follow next link for suggestions on [team building activities](team_building_activities.md), [various sport races](sport_races.md) or [special events](events.md). There are even some [extras](extras.md) relatively near Östergötland worth mentioning.
 
 Summer
 ------
@@ -11,7 +11,7 @@ Summer
   * [Kolmården](https://www.kolmarden.com/), big animal park
   * [Björkö 4H](https://www.4h.se/bjorko) petting zoo, where kids can touch animals, take care of them and go through courses
   * [Vikbolands Struts](https://vikbolandsstruts.se/) an ostrich farm with a small petting zoo
-  * Wild animals safari wht [Pelles Viltsafari](https://www.viltsafari.se/)
+  * Wild animals safari with [Pelles Viltsafari](https://www.viltsafari.se/)
   * Horse riding at various places, like [Eggebybers Islandshästar](http://www.eggebyberg.se/), [Gibraltar Islandshästar](http://gibraltarislandshastar.se/) [Heda Ridklubb](https://www.hedaridklubb.se/), [Stenholmen](http://www.stenholmen.nu/), [Sjöberga Islandshästgård](http://www.sjoberga.se/), [Smedstad Ridsportcenter](https://hsoab.se/), [Trollmarker SPA & Ridning](https://trollmarker.se/ridning/), [Ödegårdens Ridanläggning](https://odegarden.se/)
   * Walks with alpackas with [DjurLådan](https://djurladan.se/tjanster/aktiviterer), [Jägarbo Alpaca](https://jagarbo.se/alpackapromenad/) or with [Tulos åsne och alpacka farm](https://tulosfarm.se/upplevelser) (last one even have a donkey)
 * Biking
@@ -63,7 +63,6 @@ Summer
 * Tree climbing parks
   * [Sörsjöns Äventyrspark](https://aventyrsupplevelser.com/sorsjon/) with a fantastic zip line over a Sörsjön lake
   * [HaMa Adventures](https://www.facebook.com/HaMaAdventures/) in Linköping's Vidingsjö Motionscentrum
-  * [Vattern event](http://www.vatternevent.se/) offers zipline and kayaking in Omberg area
   * Parks built by [Äventyrspark](https://aventyrsupplevelser.com/aventyrsbygge/) in different parts of Sweden
 * Walks in nature
   * [Tiveden Nationalpark](https://www.sverigesnationalparker.se/park/tivedens-nationalpark/)
@@ -75,10 +74,9 @@ Summer
   * Hike along parts of [Östgötaleden](https://www.ostgotaleden.se/sv/)
   * Hiking in [Torpön](https://www.ostgotaleden.se/sv/144769/Torpon-i-Sommen/)
 * Water sports
-  * eFoil surfing experience with [Surf Day](https://surfday.se/)
   * Jetboard with [Rimforsa Jetboards](https://rimforsajetboards.se/)
   * SUP, kitesurfing and other with [Kite Kalle](https://www.kitekalle.se/linkoping.php)
-  * Wakeboarding in the channel with [LKPG Wakepark](http://www.lkpgwakepark.se/)
+  * Wakeboarding in the channel with [LKPG Wakepark](https://www.facebook.com/lkpgwakepark/)
   * Wakeboarding, wakesurfing or even water skiing with [Froggy](https://froggy.se/se/vattensport/kurser-wakeboard-info-kurs-wakeboard~244/)
   * Windsurfing in Varamobaden, Motala
   * Windsurfing in Linköping with [Linsurf](https://www.linsurf.com/)
@@ -115,9 +113,10 @@ Winter
 * [Julbord](http://www.julbordsportalen.se/julbord-i-linkoping), traditional Christmas buffets
 * Julbord on a Kinda kanal cruise with [Rederi AB Kind](https://www.rederiabkind.se/vara-kryssningar/vinter-och-julupplevelse-med-ms-kind-i-linkoping/)
 * Julmarknad, traditional Christmas markets (ex. in Gamla Linköping, Ekenäs Slott)
-* Skiing
+* Alpine skiing
   * [Yxbaken](https://www.yxbacken.nu/) in Norrköping
   * [Ombergsliden](http://ombergsliden.se/) in Omberg
+* Cross country skiing in [Sya Skiing club](https://www.syaskidklubb.se/)
 * Winter lights walks
   * [Vinterljus](https://www.linkoping.se/vinterljuskampanj/) in Linköping
   * [Light festival](https://norrkopinglightfestival.se/) in Norrköping
@@ -126,7 +125,7 @@ Winter
 Spring
 ------
 * [Biodlareförening](http://www.linkopingsbiodlarna.se/) offers courses for beginner beekeepers in Linköping
-* [Gliding](https://motalaflygklubb.se/index.php/presentkort) in a plane without an engine over Motala
+* [Gliding](https://motalaflygklubb.se/index.php/presentkort/presentkortsflygningar) in a plane without an engine over Motala
 * [Stadsodling](https://www.linkoping.se/uppleva-och-gora/friluftsliv-och-parker/stadsodla/) grow your vegetables, berries, flowers in the city
 
 Any time
@@ -163,7 +162,7 @@ Any time
   * Introduction to diving with [Linköpings Dykcenter](https://linkopingsdykcenter.se/prova-pa-dyk/)
   * VR action games in [Knock'em down](https://eventcenter.se/norrkoping/vrex-norrkoping/) event center
 * Other
-  * Archery in [Finspångs BSK - Bågskytte](https://idrottonline.se/FinspangsBSK-Bagskytte) both indoors and outdoors
+  * Archery in [Finspångs BSK - Bågskytte](https://www.svenskalag.se/finspangsbsk) both indoors and outdoors
   * Bowling at [Strandgatan Två](http://www.strandgatantva.se/)
   * Become a volunteer at the animal shelter in [Slaka djurhem](https://slakadjurhem.se/djurhemmet)
   * Fencing with [Linköpings Fäktklubb](https://www.linkopingsfaktklubb.se/)
