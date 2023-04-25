@@ -16,7 +16,7 @@ Summer
   * Walks with alpackas with [DjurLådan](https://djurladan.se/tjanster/aktiviterer), [Jägarbo Alpaca](https://jagarbo.se/alpackapromenad/) or with [Tulos åsne och alpacka farm](https://tulosfarm.se/upplevelser) (last one even have a donkey)
 * Biking
   * A day trip biking around Visingsö near Gränna
-  * Bike to Berg gates or around it with [rented bikes](https://www.gotakanal.se/sv/263719/Cykeluthyrning-vid-Bergs-slussar/)
+  * Bike to Berg gates or around it with [rented bikes](https://www.gotakanal.se/sv/cykelsemester/cykelpaket)
   * [Bike along Gotakanal in Berg](https://visitlinkoping.se/sommar/cykelsemester-i-link%C3%B6ping-och-l%C3%A4ngs-g%C3%B6ta-kanal)
   * Bike along Stångan
   * Biking packages in Östergötland and whole Sweden with [Sweden by Bike](https://swedenbybike.com/cykelpaket/)
@@ -40,7 +40,7 @@ Summer
 * Sightseeing
   * [Vadstena castle](http://vadstenaslott.com/)
   * [Motala museum of cars](http://www.motormuseum.se/)
-  * [Boats passing Berg slussar](https://www.gotakanal.se/en/225251/Lock-gate-exhibition-Berg-locks/)
+  * [Boats passing Berg slussar](https://www.gotakanal.se/sv/se-gora/titta-pa-slussning)
   * [Ekenäs castle](http://www.ekenasslott.se/), especially during a medieval festivals
   * [Gamla Linköping](https://gamlalinkoping.se/in-english/), old city with different activities
 * Självplock (collecting fruits, berries and vegetables yourself on a farm)

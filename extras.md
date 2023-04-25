@@ -12,6 +12,7 @@ Activities
 * Seals safari with [Vadehavscentret](https://www.vadehavscentret.dk/guidede-ture-og-aktiviteter/gruppeture/saelsafari)
 * Slip n Slide activity in various places, ex. in [Säfsen](https://safsen.se/grupper-och-konferens/gor-din-svensexa-mohippa-i-dalarna/)
 * [Search for truffle](https://www.tryffel.se/aktiviteter/tryffeljakt/) in Gotland
+* Try free fall in a huge tube with [Bodyflight](https://en.bodyflight.se/)
 * Visit Gränna near Jönköping to see how famous [Peppermint rock candies](https://jkpg.com/en/granna/peppermint-rock/) are made
 
 Events
