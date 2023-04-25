@@ -176,4 +176,5 @@ Any time
   * Play arcade machines in [Motala Arkadhall](https://www.facebook.com/MotalaArkadhall/)
   * [Swedish Air Force Museum](https://flygvapenmuseum.se/) and flight simulator
   * Try churros from a [Churros Kungen](https://www.facebook.com/churroskungen/) truck that might be passing your area
+  * Various culinary courses organized by [Open New Doors](https://open-new-doors-online.quickbutik.com/kurser)
   * Wild animals safari, fine restaurant, hiking and relaxing weekends at nature with [Sommarhagen](https://www.sommarhagen.se/SV/Upplevelser)
