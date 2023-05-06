@@ -116,7 +116,7 @@ Winter
 * Alpine skiing
   * [Yxbaken](https://www.yxbacken.nu/) in Norrköping
   * [Ombergsliden](http://ombergsliden.se/) in Omberg
-* Cross country skiing in [Sya Skiing club](https://www.syaskidklubb.se/)
+* Cross country skiing in [Sya Skiing club](https://www.syaskidklubb.se/) or in [Vreta Ski center](https://vretaskicenter.se/)
 * Winter lights walks
   * [Vinterljus](https://www.linkoping.se/vinterljuskampanj/) in Linköping
   * [Light festival](https://norrkopinglightfestival.se/) in Norrköping
@@ -125,7 +125,9 @@ Winter
 Spring
 ------
 * [Biodlareförening](http://www.linkopingsbiodlarna.se/) offers courses for beginner beekeepers in Linköping
+* Sport car rally with [Östergötlands Bilsportförbund](https://www.ostergotlandsbf.se/)
 * [Gliding](https://motalaflygklubb.se/index.php/presentkort/presentkortsflygningar) in a plane without an engine over Motala
+* [Rebusrally](https://www.rebusrally.se/) or [Katlas Kompisar](https://www.katlaskompisar.se/) offer a team activity to solve puzzles while travelling around.
 * [Stadsodling](https://www.linkoping.se/uppleva-och-gora/friluftsliv-och-parker/stadsodla/) grow your vegetables, berries, flowers in the city
 
 Any time
@@ -163,8 +165,10 @@ Any time
   * VR action games in [Knock'em down](https://eventcenter.se/norrkoping/vrex-norrkoping/) event center
 * Other
   * Archery in [Finspångs BSK - Bågskytte](https://www.svenskalag.se/finspangsbsk) both indoors and outdoors
+  * [Architecture walks (arkitekturpromenad)](https://www.linkoping.se/uppleva-och-gora/kultur/museer-och-stadsvandringar/stadsvandringar/arkitekturpromenad/) or [digital historic walks (digitala vandringar)](https://ostergotlandsmuseum.se/upplev/digitala-vandringar/stadsvandringar-i-linkoeping/) in Linköping
   * Bowling at [Strandgatan Två](http://www.strandgatantva.se/)
   * Become a volunteer at the animal shelter in [Slaka djurhem](https://slakadjurhem.se/djurhemmet)
+  * Dancing courses and events with [Linköping Dancing Team](https://ldt.se/)
   * Fencing with [Linköpings Fäktklubb](https://www.linkopingsfaktklubb.se/)
   * Help new Swedes in their integration at [ÖppnaDörren](https://www.oppnadorren.se/about/), [Språkcaféet](https://www.svenskakyrkan.se/linkoping/sprakcafeer) <!-- markdown-link-check-disable-line -->
   * Hiking together with [local section of STF](https://www.svenskaturistforeningen.se/engagemang/lokalavdelningar/stf-linkoping/) (Swedish Tourist Association)

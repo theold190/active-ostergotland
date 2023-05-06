@@ -14,9 +14,11 @@ Activities
 * [Search for truffle](https://www.tryffel.se/aktiviteter/tryffeljakt/) in Gotland
 * Try free fall in a huge tube with [Bodyflight](https://en.bodyflight.se/)
 * Visit Gränna near Jönköping to see how famous [Peppermint rock candies](https://jkpg.com/en/granna/peppermint-rock/) are made
+* Various courses and events related to art and hand crafts in [Sätergläntan](https://www.saterglantan.se/)
 
 Events
 ------
+* [Dance of cranes](https://www.hornborga.com/hitta-ut/tranorna-och-trandansen/) in Hornborgasjön
 * [DreamHack](https://dreamhack.com/) LAN party for those who loves computer games
 * [Hallifornia](https://www.hallifornia.se/) a sport, activity and art festival in Varberg
 
