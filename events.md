@@ -6,6 +6,7 @@ Here is a collection of different special events in [Östergötland](https://en.
 Summer
 * [Cirkus Olympia](https://www.cirkusolympia.se/) and [Cirkus Maximum](http://cirkusmaximum.se/) are visiting in the summer
 * [Linköping city week](https://visitlinkoping.se/linkopingsstadsfest) in the end of August
+* [Matmilen](https://www.matmilen.info/) festival organized by restaurants
 * [Medieval weekend](http://www.gastabud.se/) in Soderkoping in the end of August
 * [Moveat](https://moveat.co/) offers a tasting event in different places of your city
 * [Music vid Göta kanal](https://www.musikvidgotakanal.com/) a serie of concerts at an old locomotive workshop
