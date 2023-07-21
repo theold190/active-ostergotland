@@ -13,7 +13,7 @@ Summer
   * [Vikbolands Struts](https://vikbolandsstruts.se/) an ostrich farm with a small petting zoo
   * Wild animals safari with [Pelles Viltsafari](https://www.viltsafari.se/)
   * Horse riding at various places, like [Eggebybers Islandshästar](http://www.eggebyberg.se/), [Gibraltar Islandshästar](http://gibraltarislandshastar.se/) [Heda Ridklubb](https://www.hedaridklubb.se/), [Stenholmen](http://www.stenholmen.nu/), [Sjöberga Islandshästgård](http://www.sjoberga.se/), [Smedstad Ridsportcenter](https://hsoab.se/), [Trollmarker SPA & Ridning](https://trollmarker.se/ridning/), [Ödegårdens Ridanläggning](https://odegarden.se/)
-  * Walks with alpackas with [DjurLådan](https://djurladan.se/tjanster/aktiviterer), [Jägarbo Alpaca](https://jagarbo.se/alpackapromenad/) or with [Tulos åsne och alpacka farm](https://tulosfarm.se/upplevelser) (last one even have a donkey)
+  * Walks with alpackas with [DjurLådan](https://djurladan.se/tjanster/aktiviterer), [Jägarbo Alpaca](https://jagarbo.se/) or with [Tulos åsne och alpacka farm](https://tulosfarm.se/upplevelser) (last one even have a donkey)
 * Biking
   * A day trip biking around Visingsö near Gränna
   * Bike to Berg gates or around it with [rented bikes](https://www.gotakanal.se/sv/cykelsemester/cykelpaket)
@@ -23,10 +23,12 @@ Summer
   * Downhill mountain biking in [Yxbaken cykelpark](https://www.yxbacken.nu/cykelpark)
   * [Kisa MTB Park](https://kisamtbpark.com/) in Kisa
   * [Mera Lera course](https://www.meraleramtb.com/meraleramtb/sida/69548/skills-area-vidingsjo) in Vidingsjö for mountain bikes
+  * Ride a dressin in Vadstena with [Wadstena Fogelsta Järnväg](https://wfj.se/cykla-dressin/)
 * Boat cruising
   * Boat trips to [Fyrudden archipelago](http://www.harstena.se/kommunikationer/skargardstrafiken.htm)
   * Boat cruising in Göta kanal, Vättern with [M/S Kung Sverker](https://www.kungsverker.se/kryssningar)
   * Cruising in Kinda kanal with [Rederi AB Kind](https://www.rederiabkind.se/)
+  * Boat cruising in around lake Sommen with [S/S Boxholm 2](https://www.boxholm2.com/)
 * Food experience
   * [Matsafari](https://www.rimforsastrand.se/restaurang/matsafari/) from Rimforsa Strand
   * [Ombergs Turisthotell](http://ombergsturisthotell.com/restaurang/) offers fine dining experience (part of a [White Guide](https://whiteguide.com/))
@@ -120,7 +122,7 @@ Winter
 * Winter lights walks
   * [Vinterljus](https://www.linkoping.se/vinterljuskampanj/) in Linköping
   * [Light festival](https://norrkopinglightfestival.se/) in Norrköping
-* [Winter swimming (kallbad) in Hjultsön](https://www.kallbad.nu/platser-for-kalla-bad-i-linkoping/) (make sure first to read tips from [Medley](https://www.medley.se/blogg/vinterbad-kan-det-verkligen-vara-nagot))
+* [Winter swimming (kallbad) in Hjultsön](https://www.kallbad.nu/platser-for-kalla-bad-i-linkoping/)
 
 Spring
 ------
@@ -142,7 +144,7 @@ Any time
 * Gymnastic / trampoles
   * Poledance, aerial acrobatics with [FLOW](https://flowpole.se/linkoping/) in Linköping
   * [Nikegymnasterna](http://www.nikegymnasterna.com/) gymnastic hall with activities
-  * [Yoump](https://www.yoump.se/parker/linkoping), trampoline park
+  * [Yoump](https://www.yoump.se/), trampoline park
   * [Cirkus-Emma](http://www.cirkusemma.se/) has various courses - acroyoga, learning a handstand, cirkus for kids
 * Orientation on nature
   * Geocaching
@@ -160,7 +162,7 @@ Any time
   * [Hobbyhörnan](http://www.hobbyhornan.com/) for those interested in creating, assembling, painting and playing models
   * [Stadsmysterium](https://stadsmysterium.se/) solve puzzles in city centers
 * Swimming pool
-  * Swimming in [Medley](https://www.medley.se/vara-anlaggningar/linkopings-simhall) swimming pool
+  * Swimming in [Medley](https://www.medley.se/tinnerbacksbadet/) swimming pool
   * Introduction to diving with [Linköpings Dykcenter](https://linkopingsdykcenter.se/prova-pa-dyk/)
   * VR action games in [Knock'em down](https://eventcenter.se/norrkoping/vrex-norrkoping/) event center
 * Other

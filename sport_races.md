@@ -10,7 +10,6 @@ Here is a collection of ideas for various team activities in [Östergötland](ht
 * [Göta kanal SUP-lopp](https://www.facebook.com/thedownwinder/) a Stand Up Padling race in Borensberg
 * [ICA Klassikern](https://icaklassikern.se/) an ICA's take of a Swedish Classic (can be done in many steps)
 * [Kanallöpet](http://www.kanallopet.com/) a running event along Göta Kanal
-* [Kindakanalloppet](https://www.outdoortime.se/kindakanalloppet/) a kayaking event for whole family
 * [Mjärdevistafetten](https://linkopingsciencepark.se/event/mjardevistafetten-2022/) a running relay organized by Linköping Science Park
 * [Sommen Runt](https://www.svenskalag.se/sommenrunt) a biking race around a lake (75 km and 125 km long)
 * [Sturefors triathlon](https://www.facebook.com/stureforstriathlon/)

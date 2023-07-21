@@ -9,6 +9,7 @@ Activities
 * Go fishing crabs, lobsters and mackerel together with professional fishermans in Västsveriges' [Skaldjursupplevelser](https://www.vastsverige.com/skaldjursupplevelser/), [Hummersafari med Everts Sjöbod](https://www.vastsverige.com/tanum/produkter/everts-hummerupplevelser/?site=145)
 * Explore abandoned iron mine as part of an adventure tour with [Äventyrsgruvan](https://www.adventuremine.se/aventyrsturen/)
 * [Rhubarb Safari](https://www.alterhedens.se/besok-gardsbutik-delikatesser/rabarbersafari-pitea-safari/) in Piteå
+* Ride a dressin in Småland with [Smalspåret](https://smalsparet.com/cykla-dressin/)
 * Seals safari with [Vadehavscentret](https://www.vadehavscentret.dk/guidede-ture-og-aktiviteter/gruppeture/saelsafari)
 * Slip n Slide activity in various places, ex. in [Säfsen](https://safsen.se/grupper-och-konferens/gor-din-svensexa-mohippa-i-dalarna/)
 * [Search for truffle](https://www.tryffel.se/aktiviteter/tryffeljakt/) in Gotland
