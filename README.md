@@ -8,11 +8,12 @@ Follow next link for suggestions on [team building activities](team_building_act
 Summer
 ------
 * Animals
+  * Horse riding at various places, like [Eggebybers Islandshästar](http://www.eggebyberg.se/), [Gibraltar Islandshästar](http://gibraltarislandshastar.se/) [Heda Ridklubb](https://www.hedaridklubb.se/), [Stenholmen](http://www.stenholmen.nu/), [Sjöberga Islandshästgård](http://www.sjoberga.se/), [Smedstad Ridsportcenter](https://hsoab.se/), [Trollmarker SPA & Ridning](https://trollmarker.se/ridning/), [Ödegårdens Ridanläggning](https://odegarden.se/)
   * [Kolmården](https://www.kolmarden.com/), big animal park
+  * [Möjligheternas gård](http://www.mojligheternasgard.se/) farm with animals and activities
   * [Björkö 4H](https://www.4h.se/bjorko) petting zoo, where kids can touch animals, take care of them and go through courses
   * [Vikbolands Struts](https://vikbolandsstruts.se/) an ostrich farm with a small petting zoo
   * Wild animals safari with [Pelles Viltsafari](https://www.viltsafari.se/)
-  * Horse riding at various places, like [Eggebybers Islandshästar](http://www.eggebyberg.se/), [Gibraltar Islandshästar](http://gibraltarislandshastar.se/) [Heda Ridklubb](https://www.hedaridklubb.se/), [Stenholmen](http://www.stenholmen.nu/), [Sjöberga Islandshästgård](http://www.sjoberga.se/), [Smedstad Ridsportcenter](https://hsoab.se/), [Trollmarker SPA & Ridning](https://trollmarker.se/ridning/), [Ödegårdens Ridanläggning](https://odegarden.se/)
   * Walks with alpackas with [DjurLådan](https://djurladan.se/tjanster/aktiviterer), [Jägarbo Alpaca](https://jagarbo.se/) or with [Tulos åsne och alpacka farm](https://tulosfarm.se/upplevelser) (last one even have a donkey)
 * Biking
   * A day trip biking around Visingsö near Gränna
@@ -52,8 +53,8 @@ Summer
     * mid August - September: apples
   * Grapes at [Westervin](https://www.facebook.com/Westervin-113025693379478/)
   * Pumpkins at [Ekö Pumpan](https://www.facebook.com/ekopumpan)
-  * Raspberries at [Ombergsboden](http://www.ombergsboden.se/) (Omberg) or at [Kallstops Eko-Bär](https://www.kallstorpsekobar.se/) (other side of Vättern)
-  * Strawberries at [Tift farm](http://tift.se/) (very close to Linköping), [Hydéns jordgubbar](https://www.facebook.com/Hyd%C3%A9ns-jordgubbar-106734317974/)(a bit outside of Linköping) or at [Skedevi Gård](https://skedevigard.com/) (a bit far from Linköping)
+  * Raspberries at [Ombergsboden](http://www.ombergsboden.se/) (Omberg)
+  * Strawberries at [Tift farm](http://tift.se/) (very close to Linköping), [Hydéns jordgubbar](https://www.facebook.com/Hyd%C3%A9ns-jordgubbar-106734317974/)(a bit outside of Linköping) or at [Skedevi Gård](https://skedevigard.com/) (a bit far from Linköping), [Fylla Gård](https://www.fyllagard.se/)
   * [Various products from farmers](https://www.gardsnara.se/ostergotland)
   * Vegetables from [Tomatboden](http://www.tomatboden.se/aktuellt/) and [Hermelins](https://www.hermelins.se/gronsaker/)
 * [Swimming](https://visitlinkoping.se/sommar/badplatser-i-link%C3%B6ping)
@@ -89,7 +90,7 @@ Summer
   * Glamping (glamorous camping) is possible with [Go Glamping Sweden](https://goglampingsweden.se/) in Berg, [Skogsrum](https://naturlogi.se/skogsrum/) in Verklighetens Gård, [Camping deluxe](https://www.vardnas.se/boende/glamping-camping-deluxe.html) in Vårdnäs, [Glashus](https://www.sommarhagen.se/SV/Upplevelser/Glamping) in hotell Sommarhagen, in [Sörby](https://sorbyglamping.se/) and in few other places
   * Glass blowing in [Mantorp Glasbruk](https://www.mantorpglasbruk.se/)
   * Guiding tours with [Linköpingsguideklubb](http://linkopingsguideklubb.se/kalender-guidningar/)
-  * [Linköpings Motorsällskap](https://lms.se/) club with number of racing subclubs: motocross, karting, enduro, trial, speedway, radio controlled and others
+  * [Linköpings Motorsällskap](https://www.svenskalag.se/linkopingsmotorsallskap) club with number of racing subclubs: motocross, karting, enduro, trial, speedway, radio controlled and others
   * Nature experience and courses at [Borkhults Natur&Kultur](https://www.borkhult.se/kurser.html)
   * Outdoor camping and [climbing near Ågelsjön](https://www.naturkartan.se/sv/ostergotlands-lan/klattring-vid-agelsjon)
   * Parachute jumps with [Linköpings Fallskärmsklubb](https://linkopingsfallskarmsklubb.se/)
@@ -105,7 +106,7 @@ Autumn
   * Some good apples can be found in Gamla Linköping
 * [Bondens egen Marknad](https://bondensegen.com/linkoping/), farmers' own market
 * Courses and classes at [Folkuniversitetet](https://www.folkuniversitetet.se/kurser-utbildningar/), [Kurser](https://www.kurser.se/) and [Medborgarskolan](https://www.medborgarskolan.se/kurser-och-evenemang/)
-* Dance courses with [Dansarna](https://dansarna.se/index.php/en/courses-events/event-calendar)
+* Dance courses with [Dansarna](https://dansarna.se/)
 * Go hunting in the nearby forests with [Svenska Jägareförbundet](https://jagareforbundet.se/syd/ostergotlands-lan/jagareforbundet-ostergotland/)
 * Mushrooms collection in the forests on your own or with [Svamp Klubben](https://svampklubben.org/)
 * Theater course with [Teaterns Hus](http://teaternshus.se/teaterskola/)
