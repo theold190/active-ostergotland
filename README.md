@@ -82,7 +82,7 @@ Summer
   * Wakeboarding in the channel with [LKPG Wakepark](https://www.facebook.com/lkpgwakepark/)
   * Wakeboarding, wakesurfing or even water skiing with [Froggy](https://froggy.se/se/vattensport/kurser-wakeboard-info-kurs-wakeboard~244/)
   * Windsurfing in Varamobaden, Motala
-  * Windsurfing in Linköping with [Linsurf](https://www.linsurf.com/)
+  * Windsurfing in Linköping with [Linsurf](https://www.linsurf.se/)
 * Other
   * Fishing with [Sportfiskarna](https://www.sportfiskarna.se/) in various places
   * Floating sauna (bastuflotte) on the Göta kannal at [Claudia's Gastrobar & Glass](https://www.claudiasgg.se/)
@@ -122,7 +122,7 @@ Winter
 * Cross country skiing in [Sya Skiing club](https://www.syaskidklubb.se/) or in [Vreta Ski center](https://vretaskicenter.se/)
 * Winter lights walks
   * [Vinterljus](https://www.linkoping.se/vinterljuskampanj/) in Linköping
-  * [Light festival](https://norrkopinglightfestival.se/) in Norrköping
+  * [Light festival](https://www.facebook.com/norrkopinglightfestival/) in Norrköping
 * [Winter swimming (kallbad) in Hjultsön](https://www.kallbad.nu/platser-for-kalla-bad-i-linkoping/)
 
 Spring

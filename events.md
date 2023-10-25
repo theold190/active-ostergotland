@@ -16,7 +16,7 @@ Summer
 
 Autumn
 * Halloween days in [Bodaborg](https://www.bodaborg.se/), [Kolmården](https://www.kolmarden.com/)
-* [LiU Game Conference](https://liugc.eventreg.se/) for everyone who is interested in games
+* [LiU Game Conference](https://www.facebook.com/liugameconf/) for everyone who is interested in games
 * [Mjärdevi by night](https://linkopingsciencepark.se/event/science-park-by-night/) in September
 * [Matnatten](https://matnatten.se/) evening to try, discover and enjoy food
 * [MonsterTruck StuntShow](https://www.team-klaas.com/index.html) by team Klaas
