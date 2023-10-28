@@ -139,7 +139,7 @@ Any time
   * Create your own jewelry with [Hannas Silver](http://hannassilver.se/Kurser/)
   * Do something with your hands at [Makerspace Linköping](https://makerslink.se/)
   * Furniture renovation courses with [Relove me](https://reloveme.se/kurser/)
-  * Handicraft courses with [Hemslöjden i Östergötland](https://www.hemslojdeniostergotland.se/kurser)
+  * Handicraft courses with [Hemslöjden i Östergötland](https://www.hemslojdeniostergotland.se/kurser) and [Gunnbäcks Konstigheter](https://www.gunnbackskonstigheter.se/pa-gang/)
   * Paint together with you family or friends at [Hälsokrukan](https://halsokrukan.se/aktivitet)
   * Pottery basics can be learned with [Hjortslunds Stengods](https://www.hjortslund.se/prova-pa-drejning/)
 * Gymnastic / trampoles
