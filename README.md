@@ -141,7 +141,7 @@ Any time
   * Furniture renovation courses with [Relove me](https://reloveme.se/kurser/)
   * Handicraft courses with [Hemslöjden i Östergötland](https://www.hemslojdeniostergotland.se/kurser) and [Gunnbäcks Konstigheter](https://www.gunnbackskonstigheter.se/pa-gang/)
   * Paint together with you family or friends at [Hälsokrukan](https://halsokrukan.se/aktivitet)
-  * Pottery basics can be learned with [Hjortslunds Stengods](https://www.hjortslund.se/prova-pa-drejning/)
+  * Pottery basics can be learned with [Hjortslunds Stengods](https://www.hjortslund.se/prova-pa-drejning/) or in [Keramikstudion](https://www.keramikstudion.se/)
 * Gymnastic / trampoles
   * Poledance, aerial acrobatics with [FLOW](https://flowpole.se/linkoping/) in Linköping
   * [Nikegymnasterna](http://www.nikegymnasterna.com/) gymnastic hall with activities
