@@ -8,17 +8,17 @@ Follow next link for suggestions on [team building activities](team_building_act
 Summer
 ------
 * Animals
-  * Horse riding at various places, like [Eggebybers Islandshästar](http://www.eggebyberg.se/), [Gibraltar Islandshästar](http://gibraltarislandshastar.se/) [Heda Ridklubb](https://www.hedaridklubb.se/), [Stenholmen](http://www.stenholmen.nu/), [Sjöberga Islandshästgård](http://www.sjoberga.se/), [Smedstad Ridsportcenter](https://hsoab.se/), [Trollmarker SPA & Ridning](https://trollmarker.se/ridning/), [Ödegårdens Ridanläggning](https://odegarden.se/)
+  * Horse riding at various places, like [Gibraltar Islandshästar](http://gibraltarislandshastar.se/) [Heda Ridklubb](https://www.hedaridklubb.se/), [Stenholmen](http://www.stenholmen.nu/), [Sjöberga Islandshästgård](http://www.sjoberga.se/), [Smedstad Ridsportcenter](https://hsoab.se/), [Trollmarker SPA & Ridning](https://trollmarker.se/ridning/), [Ödegårdens Ridanläggning](https://odegarden.se/)
   * [Kolmården](https://www.kolmarden.com/), big animal park
   * [Möjligheternas gård](http://www.mojligheternasgard.se/) farm with animals and activities
   * [Björkö 4H](https://www.4h.se/bjorko) petting zoo, where kids can touch animals, take care of them and go through courses
   * [Vikbolands Struts](https://vikbolandsstruts.se/) an ostrich farm with a small petting zoo
   * Wild animals safari with [Pelles Viltsafari](https://www.viltsafari.se/)
-  * Walks with alpackas with [DjurLådan](https://djurladan.se/tjanster/aktiviterer), [Jägarbo Alpaca](https://jagarbo.se/) or with [Tulos åsne och alpacka farm](https://tulosfarm.se/upplevelser) (last one even have a donkey)
+  * Walks with alpackas with [DjurLådan](https://djurladan.se/tjanster/aktiviterer), [Jägarbo Alpaca](https://www.facebook.com/jagarbo.alpaca.9/) or with [Tulos åsne och alpacka farm](https://tulosfarm.se/upplevelser) (last one even have a donkey)
 * Biking
   * A day trip biking around Visingsö near Gränna
   * Bike to Berg gates or around it with [rented bikes](https://www.gotakanal.se/sv/cykelsemester/cykelpaket)
-  * [Bike along Gotakanal in Berg](https://visitlinkoping.se/sommar/cykelsemester-i-link%C3%B6ping-och-l%C3%A4ngs-g%C3%B6ta-kanal)
+  * Bike along Gotakanal in Berg
   * Bike along Stångan
   * Biking packages in Östergötland and whole Sweden with [Sweden by Bike](https://swedenbybike.com/cykelpaket/)
   * Downhill mountain biking in [Yxbaken cykelpark](https://www.yxbacken.nu/cykelpark)
@@ -57,7 +57,7 @@ Summer
   * Strawberries at [Tift farm](http://tift.se/) (very close to Linköping), [Hydéns jordgubbar](https://www.facebook.com/Hyd%C3%A9ns-jordgubbar-106734317974/)(a bit outside of Linköping) or at [Skedevi Gård](https://skedevigard.com/) (a bit far from Linköping), [Fylla Gård](https://www.fyllagard.se/)
   * [Various products from farmers](https://www.gardsnara.se/ostergotland)
   * Vegetables from [Tomatboden](http://www.tomatboden.se/aktuellt/) and [Hermelins](https://www.hermelins.se/gronsaker/)
-* [Swimming](https://visitlinkoping.se/sommar/badplatser-i-link%C3%B6ping)
+* Swimming
   * Bergs slussar, swim + observe boats going through gates
   * Blå lagun in Linköping, idyllic place next to Mjärdevi
   * Blå lagun in Skänninge, amazingly looking artificial lake
@@ -98,6 +98,7 @@ Summer
   * [Sexparty](https://sexparty.se/) to learn something new about sex toys
   * Shoot a [sun cannon](http://solkanonklubben.se/solkanonen/) in Åtvidaberg
   * Try obstacle course races with [Linköping OCR](https://www.facebook.com/linkopingocr)
+  * Various activities from [Visit Linköping](https://visitlinkoping.se/se-och-gora/aktiviteter/)
   * Work as a [gate keeper](https://www.gotakanal.se/sv/ab-gota-kanalbolag/slussvard/) at the Göta Canal
 
 Autumn
@@ -183,5 +184,5 @@ Any time
   * Play arcade machines in [Motala Arkadhall](https://www.facebook.com/MotalaArkadhall/)
   * [Swedish Air Force Museum](https://flygvapenmuseum.se/) and flight simulator
   * Try churros from a [Churros Kungen](https://www.facebook.com/churroskungen/) truck that might be passing your area
-  * Various culinary courses organized by [Open New Doors](https://open-new-doors-online.quickbutik.com/kurser)
+  * Various culinary courses organized by [Open New Doors](https://open-new-doors-online.quickbutik.com/)
   * Wild animals safari, fine restaurant, hiking and relaxing weekends at nature with [Sommarhagen](https://www.sommarhagen.se/SV/Upplevelser)
