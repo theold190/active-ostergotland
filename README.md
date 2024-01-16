@@ -182,6 +182,7 @@ Any time
   * Open air activities with [Luften är fri](https://www.luftenarfri.nu/)
   * Pistol shooting with [Mjölby Pistolklubb](https://www.mjolbypk.se/)
   * Play arcade machines in [Motala Arkadhall](https://www.facebook.com/MotalaArkadhall/)
+  * Play music in a band - from classic to rock
   * Singing in a choir, ex. in [Linköpings Indiekör](http://www.linkopingsindiekor.se/)
   * [Swedish Air Force Museum](https://flygvapenmuseum.se/) and flight simulator
   * Try churros from a [Churros Kungen](https://www.facebook.com/churroskungen/) truck that might be passing your area
