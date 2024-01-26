@@ -114,13 +114,14 @@ Autumn
 
 Winter
 ------
-* [Julbord](http://www.julbordsportalen.se/julbord-i-linkoping), traditional Christmas buffets
-* Julbord on a Kinda kanal cruise with [Rederi AB Kind](https://www.rederiabkind.se/vara-kryssningar/vinter-och-julupplevelse-med-ms-kind-i-linkoping/)
-* Julmarknad, traditional Christmas markets (ex. in Gamla Linköping, Ekenäs Slott)
 * Alpine skiing
   * [Yxbaken](https://www.yxbacken.nu/) in Norrköping
   * [Ombergsliden](http://ombergsliden.se/) in Omberg
 * Cross country skiing in [Sya Skiing club](https://www.syaskidklubb.se/) or in [Vreta Ski center](https://vretaskicenter.se/)
+* [Julbord](http://www.julbordsportalen.se/julbord-i-linkoping), traditional Christmas buffets
+* Julbord on a Kinda kanal cruise with [Rederi AB Kind](https://www.rederiabkind.se/vara-kryssningar/vinter-och-julupplevelse-med-ms-kind-i-linkoping/)
+* Julmarknad, traditional Christmas markets (ex. in Gamla Linköping, Ekenäs Slott)
+* Skiing on frozen lakes with [Linköpings Långfärdsskridskoklubb](https://www.llk.se/)
 * Winter lights walks
   * [Vinterljus](https://www.linkoping.se/vinterljuskampanj/) in Linköping
   * [Light festival](https://www.facebook.com/norrkopinglightfestival/) in Norrköping
