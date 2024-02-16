@@ -78,6 +78,7 @@ Summer
   * Hiking in [Torpön](https://www.ostgotaleden.se/sv/144769/Torpon-i-Sommen/)
 * Water sports
   * Jetboard with [Rimforsa Jetboards](https://rimforsajetboards.se/)
+  * Sailing on small boats (dinghy sailing) with [Linköpings Jolleseglarklubb](https://www.ljs.nu/)
   * SUP, kitesurfing and other with [Kite Kalle](https://www.kitekalle.se/linkoping.php)
   * Wakeboarding in the channel with [LKPG Wakepark](https://www.facebook.com/lkpgwakepark/)
   * Wakeboarding, wakesurfing or even water skiing with [Froggy](https://froggy.se/se/vattensport/kurser-wakeboard-info-kurs-wakeboard~244/)
