@@ -36,6 +36,7 @@ Winter
 Spring
 * [Kosläpp](https://www.arla.se/event-sponsring/koslapp/live/), release of cows in different places in the end of April
 * [Östergötland Spirar](https://www.ostgotadagarna.se/sv/om-ostergotland-spirar/)
+* [RoboCup Junior Sweden](https://robocupjunior.se/) a robot competition
 
 Any time
 * Cultural events in [Skylten](https://www.linkoping.se/skylten/)

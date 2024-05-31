@@ -8,6 +8,7 @@ Follow next link for suggestions on [team building activities](team_building_act
 Summer
 ------
 * Animals
+  * Agility training with your dog in [Linköpings Brukshundklubb](https://www.sbklinkoping.com/)
   * Horse riding at various places, like [Gibraltar Islandshästar](http://gibraltarislandshastar.se/) [Heda Ridklubb](https://www.hedaridklubb.se/), [Stenholmen](http://www.stenholmen.nu/), [Sjöberga Islandshästgård](http://www.sjoberga.se/), [Smedstad Ridsportcenter](https://hsoab.se/), [Trollmarker SPA & Ridning](https://trollmarker.se/ridning/), [Ödegårdens Ridanläggning](https://odegarden.se/)
   * [Kolmården](https://www.kolmarden.com/), big animal park
   * [Möjligheternas gård](http://www.mojligheternasgard.se/) farm with animals and activities
@@ -15,6 +16,13 @@ Summer
   * [Vikbolands Struts](https://vikbolandsstruts.se/) an ostrich farm with a small petting zoo
   * Wild animals safari with [Pelles Viltsafari](https://www.viltsafari.se/)
   * Walks with alpackas with [DjurLådan](https://djurladan.se/tjanster/aktiviterer), [Jägarbo Alpaca](https://www.facebook.com/jagarbo.alpaca.9/) or with [Tulos åsne och alpacka farm](https://tulosfarm.se/upplevelser) (last one even have a donkey)
+* Bathing
+  * Bergs slussar, bath + observe boats going through gates
+  * Blå lagun in Linköping, idyllic place next to Mjärdevi
+  * Blå lagun in Skänninge, amazingly looking artificial lake
+  * Sturefors beach, perfect for families with kids
+  * [Varamobaden](http://varamobaden.se/) in Motala is a great place with lots of activities
+  * [Valkebobadet](https://www.valkebobadet.se/Start) in Vikingstad with outdoor swimming pools
 * Biking
   * A day trip biking around Visingsö near Gränna
   * Bike to Berg gates or around it with [rented bikes](https://www.gotakanal.se/sv/cykelsemester/cykelpaket)
@@ -57,12 +65,6 @@ Summer
   * Strawberries at [Tift farm](http://tift.se/) (very close to Linköping), [Hydéns jordgubbar](https://www.facebook.com/Hyd%C3%A9ns-jordgubbar-106734317974/)(a bit outside of Linköping) or at [Skedevi Gård](https://skedevigard.com/) (a bit far from Linköping), [Fylla Gård](https://www.fyllagard.se/)
   * [Various products from farmers](https://www.gardsnara.se/ostergotland)
   * Vegetables from [Tomatboden](http://www.tomatboden.se/aktuellt/) and [Hermelins](https://www.hermelins.se/gronsaker/)
-* Swimming
-  * Bergs slussar, swim + observe boats going through gates
-  * Blå lagun in Linköping, idyllic place next to Mjärdevi
-  * Blå lagun in Skänninge, amazingly looking artificial lake
-  * Sturefors beach, perfect for families with kids
-  * [Varamobaden](http://varamobaden.se/) in Motala is a great place with lots of activities
 * Tree climbing parks
   * [Sörsjöns Äventyrspark](https://aventyrsupplevelser.com/sorsjon/) with a fantastic zip line over a Sörsjön lake
   * [HaMa Adventures](https://www.facebook.com/HaMaAdventures/) in Linköping's Vidingsjö Motionscentrum
@@ -78,7 +80,7 @@ Summer
   * Hiking in [Torpön](https://www.ostgotaleden.se/sv/144769/Torpon-i-Sommen/)
 * Water sports
   * Jetboard with [Rimforsa Jetboards](https://rimforsajetboards.se/)
-  * Sailing on small boats (dinghy sailing) with [Linköpings Jolleseglarklubb](https://www.ljs.nu/)
+  * Sailing on small boats (dinghy sailing) with [Linköpings Jolleseglarklubb](https://www.ljs.nu/) or [Vikingarnas Segel Sällskap](https://vss.nu/)
   * SUP, kitesurfing and other with [Kite Kalle](https://www.kitekalle.se/linkoping.php)
   * Wakeboarding in the channel with [LKPG Wakepark](https://www.facebook.com/lkpgwakepark/)
   * Wakeboarding, wakesurfing or even water skiing with [Froggy](https://froggy.se/se/vattensport/kurser-wakeboard-info-kurs-wakeboard~244/)
