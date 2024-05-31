@@ -19,7 +19,7 @@ Autumn
 * [LiU Game Conference](https://www.facebook.com/liugameconf/) for everyone who is interested in games
 * [Mjärdevi by night](https://linkopingsciencepark.se/event/science-park-by-night/) in September
 * [Matnatten](https://matnatten.se/) evening to try, discover and enjoy food
-* [MonsterTruck StuntShow](https://www.team-klaas.com/index.html) by team Klaas
+* [MonsterTruck StuntShow](https://www.facebook.com/monstertruckstuntshow/) by team Klaas
 * [Motala Kulturnatt](https://www.motala.se/uppleva-och-gora/kultur/kulturnatt/), a night full of cultural activities in Motala
 * [Norrköping Kulturnatten](https://visit.norrkoping.se/se-och-gora/storre-evenemang/kulturnatten), culture night full of activities in Norrköping
 * [Norrköpings Filmfestival Flimmer](https://www.flimmer.nu/filmfestival) a weekend long film festival

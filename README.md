@@ -88,13 +88,12 @@ Summer
   * Windsurfing in Linköping with [Linsurf](https://www.linsurf.se/)
 * Other
   * Fishing with [Sportfiskarna](https://www.sportfiskarna.se/) in various places
-  * Floating sauna (bastuflotte) on the Göta kannal at [Claudia's Gastrobar & Glass](https://www.claudiasgg.se/)
   * Football golf with [Sjöstorps Fotbollsgolf](http://www.sjostorpsfotbollsgolf.se/)
   * Glamping (glamorous camping) is possible with [Go Glamping Sweden](https://goglampingsweden.se/) in Berg, [Skogsrum](https://naturlogi.se/skogsrum/) in Verklighetens Gård, [Camping deluxe](https://www.vardnas.se/boende/glamping-camping-deluxe.html) in Vårdnäs, [Glashus](https://www.sommarhagen.se/SV/Upplevelser/Glamping) in hotell Sommarhagen, in [Sörby](https://sorbyglamping.se/) and in few other places
   * Glass blowing in [Mantorp Glasbruk](https://www.mantorpglasbruk.se/)
   * Guiding tours with [Linköpingsguideklubb](http://linkopingsguideklubb.se/kalender-guidningar/)
   * [Linköpings Motorsällskap](https://www.svenskalag.se/linkopingsmotorsallskap) club with number of racing subclubs: motocross, karting, enduro, trial, speedway, radio controlled and others
-  * Nature experience and courses at [Borkhults Natur&Kultur](https://www.borkhult.se/kurser.html)
+  * Nature experience and courses at [Borkhults Natur&Kultur](https://www.borkhult.se)
   * Outdoor camping and [climbing near Ågelsjön](https://www.naturkartan.se/sv/ostergotlands-lan/klattring-vid-agelsjon)
   * Parachute jumps with [Linköpings Fallskärmsklubb](https://linkopingsfallskarmsklubb.se/)
   * Sailing is a quite popular hobby, why not to go for a course with [Svenska Seglarförbundet](https://www.svensksegling.se/upptack-segling/seglarskola/)

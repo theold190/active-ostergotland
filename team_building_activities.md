@@ -30,7 +30,7 @@ Sport / active
 * [AktivGruppen](https://www.aktivgruppen.se/kickoff-aktiviteter/) offers a set of kick off activities
 * [Bodaborg](https://www.bodaborg.se/#intro) a place with various challenge rooms
 * [Ballpoint Paintball](http://www.ballpoint.se/)
-* [Beach Arena](https://beacharena.se/event-och-foretag/event/) with events on sand all year around
+* [Beach Arena](https://beacharena.se/) with events on sand all year around
 * [Bråvikslinjen](https://bravikslinjen.se/actionfyllda-helgmysturer) offers an action packed weekend in spring and autumn at the coast (seal safari, tour in lighthouse, dinner, bath and sauna)
 * [Crazy Race](https://torpagard.com/motorsport/crazyrace/) and other activities at Torpa Gård
 * [Curling](http://www.mjolbycurling.se/?page_id=1224) in Mjölby
