@@ -25,7 +25,6 @@ Autumn
 * [Norrköpings Filmfestival Flimmer](https://www.flimmer.nu/filmfestival) a weekend long film festival
 * Student spexet theatre performance by [StudentSpex](https://www.studentspex.se/) and [HolgerSpexet](https://www.holgerspexet.se/)
 * [Svensk blåsmusik festival](https://svenskblasmusik.se/)
-* [Vildsvinsfestivalen i eklandskapet](https://eklandskapsgris.se/vildsvinsfestivalen/) a festival dedicated to wild boars and food <!-- markdown-link-check-disable-line -->
 * [Östgötadagarna](https://www.ostgotadagarna.se/sv/), with open doors at local shops, farms, artists in September
 
 Winter

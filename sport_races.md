@@ -8,7 +8,6 @@ Here is a collection of ideas for various team activities in [Östergötland](ht
 * [City Run Linköping](https://www.facebook.com/cityrunoffical/) a city run in a center of Linköping
 * [Color Obstacle Rush](https://colorobstaclerush.se/) that is more of a fun event than an actual run
 * [Göta kanal SUP-lopp](https://www.facebook.com/thedownwinder/) a Stand Up Padling race in Borensberg
-* [ICA Klassikern](https://icaklassikern.se/) an ICA's take of a Swedish Classic (can be done in many steps)
 * [Kanallöpet](http://www.kanallopet.com/) a running event along Göta Kanal
 * [Mjärdevistafetten](https://linkopingsciencepark.se/event/mjardevistafetten-2022/) a running relay organized by Linköping Science Park
 * [Sommen Runt](https://www.svenskalag.se/sommenrunt) a biking race around a lake (75 km and 125 km long)

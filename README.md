@@ -11,7 +11,7 @@ Summer
   * Agility training with your dog in [Linköpings Brukshundklubb](https://www.sbklinkoping.com/)
   * Horse riding at various places, like [Gibraltar Islandshästar](http://gibraltarislandshastar.se/) [Heda Ridklubb](https://www.hedaridklubb.se/), [Stenholmen](http://www.stenholmen.nu/), [Sjöberga Islandshästgård](http://www.sjoberga.se/), [Smedstad Ridsportcenter](https://hsoab.se/), [Trollmarker SPA & Ridning](https://trollmarker.se/ridning/), [Ödegårdens Ridanläggning](https://odegarden.se/)
   * [Kolmården](https://www.kolmarden.com/), big animal park
-  * [Möjligheternas gård](http://www.mojligheternasgard.se/) farm with animals and activities
+  * [Möjligheternas gård](https://www.mojligheternasgard.se/) farm with animals and activities
   * [Björkö 4H](https://www.4h.se/bjorko) petting zoo, where kids can touch animals, take care of them and go through courses
   * [Vikbolands Struts](https://vikbolandsstruts.se/) an ostrich farm with a small petting zoo
   * Wild animals safari with [Pelles Viltsafari](https://www.viltsafari.se/)
@@ -160,7 +160,6 @@ Any time
   * [Bodaborg](https://www.bodaborg.se/#intro) a place with various challenge rooms
   * [Excape house](https://escapehouse.se/) in Linköping and Norrköping
   * [Twisted Keys](http://www.twistedkeys.com/en/home/) in Norrköping
-  * [Questropolis](https://questropolis.se/) solve puzzles with your phone in your city
   * [CluedUpp Games](https://www.cluedupp.com/) is a city detective puzzle
   * Play board games in Norrköpings [brädspelscafe](https://bradspelscafe.se/aktiviteter/) or in Linköpings [Fiction Prescription](https://www.facebook.com/fiction.prescription/events)
   * Meet indie game developers at [East Sweden Game](https://eastswedengame.se/activities/) events
