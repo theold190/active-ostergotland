@@ -1,0 +1,8 @@
+dirs:
+  - .
+
+useGitIgnore: true
+
+ignorePatterns:
+  - pattern: '^https:\/\/www.facebook.com/.*$'
+  
