@@ -12,6 +12,7 @@ Summer
 * [Music vid Göta kanal](https://www.musikvidgotakanal.com/) a serie of concerts at an old locomotive workshop
 * [NärCon](https://www.narcon.se/) festival dedicated to cosplay and games
 * [Skogsröjet](https://skogsrojet.se/) music festival in Rejmyre in the end of July
+* Students' bal is a spectacular event in June. For those who likes to see nice suits and dresses and exotic cars.
 * [Tidernas sommar](https://gamlalinkoping.se/tidernas-sommar/), various summer activities in Gamla Linköping
 
 Autumn

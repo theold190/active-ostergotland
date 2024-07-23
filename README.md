@@ -11,7 +11,7 @@ Summer
   * Agility training with your dog in [Linköpings Brukshundklubb](https://www.sbklinkoping.com/)
   * Horse riding at various places, like [Gibraltar Islandshästar](http://gibraltarislandshastar.se/) [Heda Ridklubb](https://www.hedaridklubb.se/), [Stenholmen](http://www.stenholmen.nu/), [Sjöberga Islandshästgård](http://www.sjoberga.se/), [Smedstad Ridsportcenter](https://hsoab.se/), [Trollmarker SPA & Ridning](https://trollmarker.se/ridning/), [Ödegårdens Ridanläggning](https://odegarden.se/)
   * [Kolmården](https://www.kolmarden.com/), big animal park
-  * [Möjligheternas gård](https://www.mojligheternasgard.se/) farm with animals and activities
+  * [Möjligheternas gård](https://mojligheternasgard.se/) farm with animals and activities
   * [Björkö 4H](https://www.4h.se/bjorko) petting zoo, where kids can touch animals, take care of them and go through courses
   * [Vikbolands Struts](https://vikbolandsstruts.se/) an ostrich farm with a small petting zoo
   * Wild animals safari with [Pelles Viltsafari](https://www.viltsafari.se/)
@@ -81,6 +81,7 @@ Summer
 * Water sports
   * Jetboard with [Rimforsa Jetboards](https://rimforsajetboards.se/)
   * Sailing on small boats (dinghy sailing) with [Linköpings Jolleseglarklubb](https://www.ljs.nu/) or [Vikingarnas Segel Sällskap](https://vss.nu/)
+  * Sailing is a quite popular hobby, why not to go for a course with [Svenska Seglarförbundet](https://www.svensksegling.se/upptack-segling/seglarskola/)
   * SUP, kitesurfing and other with [Kite Kalle](https://www.kitekalle.se/linkoping.php)
   * Wakeboarding in the channel with [LKPG Wakepark](https://www.facebook.com/lkpgwakepark/)
   * Wakeboarding, wakesurfing or even water skiing with [Froggy](https://froggy.se/se/vattensport/kurser-wakeboard-info-kurs-wakeboard~244/)
@@ -96,7 +97,6 @@ Summer
   * Nature experience and courses at [Borkhults Natur&Kultur](https://www.borkhult.se)
   * Outdoor camping and [climbing near Ågelsjön](https://www.naturkartan.se/sv/ostergotlands-lan/klattring-vid-agelsjon)
   * Parachute jumps with [Linköpings Fallskärmsklubb](https://linkopingsfallskarmsklubb.se/)
-  * Sailing is a quite popular hobby, why not to go for a course with [Svenska Seglarförbundet](https://www.svensksegling.se/upptack-segling/seglarskola/)
   * [Sexparty](https://sexparty.se/) to learn something new about sex toys
   * Shoot a [sun cannon](http://solkanonklubben.se/solkanonen/) in Åtvidaberg
   * Try obstacle course races with [Linköping OCR](https://www.facebook.com/linkopingocr)
