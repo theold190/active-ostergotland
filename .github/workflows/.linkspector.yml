@@ -9,3 +9,4 @@ ignorePatterns:
   - pattern: '^https:\/\/www.facebook.com/.*$'
   - pattern: '^https:\/\/www.filmstaden.se/.*$'
   - pattern: '^https:\/\/www.hjortslund.se/.*$'
+  - pattern: '^https:\/\/www.tomatboden.se/.*$'

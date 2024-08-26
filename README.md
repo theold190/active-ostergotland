@@ -145,6 +145,7 @@ Any time
   * Do something with your hands at [Makerspace Linköping](https://makerslink.se/)
   * Furniture renovation courses with [Relove me](https://reloveme.se/kurser/)
   * Handicraft courses with [Hemslöjden i Östergötland](https://www.hemslojdeniostergotland.se/kurser), [Gunnbäcks Konstigheter](https://www.gunnbackskonstigheter.se/pa-gang/) and sometimes [JustWood](https://justwood.se/blogs/news/taljworkshop)
+  * Get a course from a blacksmith in [Valla Gårdssmedja](https://maps.app.goo.gl/9Sw9bSyJhk4ndFV99)
   * Paint together with you family or friends at [Hälsokrukan](https://halsokrukan.se/aktivitet)
   * Pottery basics can be learned with [Hjortslunds Stengods](https://www.hjortslund.se/prova-pa-drejning/) or in [Keramikstudion](https://www.keramikstudion.se/)
 * Gymnastic / trampoles
