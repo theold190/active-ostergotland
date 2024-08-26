@@ -65,7 +65,7 @@ Summer
   * Raspberries at [Ombergsboden](http://www.ombergsboden.se/) (Omberg)
   * Strawberries at [Tift farm](http://tift.se/) (very close to Linköping), [Hydéns jordgubbar](https://www.facebook.com/Hyd%C3%A9ns-jordgubbar-106734317974/)(a bit outside of Linköping) or at [Skedevi Gård](https://skedevigard.com/) (a bit far from Linköping), [Fylla Gård](https://www.fyllagard.se/)
   * [Various products from farmers](https://www.gardsnara.se/ostergotland)
-  * Vegetables from [Tomatboden](http://www.tomatboden.se/aktuellt/) and [Hermelins](https://www.hermelins.se/gronsaker/)
+  * Vegetables from [Tomatboden](https://www.tomatboden.se/aktuellt/) and [Hermelins](https://www.hermelins.se/gronsaker/)
 * Tree climbing parks
   * [Sörsjöns Äventyrspark](https://aventyrsupplevelser.com/sorsjon/) with a fantastic zip line over a Sörsjön lake
   * [HaMa Adventures](https://www.facebook.com/HaMaAdventures/) in Linköping's Vidingsjö Motionscentrum
