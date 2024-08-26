@@ -9,13 +9,14 @@ Summer
 ------
 * Animals
   * Agility training with your dog in [Linköpings Brukshundklubb](https://www.sbklinkoping.com/)
+  * [Björkö 4H](https://www.4h.se/bjorko) petting zoo, where kids can touch animals, take care of them and go through courses
   * Horse riding at various places, like [Gibraltar Islandshästar](http://gibraltarislandshastar.se/) [Heda Ridklubb](https://www.hedaridklubb.se/), [Stenholmen](http://www.stenholmen.nu/), [Sjöberga Islandshästgård](http://www.sjoberga.se/), [Smedstad Ridsportcenter](https://hsoab.se/), [Trollmarker SPA & Ridning](https://trollmarker.se/ridning/), [Ödegårdens Ridanläggning](https://odegarden.se/)
   * [Kolmården](https://www.kolmarden.com/), big animal park
   * [Möjligheternas gård](https://mojligheternasgard.se/) farm with animals and activities
-  * [Björkö 4H](https://www.4h.se/bjorko) petting zoo, where kids can touch animals, take care of them and go through courses
+  * Ormsafari from local experts
   * [Vikbolands Struts](https://vikbolandsstruts.se/) an ostrich farm with a small petting zoo
   * Wild animals safari with [Pelles Viltsafari](https://www.viltsafari.se/)
-  * Walks with alpackas with [DjurLådan](https://djurladan.se/tjanster/aktiviterer), [Jägarbo Alpaca](https://www.facebook.com/jagarbo.alpaca.9/) or with [Tulos åsne och alpacka farm](https://tulosfarm.se/upplevelser) (last one even have a donkey)
+  * Walks with alpackas with [Jägarbo Alpaca](https://www.facebook.com/jagarbo.alpaca.9/) or with [Tulos åsne och alpacka farm](https://tulosfarm.se/upplevelser) (last one even have a donkey)
 * Bathing
   * Bergs slussar, bath + observe boats going through gates
   * Blå lagun in Linköping, idyllic place next to Mjärdevi
@@ -143,7 +144,7 @@ Any time
   * Create your own jewelry with [Hannas Silver](http://hannassilver.se/Kurser/)
   * Do something with your hands at [Makerspace Linköping](https://makerslink.se/)
   * Furniture renovation courses with [Relove me](https://reloveme.se/kurser/)
-  * Handicraft courses with [Hemslöjden i Östergötland](https://www.hemslojdeniostergotland.se/kurser) and [Gunnbäcks Konstigheter](https://www.gunnbackskonstigheter.se/pa-gang/)
+  * Handicraft courses with [Hemslöjden i Östergötland](https://www.hemslojdeniostergotland.se/kurser), [Gunnbäcks Konstigheter](https://www.gunnbackskonstigheter.se/pa-gang/) and sometimes [JustWood](https://justwood.se/blogs/news/taljworkshop)
   * Paint together with you family or friends at [Hälsokrukan](https://halsokrukan.se/aktivitet)
   * Pottery basics can be learned with [Hjortslunds Stengods](https://www.hjortslund.se/prova-pa-drejning/) or in [Keramikstudion](https://www.keramikstudion.se/)
 * Gymnastic / trampoles
@@ -160,7 +161,6 @@ Any time
   * [Bodaborg](https://www.bodaborg.se/#intro) a place with various challenge rooms
   * [Excape house](https://escapehouse.se/) in Linköping and Norrköping
   * [Twisted Keys](http://www.twistedkeys.com/en/home/) in Norrköping
-  * [CluedUpp Games](https://www.cluedupp.com/) is a city detective puzzle
   * Play board games in Norrköpings [brädspelscafe](https://bradspelscafe.se/aktiviteter/) or in Linköpings [Fiction Prescription](https://www.facebook.com/fiction.prescription/events)
   * Meet indie game developers at [East Sweden Game](https://eastswedengame.se/activities/) events
   * [Hobbyhörnan](http://www.hobbyhornan.com/) for those interested in creating, assembling, painting and playing models

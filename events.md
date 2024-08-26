@@ -4,6 +4,7 @@ Special events in Östergötland
 Here is a collection of different special events in [Östergötland](https://en.wikipedia.org/wiki/%C3%96sterg%C3%B6tland). List is based on personal experience, ideas and tips from friends. Feel free to share the information with others.
 
 Summer
+------
 * [Cirkus Olympia](https://www.cirkusolympia.se/) and [Cirkus Maximum](http://cirkusmaximum.se/) are visiting in the summer
 * [Linköping city week](https://visitlinkoping.se/linkopingsstadsfest) in the end of August
 * [Matmilen](https://www.matmilen.info/) festival organized by restaurants
@@ -16,6 +17,7 @@ Summer
 * [Tidernas sommar](https://gamlalinkoping.se/tidernas-sommar/), various summer activities in Gamla Linköping
 
 Autumn
+------
 * Halloween days in [Bodaborg](https://www.bodaborg.se/), [Kolmården](https://www.kolmarden.com/)
 * [LiU Game Conference](https://www.facebook.com/liugameconf/) for everyone who is interested in games
 * [Mjärdevi by night](https://linkopingsciencepark.se/event/science-park-by-night/) in September
@@ -29,20 +31,24 @@ Autumn
 * [Östgötadagarna](https://www.ostgotadagarna.se/sv/), with open doors at local shops, farms, artists in September
 
 Winter
+------
 * [LARM](https://lintek.liu.se/framtid/larm/), LinTek’s Career Fair at Linköping University
 * [Lussevaka](https://www.filmstaden.se/lussevaka/), watch movies whole night in a SF Bio cinema one night in December
 * [Tidernas jul](https://gamlalinkoping.se/tidernas-jul/), various Christmas inspired events in Gamla Linköping
 
 Spring
+------
 * [Kosläpp](https://www.arla.se/event-sponsring/koslapp/live/), release of cows in different places in the end of April
 * [Östergötland Spirar](https://www.ostgotadagarna.se/sv/om-ostergotland-spirar/)
 * [RoboCup Junior Sweden](https://robocupjunior.se/) a robot competition
 
 Any time
+--------
 * Cultural events in [Skylten](https://www.linkoping.se/skylten/)
 * [Travelling, wine and whisky, games and cosplay, job fairs](https://www.allamassor.se/location/ostergotland/) and even a [book fair](https://www.tellus.link/) that happen all year around
 
 Other collections
+-----------------
 * [Goto10](https://www.goto10.se/event/?event_type=linkoping) in Linköping has events in Linköping Science Park
 * [Linköping Science Park](https://linkopingsciencepark.se/events/) and related events
 * [På Gång i Östergötland](https://www.pagang.info/) offers a list of various activities and events
