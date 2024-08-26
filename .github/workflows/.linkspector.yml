@@ -7,4 +7,4 @@ useGitIgnore: true
 
 ignorePatterns:
   - pattern: '^https:\/\/www.facebook.com/.*$'
-  
+  - pattern: '^https:\/\/www.filmstaden.se/.*$'
