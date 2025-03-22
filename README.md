@@ -64,6 +64,7 @@ Summer
   * Pumpkins at [Ekö Pumpan](https://www.facebook.com/ekopumpan)
   * Raspberries at [Ombergsboden](http://www.ombergsboden.se/) (Omberg)
   * Strawberries at [Tift farm](http://tift.se/) (very close to Linköping), [Hydéns jordgubbar](https://www.facebook.com/Hyd%C3%A9ns-jordgubbar-106734317974/)(a bit outside of Linköping) or at [Skedevi Gård](https://skedevigard.com/) (a bit far from Linköping), [Fylla Gård](https://www.fyllagard.se/)
+  * Sunflowers from [Fylla Gård](https://fyllagard.se/)
   * [Various products from farmers](https://www.gardsnara.se/ostergotland)
   * Vegetables from [Tomatboden](https://www.tomatboden.se/aktuellt/) and [Hermelins](https://www.hermelins.se/gronsaker/)
 * Tree climbing parks
@@ -96,6 +97,7 @@ Summer
   * Guiding tours with [Linköpingsguideklubb](http://linkopingsguideklubb.se/kalender-guidningar/)
   * [Linköpings Motorsällskap](https://www.svenskalag.se/linkopingsmotorsallskap) club with number of racing subclubs: motocross, karting, enduro, trial, speedway, radio controlled and others
   * Nature experience and courses at [Borkhults Natur&Kultur](https://www.borkhult.se)
+  * Nature adventures in [Palstorp: Aventyrsgård och Skogsby](https://palstorp.se/#/)
   * Outdoor camping and [climbing near Ågelsjön](https://www.naturkartan.se/sv/ostergotlands-lan/klattring-vid-agelsjon)
   * Parachute jumps with [Linköpings Fallskärmsklubb](https://linkopingsfallskarmsklubb.se/)
   * [Sexparty](https://sexparty.se/) to learn something new about sex toys
@@ -144,6 +146,7 @@ Any time
   * Create your own jewelry with [Hannas Silver](http://hannassilver.se/Kurser/)
   * Do something with your hands at [Makerspace Linköping](https://makerslink.se/)
   * Furniture renovation courses with [Relove me](https://reloveme.se/kurser/)
+  * Handcraft event CrAfterwork and various courses at [Berg o Granboms](https://www.bergogranboms.se/pages/karta)
   * Handicraft courses with [Hemslöjden i Östergötland](https://www.hemslojdeniostergotland.se/kurser), [Gunnbäcks Konstigheter](https://www.gunnbackskonstigheter.se/pa-gang/) and sometimes [JustWood](https://justwood.se/blogs/news/taljworkshop)
   * Get a course from a blacksmith in [Valla Gårdssmedja](https://maps.app.goo.gl/9Sw9bSyJhk4ndFV99)
   * Paint together with you family or friends at [Hälsokrukan](https://halsokrukan.se/aktivitet)

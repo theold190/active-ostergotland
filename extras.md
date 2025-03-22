@@ -26,6 +26,7 @@ Events
 * [DreamHack](https://dreamhack.com/) LAN party for those who loves computer games
 * [Gärdesloppet](https://kak.se/gardesloppet/) race with vintage cars in Stockholm
 * [Hallifornia](https://www.hallifornia.se/) a sport, activity and art festival in Varberg
+* [Run For Your Lives](https://runforyourlives.se/) is a running race where you have to get through a zombie apocalypse city
 * [Outdoor Festival](https://www.outdoorfestival.se/) near Stockholm
 * [Vikingaliv på Ekehagen](https://www.falkoping.se/ekehagens-forntidsby/nyheter-ekehagens-forntidsby/nyheter-ekehagens-forntidsby/2024-07-18-vikingaliv-pa-ekehagen-10-8) shows how vikings lived, open air museum with actors
 * [Westcoast Playground Festival](https://www.alternativaktivitet.se/wcpf) - parkour and trampoline paradise
