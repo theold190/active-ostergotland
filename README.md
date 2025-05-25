@@ -96,6 +96,7 @@ Summer
   * Glass blowing in [Mantorp Glasbruk](https://www.mantorpglasbruk.se/)
   * Guiding tours with [Linköpingsguideklubb](http://linkopingsguideklubb.se/kalender-guidningar/)
   * [Linköpings Motorsällskap](https://www.svenskalag.se/linkopingsmotorsallskap) club with number of racing subclubs: motocross, karting, enduro, trial, speedway, radio controlled and others
+  * Minigolf or adventure golf in various places like [Vidingsjö](https://vidingsjo.com/), [Berg Slussar](https://www.bergsslussar.com/aventyrsgolf/), [Linköping City](https://aventyrsgolfcity.se/), [Valla](https://www.vallaminigolf.se/)
   * Nature experience and courses at [Borkhults Natur&Kultur](https://www.borkhult.se)
   * Nature adventures in [Palstorp: Aventyrsgård och Skogsby](https://palstorp.se/#/)
   * Outdoor camping and [climbing near Ågelsjön](https://www.naturkartan.se/sv/ostergotlands-lan/klattring-vid-agelsjon)
@@ -153,7 +154,8 @@ Any time
   * Pottery basics can be learned with [Hjortslunds Stengods](https://www.hjortslund.se/prova-pa-drejning/) or in [Keramikstudion](https://www.keramikstudion.se/)
 * Gymnastic / trampoles
   * Poledance, aerial acrobatics with [FLOW](https://flowpole.se/linkoping/) in Linköping
-  * [Nikegymnasterna](http://www.nikegymnasterna.com/) gymnastic hall with activities
+  * Gymnastics club [Linköpings Gymnastiksällskap](https://www.lgs-gymnastik.se/start/)
+  * [Nikegymnasterna](http://www.nikegymnasterna.com/) gymnastic hall with activities (ex. parkour)
   * [Yoump](https://www.yoump.se/), trampoline park
   * [Cirkus-Emma](http://www.cirkusemma.se/) has various courses - acroyoga, learning a handstand, cirkus for kids
 * Orientation on nature
@@ -184,6 +186,7 @@ Any time
   * Hiking together with [local section of STF](https://www.svenskaturistforeningen.se/engagemang/lokalavdelningar/stf-linkoping/) (Swedish Tourist Association)
   * Impressive skogsrum, natural camping, cooking in the forest, yoga and other nature activities with [Naturologi](https://naturlogi.se/)
   * Indoor climbing in [Hangaren](https://hangaren.org/) with help/guiding from [Linköpings klätterklubb](https://linkopingsklatterklubb.se/prova-pa/)
+  * Indoor bouldering with [Urban Boulders](https://urbanboulders.se/)
   * [Linköping Discgolf](https://www.lkpgdg.se/)<!-- markdown-link-check-disable-line -->
   * Open air activities with [Luften är fri](https://www.luftenarfri.nu/)
   * Pistol shooting with [Mjölby Pistolklubb](https://www.mjolbypk.se/)
