@@ -42,6 +42,7 @@ Sport / active
 * Kayaking/canoeing in [Vårdnäs Stiftsgård](http://www.vardnas.se/)
 * [Laserdome](http://www.laserdome-linkoping.se/) an indoor laser tag game
 * [Motion race](http://www.motionsrace.com/Tjanster.html) offers both a physical training and team building
+* [Möjligheternas gård](https://mojligheternasgard.se/) place with various group activities
 * [Rimforsa strand](https://www.rimforsastrand.se/se-och-gora/teamaktiviteter/)'s collection of activities like shooting, knock on wood, team challenges
 * Various water activities with [Ostkustenkajak](https://ostkustenkajak.se/foretagsevent/) (ex. SUP, kajaking)
 * VR action games in [Knock'em down](https://eventcenter.se/norrkoping/vrex-norrkoping/) event center
